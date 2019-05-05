@@ -1,5 +1,5 @@
 <template>
-  <v-toolbar class="white" fixed light flat>
+  <v-toolbar class="white elevation-5" fixed light>
     <v-toolbar-side-icon
       class="black--text"
       @click.native.stop="updateToggleSidebar()"
@@ -11,7 +11,7 @@
       </a>
     </v-toolbar-title>
     <v-divider class="ml-3 mr-3 hidden-xs-only" inset vertical></v-divider>
-    <span class="font-size-24 font-weight-bold hidden-xs-only">Sanyanee</span>
+    <span class="headline font-weight-bold hidden-xs-only">Juné BNK48</span>
     <v-spacer class="hidden-xs-only"></v-spacer>
     <v-toolbar-items v-for="(item, index) in menu" :key="index">
       <v-btn
@@ -42,9 +42,7 @@ export default {
   },
   computed: {
     logo() {
-      return process.env.VUE_APP_LOGO_BLACK
-        ? process.env.VUE_APP_LOGO_BLACK
-        : ''
+      return process.env.VUE_APP_FAVICON ? process.env.VUE_APP_FAVICON : ''
     }
   },
   methods: {

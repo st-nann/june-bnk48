@@ -8,6 +8,8 @@ DEBUG                           boolean     debug log
 TITLE                           string      title website
 FAVICON_NAME                    string      favicon\'s location name on firebase storage
 FAVICON_TOKEN                   string      favicon\'s token on firebase storage
+LOGO_TRANSPARENT_NAME           string      logo\'s location name on firebase storage (transparent)
+LOGO_TRANSPARENT_TOKEN          string      logo\'s token on firebase storage (transparent)
 LOGO_CREATOR_NAME               string      logo\'s location name on firebase storage (creator)
 LOGO_CREATOR_TOKEN              string      logo\'s token on firebase storage (creator)
 ```

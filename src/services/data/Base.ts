@@ -4,37 +4,37 @@ module.exports = {
       name: 'Profile',
       value: 'profile',
       route: '/profile',
-      icon: 'clippy'
+      icon: 'emoticon-wink-outline'
     },
     {
       name: 'Schedule Event',
       value: 'schedule_event',
       route: '/schedule_event',
-      icon: 'school'
+      icon: 'calendar'
     },
     {
       name: 'Performance',
       value: 'performance',
       route: '/performance',
-      icon: 'shape-plus'
+      icon: 'theater'
     },
     {
       name: 'Gallery',
       value: 'gallery',
       route: '/gallery',
-      icon: 'graphql'
+      icon: 'film'
     },
     {
       name: 'Fan Songs',
       value: 'fan_song',
       route: '/fan_song',
-      icon: 'graphql'
+      icon: 'piano'
     },
     {
       name: 'Shop',
       value: 'shop',
       route: '/shop',
-      icon: 'map-marker-radius'
+      icon: 'cart'
     },
     {
       name: 'Contacts',
@@ -43,30 +43,59 @@ module.exports = {
       icon: 'map-marker-radius'
     }
   ],
+  contact: [
+    {
+      name: 'base%2Flogo%2Ffacebook',
+      token: '4dbcabd0-97ba-48e8-ab6a-dbffd0c1ced8',
+      detail: {
+        title: 'Facebook Page',
+        description: 'mukashi1911',
+        link: 'https://www.facebook.com/mukashi1911'
+      }
+    },
+    {
+      name: 'base%2Flogo%2Finstagram',
+      token: '6f67cb98-64b8-404b-adb8-3ddcb67f7d2f',
+      detail: {
+        title: 'Instagram',
+        description: 'mukashi1911',
+        link: 'https://www.instagram.com/mukashi1911'
+      }
+    },
+    {
+      name: 'base%2Flogo%2Ftwitter',
+      token: '32c0e0bc-6e34-435d-a26b-3c707d9f096a',
+      detail: {
+        title: 'Twitter',
+        description: '@mukashi1911',
+        link: 'https://twitter.com/mukashi1911'
+      }
+    }
+  ],
   img_sidebar: [
     {
-      name: 'sidebar%2Fsidebar-001',
-      token: '9c5b23b1-58d2-4e9f-92ba-943bc909401e'
+      name: 'base%2Fsidebar%2Fsidebar-001',
+      token: '67c9668d-f986-4583-aebe-2a04f707fd73'
     },
     {
-      name: 'sidebar%2Fsidebar-002',
-      token: '94b09412-dd28-4e03-b734-4223b00c98da'
+      name: 'base%2Fsidebar%2Fsidebar-002',
+      token: 'a3b616d8-f5f6-4553-afa0-280d5e7e8d66'
     },
     {
-      name: 'sidebar%2Fsidebar-003',
-      token: '323ea64d-b5c9-486e-a8e6-4f9ba3d1d301'
+      name: 'base%2Fsidebar%2Fsidebar-003',
+      token: '2324976d-f603-45e7-af3a-4c7f76a2f362'
     },
     {
-      name: 'sidebar%2Fsidebar-004',
-      token: 'e1d3b0db-3b79-4f59-a7ca-32f04f331eee'
+      name: 'base%2Fsidebar%2Fsidebar-004',
+      token: '6d073c15-b31a-4822-90e2-8460a5b1eb9a'
     },
     {
-      name: 'sidebar%2Fsidebar-005',
-      token: '6b2ce303-db04-4fc3-b3d9-de0969dd9521'
+      name: 'base%2Fsidebar%2Fsidebar-005',
+      token: '764e7826-ea41-4aa8-8915-1d06768b5443'
     },
     {
-      name: 'sidebar%2Fsidebar-006',
-      token: '286fe968-e3da-4ec8-98b0-eb2ca6c97600'
+      name: 'base%2Fsidebar%2Fsidebar-006',
+      token: 'ef60b365-8671-47e3-97f7-03acf0373c7c'
     }
   ]
 }

@@ -16,10 +16,8 @@ Vue.use(Vuetify, {
   theme: {
     offwhite: '#f4efe9',
     lightgrey: '#dfe0e0',
-    yellow: '#f1e7b7',
-    cinnamon: '#e0b265',
-    lightblue: '#d6eff8',
-    darkblue: '#3f4559',
+    yellow: '#f7d63b',
+    brown: '#ccaa76',
     info: colors.blue.base,
     warning: colors.amber.base,
     error: colors.red.base,
