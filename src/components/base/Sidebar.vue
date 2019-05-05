@@ -10,25 +10,25 @@
   >
     <v-layout row wrap class="text-xs-center mx-3">
       <v-flex xs12 class="pt-4">
-        <v-avatar class="elevation-7 avatar" color="offwhite" size="150">
+        <v-avatar class="elevation-7 avatar" color="yellow" size="150">
           <img :src="logo" alt="avatar" />
         </v-avatar>
       </v-flex>
       <v-flex xs12 class="pt-3 font-weight-bold subheading">
-        Sanyanee Thawinvongrak
+        Plearnpichaya Komalarajun
       </v-flex>
       <v-flex xs12 class="font-weigh-medium grey--text text--darken-3 caption">
-        ネン・サンヤーネィ・タビンボンラック
+        プルーンピチャヤー・コマラーラチュン
       </v-flex>
       <v-flex
         xs12
         class="font-size-10 font-weigh-thin grey--text text--darken-1 caption"
       >
-        st.sanyanee@hotmail.com
+        Juné BNK48「ジュネ」
       </v-flex>
       <v-flex xs12 class="pt-2">
         <v-btn
-          color="cinnamon"
+          color="brown"
           @click.native="updateToggleSidebar('home')"
           :to="{ path: '/' }"
           append
@@ -86,14 +86,28 @@
         </v-layout>
       </v-flex>
     </v-layout>
+    <v-layout row wrap class="text-xs-center py-3">
+      <v-flex xs12 class="pb-1">
+        ----------- created by -----------
+      </v-flex>
+      <v-flex xs12 v-for="(item, index) in contact" :key="index">
+        <img :src="doGetImage(item.name, item.token)" width="20px" />
+        <span style="vertical-align: super;">
+          {{ item.detail.description }}
+        </span>
+      </v-flex>
+      <v-flex xs12>
+        ------------------------------------
+      </v-flex>
+    </v-layout>
     <v-layout row wrap class="text-xs-center mx-3">
       <v-flex xs12 class="font-size-10 grey--text">
         <div>
-          Portfolio website v2.0.0
+          Juné BNK48 website v2.0.0
         </div>
         <div>
           <span class="caption">&copy;</span>
-          {{ new Date().getFullYear() }} Sanyanee Thawinvongrak
+          {{ new Date().getFullYear() }} Mukashi1911.bnk48
         </div>
       </v-flex>
     </v-layout>
@@ -110,6 +124,7 @@ export default {
   data() {
     return {
       menu: data.menu,
+      contact: data.contact,
       images: data.img_sidebar
     }
   },
@@ -118,8 +133,8 @@ export default {
       toggle_sidebar: state => state.toggle_sidebar
     }),
     logo() {
-      return process.env.VUE_APP_LOGO_NOTEXT_BLACK
-        ? process.env.VUE_APP_LOGO_NOTEXT_BLACK
+      return process.env.VUE_APP_LOGO_TRANSPARENT
+        ? process.env.VUE_APP_LOGO_TRANSPARENT
         : ''
     }
   },

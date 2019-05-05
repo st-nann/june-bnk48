@@ -58,6 +58,9 @@ export default {
 .application
   font-family: 'Didact Gothic', sans-serif !important
 
+.font-thai
+  font-family: 'Athiti', sans-serif !important
+
 .clickable
   cursor: pointer
 
