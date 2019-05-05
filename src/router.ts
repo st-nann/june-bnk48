@@ -1,0 +1,68 @@
+import Vue from 'vue'
+import Router from 'vue-router'
+
+Vue.use(Router)
+
+function loadApp() {
+  return () => import(`@/App.vue`)
+}
+
+function loadComponentBase(component: string) {
+  return () => import(`@/components/base/${component}.vue`)
+}
+
+function loadMainView(view: string) {
+  return () => import(`@/views/main/${view}.vue`)
+}
+
+export default new Router({
+  mode: 'history',
+  base: process.env.BASE_URL,
+  routes: [
+    {
+      path: '/',
+      meta: { title: 'Enter site', nolayout: true },
+      component: () => import(`@/views/EnterSite.vue`)
+    },
+    {
+      path: '/profile',
+      meta: { title: 'Profile', nolayout: false },
+      component: loadMainView('Profile')
+    },
+    {
+      path: '/schedule_event',
+      meta: { title: 'Schedule Event', nolayout: false },
+      component: loadMainView('ScheduleEvent')
+    },
+    {
+      path: '/performance',
+      meta: { title: 'Performance', nolayout: false },
+      component: loadMainView('Performance')
+    },
+    {
+      path: '/gallery',
+      meta: { title: 'Gallery', nolayout: false },
+      component: loadMainView('Gallery')
+    },
+    {
+      path: '/fan_song',
+      meta: { title: 'Fan Song', nolayout: false },
+      component: loadMainView('FanSong')
+    },
+    {
+      path: '/shop',
+      meta: { title: 'Shop', nolayout: false },
+      component: loadMainView(`Shop`)
+    },
+    {
+      path: '/contacts',
+      meta: { title: 'Contacts', nolayout: false },
+      component: loadMainView(`Contacts`)
+    },
+    {
+      path: '*',
+      meta: { title: 'Error - 404', nolayout: false },
+      component: loadComponentBase(`error/404`)
+    }
+  ]
+})
