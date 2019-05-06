@@ -52,7 +52,11 @@
                 :key="index"
                 class="px-3 py-2 subheading"
               >
-                <v-flex xs12 sm3 class="font-weight-bold grey--text text--darken-3">
+                <v-flex
+                  xs12
+                  sm3
+                  class="font-weight-bold grey--text text--darken-3"
+                >
                   {{ doConvertText(item) }}
                 </v-flex>
                 <v-flex xs12 sm9 class="font-thai">
