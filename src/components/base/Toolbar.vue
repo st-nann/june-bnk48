@@ -1,17 +1,10 @@
 <template>
-  <v-toolbar class="white elevation-5" fixed light>
-    <v-toolbar-side-icon
-      class="black--text"
-      @click.native.stop="updateToggleSidebar()"
-    ></v-toolbar-side-icon>
-    <v-spacer class="hidden-sm-and-up"></v-spacer>
+  <v-toolbar class="offwhite elevation-10 py-1" fixed light>
     <v-toolbar-title class="ml-0">
       <a href="/">
         <img class="mt-2 logo" :src="logo" />
       </a>
     </v-toolbar-title>
-    <v-divider class="ml-3 mr-3 hidden-xs-only" inset vertical></v-divider>
-    <span class="headline font-weight-bold hidden-xs-only">Juné BNK48</span>
     <v-spacer class="hidden-xs-only"></v-spacer>
     <v-toolbar-items v-for="(item, index) in menu" :key="index">
       <v-btn
@@ -27,6 +20,11 @@
         </span>
       </v-btn>
     </v-toolbar-items>
+    <v-spacer></v-spacer>
+    <v-toolbar-side-icon
+      class="black--text"
+      @click.native.stop="updateToggleSidebar()"
+    ></v-toolbar-side-icon>
   </v-toolbar>
 </template>
 

@@ -35,9 +35,10 @@ module.exports = {
       height: '169 cm.',
       province: 'Bangkok',
       blood_group: 'A',
-      hobby: 'วาดรูป ถ่ายรูป ฟังเพลง',
-      favorite: 'เฉาก๊วยนมสด, Corgi',
       dislike: 'Cat',
+      hobby: 'วาดรูป ถ่ายรูป ฟังเพลง',
+      languages: 'Thai, English, Russian',
+      generation: '2',
       team: 'Kenkyuusei (เคงคิวเซ)',
       catchphrase: {
         line1: 'บะหมี่หมูแดง แซลมอน ทับทิมกรอบ ลอดช่อง ก็ของโปรดจูเน่',

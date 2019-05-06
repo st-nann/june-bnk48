@@ -37,9 +37,9 @@ module.exports = {
       icon: 'cart'
     },
     {
-      name: 'Contacts',
-      value: 'contacts',
-      route: '/contacts',
+      name: 'Follow up',
+      value: 'follow_up',
+      route: '/follow_up',
       icon: 'map-marker-radius'
     }
   ],
