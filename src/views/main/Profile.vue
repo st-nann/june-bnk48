@@ -4,7 +4,7 @@
       <v-carousel
         class="elevation-20"
         :interval="5000"
-        :height="888"
+        :height="$vuetify.breakpoint.xs ? 300 : 888"
         :touch="{
           left: () => swipe('Left'),
           right: () => swipe('Right')
@@ -22,7 +22,14 @@
       </v-carousel>
     </v-flex>
     <v-flex xs12 lg4>
-      <v-card class="pa-5 elevation-0" color="transparent">
+      <v-card
+        class="elevation-0"
+        :class="{
+          'pa-3': $vuetify.breakpoint.xs,
+          'pa-5 ': $vuetify.breakpoint.smAndUp
+        }"
+        color="transparent"
+      >
         <v-card-text>
           <v-layout row wrap>
             <v-flex xs12>
@@ -98,6 +105,8 @@ export default {
 </script>
 
 <style lang="stylus" scoped>
+.carousel-item .v-image__image--cover
+  background-size: contain
 .line
   border: 2px solid #000000
   width: 100px

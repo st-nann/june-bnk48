@@ -18,6 +18,7 @@ Vue.use(Vuetify, {
     lightgrey: '#dfe0e0',
     yellow: '#f7d63b',
     brown: '#ccaa76',
+    lightbrown: '#ece0d2',
     info: colors.blue.base,
     warning: colors.amber.base,
     error: colors.red.base,

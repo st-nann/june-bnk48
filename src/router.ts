@@ -55,9 +55,9 @@ export default new Router({
       component: loadMainView(`Shop`)
     },
     {
-      path: '/contacts',
-      meta: { title: 'Contacts', nolayout: false },
-      component: loadMainView(`Contacts`)
+      path: '/follow_up',
+      meta: { title: 'Follow up', nolayout: false },
+      component: loadMainView(`FollowUp`)
     },
     {
       path: '*',
