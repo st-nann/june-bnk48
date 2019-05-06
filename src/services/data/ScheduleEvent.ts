@@ -9,14 +9,998 @@ module.exports = {
   */
   schedule_event: [
     {
+      date: '2018-03-27',
+      title: 'Digital live studio',
+      details: {
+        description:
+          '[Live] Digital live studio ผู้ผ่านการคัดเลือก Final Audition 94 คน (BNK48 2nd Generation) #2',
+        link: 'https://www.facebook.com/bnk48official/videos/1485411278252792/',
+        location: 'ตู้ปลา @The EmQuartier',
+        time: '18:00 - 18.45',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2018-06-02',
+      title:
+        'ร่วมเชียร์ทีมชาติไทยในการแข่งขันฟุตบอลอุ่นเครื่อง ระหว่างทีมชาติไทย และทีมชาติจีน',
+      details: {
+        description:
+          '[Event] ร่วมเชียร์ทีมชาติไทยในการแข่งขันฟุตบอลอุ่นเครื่อง ระหว่างทีมชาติไทย และทีมชาติจีน',
+        link: '',
+        location: '',
+        time: 'n/a',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-07-04',
+      title: 'Birthday 18th',
+      details: {
+        description: '',
+        location: '',
+        time: 'all day',
+        icon: 'cake-variant',
+        color: 'pink'
+      },
+      open: false
+    },
+    {
+      date: '2018-07-17',
+      title: 'BNK48 2nd generation the debut',
+      details: {
+        description: '[Debut] BNK48 2nd generation the debut',
+        link: 'https://www.facebook.com/bnk48official/videos/1619896274804291/',
+        location: 'The EmQuartier',
+        time: '18:00',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2018-07-18',
+      title: 'Digital live studio',
+      details: {
+        description: '[Live] Digital live studio',
+        link: 'https://www.facebook.com/bnk48official/videos/1621852567941995/',
+        location: 'ตู้ปลา @The EmQuartier',
+        time: '16:00',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2018-07-20',
+      title: 'Mthai music',
+      details: {
+        description: '[Live] Mthai music',
+        link: '',
+        location: '',
+        time: 'n/a',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-07-24',
+      title: 'งานเปิดตัว Samsung Galaxy J8',
+      details: {
+        description: '[Event] งานเปิดตัว Samsung Galaxy J8',
+        link: '',
+        location: '',
+        time: 'n/a',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-07-27',
+      title: 'ห้องข่าวบันเทิง',
+      details: {
+        description: '[Live] ห้องข่าวบันเทิง',
+        link: '',
+        location: '',
+        time: 'n/a',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-07-30',
+      title: 'Digital live studio',
+      details: {
+        description: '[Live] Digital live studio',
+        link: 'https://www.facebook.com/bnk48official/videos/1642049575922294/',
+        location: 'ตู้ปลา @The EmQuartier',
+        time: '16:00',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2018-08-04',
+      title: `Thailand Industry Expo 2018 'CHANGE to SHIFT'`,
+      details: {
+        description: `[Event] Thailand Industry Expo 2018 'CHANGE to SHIFT'`,
+        link: '',
+        location: '',
+        time: 'n/a',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-08-05',
+      title: '3 แซบ',
+      details: {
+        description: '[Record] 3 แซบ',
+        link: 'https://youtu.be/AUugtyGPlK4',
+        location: '',
+        time: '13:15 - 14:00',
+        icon: 'video-vintage',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-08-06',
+      title: 'แฉข่าวเช้า',
+      details: {
+        description: '[Live] แฉข่าวเช้า',
+        link: 'https://youtu.be/H0tawuyi2Xg',
+        location: '',
+        time: '08:00',
+        icon: 'video-vintage',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-08-08',
+      title: 'สยามรวมใจไทยช่วยลาว',
+      details: {
+        description: '[Event] สยามรวมใจไทยช่วยลาว',
+        link: '',
+        location: 'ลานน้ำพุ Siam Paragon',
+        time: '19:00 - 20:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-08-10',
+      title: 'BNK48 Trainee Stage「PARTY ga Hajimaru yo」',
+      details: {
+        description: `[Theater] NK48 Trainee Stage「PARTY ga Hajimaru yo」First Day Performance`,
+        link: '',
+        location: 'BNK48 The Campus 4th floor @The Mall Bangkapi',
+        time: '19:00',
+        icon: 'theater',
+        color: 'coral'
+      },
+      open: false
+    },
+    {
+      date: '2018-08-11',
+      title: 'Ten Ten LINE',
+      details: {
+        description: '[Live] Ten Ten LINE',
+        link: '',
+        location: '',
+        time: '20:00',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2018-08-13',
+      title: 'Digital live studio',
+      details: {
+        description: '[Live] Digital live studio',
+        link: 'https://www.facebook.com/bnk48official/videos/297673530966342/',
+        location: 'ตู้ปลา @The EmQuartier',
+        time: '16:00',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2018-08-15',
+      title: `Gala Premiere เปิดตัวภาพยนตร์ Girls Don't Cry`,
+      details: {
+        description: `[Movie] Gala Premiere เปิดตัวภาพยนตร์ Girls Don't Cry`,
+        link: '',
+        location: 'Siam Paragon',
+        time: '17:00 - 20:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-08-16',
+      title: `BNK48 3th Single 'Shonichi' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ BNK48 3th Single 'Shonichi' Handshake`,
+        link: '',
+        location: 'Bitec Bangna Hall 98 - 99',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2018-08-17',
+      title: `BNK48 3th Single 'Shonichi' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ BNK48 3th Single 'Shonichi' Handshake`,
+        link: '',
+        location: 'Bitec Bangna Hall 98 - 99',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2018-08-21',
+      title: 'Lolane Z-Cool BNK48 x BEAUTRIUM',
+      details: {
+        description: '[Live] Lolane Z-Cool BNK48 x BEAUTRIUM',
+        link: 'https://www.facebook.com/ZcoolThailand/videos/1582715248541988/',
+        location: 'Siam center',
+        time: '18:00 - 19:00',
+        icon: 'video-vintage',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-08-22',
+      title: 'เทศกาลท่องเที่ยวเมืองรอง',
+      details: {
+        description: '[Event] เทศกาลท่องเที่ยวเมืองรอง',
+        link: '',
+        location: 'ศูนย์ประชุมแห่งชาติสิริกิตติ์',
+        time: '19:00 - 19:30',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-08-24',
+      title: 'BNK48 Trainee Stage「PARTY ga Hajimaru yo」',
+      details: {
+        description: `[Theater] NK48 Trainee Stage「PARTY ga Hajimaru yo」`,
+        link: '',
+        location: 'BNK48 The Campus 4th floor @The Mall Bangkapi',
+        time: '19:00',
+        icon: 'theater',
+        color: 'coral'
+      },
+      open: false
+    },
+    {
+      date: '2018-08-26',
+      title: 'เสือ สิงห์ กระทิง แซ่บ',
+      details: {
+        description: '[TV Show] เสือ สิงห์ กระทิง แซ่บ',
+        link: '',
+        location: '',
+        time: '23:30 - 23:59',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-08-26',
+      title: 'ROADSHOW Samsung โคราช',
+      details: {
+        description: '[Event] ROADSHOW Samsung โคราช',
+        link: '',
+        location: '',
+        time: '15:00 - 16:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-08-29',
+      title: 'พลิกเกมธุรกิจ พลิกอนาคต THE REINVENTION',
+      details: {
+        description: '[Event] พลิกเกมธุรกิจ พลิกอนาคต THE REINVENTION',
+        link: '',
+        location: '',
+        time: 'n/a',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-09-02',
+      title: 'BNK48 2nd generation x Nippon Haku',
+      details: {
+        description: '[Event] BNK48 2nd generation x Nippon Haku',
+        link: '',
+        location: 'Siam Paragon',
+        time: '19:15 - 20:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-09-03',
+      title: `งานแถลงข่าว 'Thailand Game Show 2018'`,
+      details: {
+        description: `[Event] งานแถลงข่าว 'Thailand Game Show 2018'`,
+        link: '',
+        location: '',
+        time: 'n/a',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-09-05',
+      title: 'เชียร์ทีมชาติไทยชุด U-19 สู้ศึก GSB Bangkok Cup 2018',
+      details: {
+        description:
+          '[Event] เชียร์ทีมชาติไทยชุด U-19 สู้ศึก GSB Bangkok Cup 2018',
+        link: '',
+        location: 'สนามนิมิตรบุตร',
+        time: 'n/a',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-09-06',
+      title:
+        'งานแถลงข่าว โครงการส่งเสริมมหกรรมอาหารเพื่อการท่องเที่ยวสู่ระดับนานาชาติ จ.สุราษฏร์ธานี',
+      details: {
+        description:
+          '[Event] งานแถลงข่าว โครงการส่งเสริมมหกรรมอาหารเพื่อการท่องเที่ยวสู่ระดับนานาชาติ จ.สุราษฏร์ธานี',
+        link: '',
+        location: '',
+        time: 'n/a',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-09-07',
+      title: 'BNK48 Trainee Stage「PARTY ga Hajimaru yo」',
+      details: {
+        description: `[Theater] BNK48 Trainee Stage「PARTY ga Hajimaru yo」Bamboo's Birthday Stage`,
+        link: '',
+        location: 'BNK48 The Campus 4th floor @The Mall Bangkapi',
+        time: '19:00',
+        icon: 'theater',
+        color: 'coral'
+      },
+      open: false
+    },
+    {
+      date: '2018-09-08',
+      title: 'Rayong Motor Show 2018 : Rock on the road',
+      details: {
+        description: '[Event] Rayong Motor Show 2018 : Rock on the road',
+        link: '',
+        location: '',
+        time: 'n/a',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-09-09',
+      title: 'ROADSHOW Samsung : ภูเก็ต',
+      details: {
+        description: '[Event] ROADSHOW Samsung : ภูเก็ต',
+        link: '',
+        location: '',
+        time: 'n/a',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-09-11',
+      title: 'เชียร์ทีมชาติไทยชุด U-19 สู้ศึก GSB Bangkok Cup 2018',
+      details: {
+        description:
+          '[Event] เชียร์ทีมชาติไทยชุด U-19 สู้ศึก GSB Bangkok Cup 2018',
+        link: '',
+        location: 'สนามนิมิตรบุตร',
+        time: 'n/a',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-09-13',
+      title: 'HitZ Karaoke ฮิตซ์คาราโอเกะ ชั้น 23 EP.33',
+      details: {
+        description: '[Record] HitZ Karaoke ฮิตซ์คาราโอเกะ ชั้น 23 EP.33',
+        link: 'https://youtu.be/a0KrtaOijZQ',
+        location: '',
+        time: 'n/a',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-09-15',
+      title: 'BNK48 1st 2gether Concert',
+      details: {
+        description: '[Concert] BNK48 1st 2gether Concert (เปิดตัว Single 4)',
+        link: 'https://www.facebook.com/bnk48official/videos/242940219701674/',
+        location: 'ลานหน้า Central world',
+        time: '19:15 - 20:00',
+        icon: 'theater',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2018-09-22',
+      title: 'The muse pass season 6',
+      details: {
+        description: '[Event] The muse pass season 6',
+        link: '',
+        location: '',
+        time: '19:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-09-27',
+      title: 'Digital live studio',
+      details: {
+        description: '[Live] Digital live studio',
+        link: 'https://www.facebook.com/bnk48official/videos/332990397448266/',
+        location: 'ตู้ปลา @The EmQuartier',
+        time: '18:00',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2018-09-28',
+      title: 'Mobile Expo',
+      details: {
+        description: '[Event] Mobile Expo',
+        link: '',
+        location: '',
+        time: 'n/a',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-08-30',
+      title: `BNK48 1st album : River 2-shot event`,
+      details: {
+        description: `[2Shot] BNK48 1st album : River 2-shot event'`,
+        link: '',
+        location: 'Bitec Bangna Hall 98 - 99',
+        time: 'all day',
+        icon: 'camera',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2018-10-05',
+      title: 'Shell advance D-Day',
+      details: {
+        description: '[Event] Shell advance D-Day',
+        link: '',
+        location: '',
+        time: '18:30 - 19:30',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-10-05',
+      title: 'Digital live studio',
+      details: {
+        description: '[Live] Digital live studio',
+        link: 'https://www.facebook.com/bnk48official/videos/269882130527163/',
+        location: 'ตู้ปลา @The EmQuartier',
+        time: '18:00',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2018-10-07',
+      title: 'Singha E-sport pro league x BNK48',
+      details: {
+        description: '[Event] Singha E-sport pro league x BNK48',
+        link: '',
+        location: '',
+        time: 'ไม่ระบุเวลา',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-10-22',
+      title: 'Digital live studio',
+      details: {
+        description: '[Live] Digital live studio',
+        link: 'https://www.facebook.com/bnk48official/videos/423876384813219/',
+        location: 'ตู้ปลา @The EmQuartier',
+        time: '16:00',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2018-10-26',
+      title: 'OishiHoneyLemon x BNK48',
+      details: {
+        description: '[Event] งานเปิดตัว OishiHoneyLemon x BNK48',
+        link: 'https://youtu.be/_M9X5fK5XK8',
+        location: 'The street Ratchada',
+        time: '18.30',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-10-26',
+      title: 'BNK48 E-Sports Day',
+      details: {
+        description: '[Event] BNK48 E-Sports Day',
+        link: '',
+        location: 'Siam Paragon',
+        time: 'all day',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-10-28',
+      title: 'BNK48 E-Sports Day',
+      details: {
+        description: '[Event] BNK48 E-Sports Day',
+        link: '',
+        location: 'Siam Paragon',
+        time: 'all day',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-11-03',
+      title: `BNK48 4th Single 'Kimi wa Melody' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ 4th Single 'Kimi wa Melody'`,
+        link: '',
+        location: 'Bitec Bangna Hall 98 - 99',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2018-11-04',
+      title: `BNK48 4th Single 'Kimi wa Melody' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ 4th Single 'Kimi wa Melody'`,
+        link: '',
+        location: 'Bitec Bangna Hall 98 - 99',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2018-11-04',
+      title: 'POPNEWS',
+      details: {
+        description: '[Live] POPNEWS',
+        link: '',
+        location: '',
+        time: '16:30 - 17:00',
+        icon: 'video-vintage',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-11-08',
+      title: 'City of Sweet (งานขนม)',
+      details: {
+        description: '[Event] City of Sweet (งานขนม)',
+        link: '',
+        location: 'Terminal21 พัทยา',
+        time: '18:00 - 19:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-11-10',
+      title: 'Digital live studio',
+      details: {
+        description: '[Live] Digital live studio',
+        link: 'https://www.facebook.com/bnk48official/videos/355325511894596/',
+        location: 'ตู้ปลา @The EmQuartier',
+        time: '18:00',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2018-11-14',
+      title: `M2S - Grand Opening Event : แบรนด์ของออม "SUSHAR"`,
+      details: {
+        description: '[Event] งานเปิดตัวห้องเสื้อ ออม สุชาร์',
+        link: '',
+        location: 'Central world',
+        time: '18:00 - 21:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-11-21',
+      title: 'Press Conference Grab ชีวิตดีเมื่อมี Grab',
+      details: {
+        description: '[Event] Press Conference Grab ชีวิตดีเมื่อมี Grab',
+        link: '',
+        location: 'ลาน Aden 1st floor @Central world',
+        time: '18.30',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-11-23',
+      title: 'Grand Opening ร้าน Gontran Cherrier',
+      details: {
+        description: '[Event] Grand Opening ร้าน Gontran Cherrier',
+        link: '',
+        location: 'SINGHA COMPLEX',
+        time: '10:00 - 12:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-11-23',
+      title: 'X’mas Tree Light Up',
+      details: {
+        description: '[Mini Concert] X’mas Tree Light Up',
+        link: '',
+        location: 'CentralPlaza Mahachai',
+        time: '18:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-11-24',
+      title: 'Toyota Master CS:GO Bangkok 2018',
+      details: {
+        description:
+          '[Mini Concert] Toyota Master CS:GO Bangkok 2018 (เปิดตัว Single 5)',
+        link: '',
+        location: 'หัวหมาก Indoor Stadium',
+        time: '14:00 - 15:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-11-25',
+      title: 'Toyota Master CS:GO Bangkok 2018',
+      details: {
+        description: '[Mini Concert] Toyota Master CS:GO Bangkok 2018',
+        link: '',
+        location: 'หัวหมาก Indoor Stadium',
+        time: '11:00 - 12:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-11-25',
+      title: 'Thai E-League Pro',
+      details: {
+        description: '[Event] Thai E-League Pro',
+        link: '',
+        location: 'Esplanade รัชดา โรง 4',
+        time: '18:00 - 22:30',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-11-26',
+      title: 'dek-d Live',
+      details: {
+        description: '[Live] dek-d Live',
+        link: 'https://youtu.be/xT3LEQywAWg',
+        location: '',
+        time: '13:00 - 14:00',
+        icon: 'video-vintage',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-11-26',
+      title: 'เรียงคิวบันเทิง',
+      details: {
+        description: '[Live] เรียงคิวบันเทิง',
+        link: 'https://www.facebook.com/SanookNews/videos/265000254368430/',
+        location: '',
+        time: '15:00 - 16:00',
+        icon: 'video-vintage',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-11-27',
+      title: 'Digital live studio',
+      details: {
+        description: '[Live] Digital live studio',
+        link: 'https://www.facebook.com/bnk48official/videos/324530728371500/',
+        location: 'ตู้ปลา @The EmQuartier',
+        time: '18:00',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2018-11-28',
+      title: 'Theater Mobile Expo for client Samsung J8 box set',
+      details: {
+        description:
+          '[Theater] Theater Mobile Expo for client Samsung J8 box set',
+        link: '',
+        location: 'BNK48 The Campus 4th floor @The Mall Bangkapi',
+        time: '18:00',
+        icon: 'theater',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2018-12-05',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-playback/339',
+        location: '',
+        time: '00:09',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2018-12-13',
+      title: 'Digital live studio',
+      details: {
+        description: '[Live] Digital live studio',
+        link: 'https://www.facebook.com/bnk48official/videos/2168106403457820/',
+        location: 'ตู้ปลา @The EmQuartier',
+        time: '18:00',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2018-12-14',
+      title: 'TrueMove H 5G Digital Thailand The 1st Showcase',
+      details: {
+        description: '[Event] 5G Showcase',
+        link: '',
+        location: 'True shop @ICON Siam',
+        time: '11:00 - 12:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-12-15',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-playback/416',
+        location: '',
+        time: '00:09',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2018-12-16',
+      title: 'The Blue Carpet Show for UNICEF',
+      details: {
+        description: '[Event] Unicef ร่วมแสดงงาน ถ่ายทอดสด ระดมทุนเพื่อการกุศล',
+        link: '',
+        location: 'สถานีโทรทัศน์กองทัพบกช่อง 7',
+        time: '18:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-12-19',
+      title: 'งานแข่งขันรักบี้ วชิราวุธกับภปร. ชิงถ้วยร.10',
+      details: {
+        description:
+          '[Mini Concert] งานแข่งขันรักบี้ วชิราวุธกับภปร. ชิงถ้วยร.10',
+        link: '',
+        location: 'สนามศุภชลาศัย',
+        time: '16:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-12-19',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-playback/450',
+        location: '',
+        time: '18.18',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2018-12-19',
+      title: 'รอบปฐมทัศน์ Bubble Bee',
+      details: {
+        description: '[Event] รอบปฐมทัศน์ Bubble Bee',
+        link: '',
+        location: 'ICON Siam',
+        time: '19:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-12-21',
+      title: 'AC Christmas Fair 2018',
+      details: {
+        description: '[Mini Concert] โรงเรียนอัสสัมชัญบางรัก งานคริสตมาส',
+        link: '',
+        location: 'โรงเรียนอัสสัมชัญบางรัก',
+        time: '13:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-12-21',
+      title: 'BNK48 x JOOX WEEKLY UPDATE',
+      details: {
+        description: '[Mini Concert] BNK48 x JOOX WEEKLY UPDATE',
+        link: '',
+        location: 'ทางเชื่อม BTS @The EmQuartier',
+        time: '19:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-12-22',
+      title: 'Gift festival 2018',
+      details: {
+        description: '[Mini Concert] Gift festival 2018',
+        link: '',
+        location: 'Terminal 21 โคราช',
+        time: '17:00 - 18:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2018-12-27',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-playback/481',
+        location: '',
+        time: '19:02',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2018-12-31',
+      title: 'AIS Bangkok Countdown 2019',
+      details: {
+        description: '[Mini Concert] AIS Bangkok Countdown 2019',
+        link: '',
+        location: 'ลานหน้า Central world',
+        time: '21:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
       date: '2019-01-07',
       title: 'จันทร์ Shock โลก',
       details: {
         description: '[Live] จันทร์ Shock โลก ยังไงซิ?',
-        link: '',
+        link: 'https://www.youtube.com/watch?v=TeF-fjrB_Q4',
         location: 'GMM Grammy',
-        time: '21.00',
-        icon: 'theater',
+        time: '21:00',
+        icon: 'video-vintage',
         color: 'yellow'
       },
       open: false
@@ -41,7 +1025,7 @@ module.exports = {
         description: '[Event] เปิดตัวงานฟุตบอลจุฬา-ธรรมศาสตร์ ครั้งที่ 73',
         link: '',
         location: 'ลานกิจกรรมชั้น 2 ทางเชื่อม BTS ห้างสยามสแควร์วัน',
-        time: '17.00',
+        time: '17:00',
         icon: 'soccer',
         color: 'yellow'
       },
@@ -80,7 +1064,7 @@ module.exports = {
         description: '[Event] DGA (Digital Government Summit)',
         link: '',
         location: 'ลาน Aden 1st floor @Central world',
-        time: '18.00 - 19.00',
+        time: '18:00 - 19:00',
         icon: 'theater',
         color: 'yellow'
       },
@@ -106,7 +1090,7 @@ module.exports = {
         description: '[Mini Concert] เทศกาลเที่ยวเมืองไทย 2562 ครั้งที่ 39',
         link: '',
         location: 'สวนลุมพินี',
-        time: '20.00 - 20.40',
+        time: '20:00 - 20:40',
         icon: 'theater',
         color: 'yellow'
       },
@@ -118,7 +1102,7 @@ module.exports = {
       details: {
         description:
           '[Concert & Annoucement] BNK48 Space Mission Concert และ ประกาศผล BNK48 6th Single Senbatsu General Election',
-        link: '',
+        link: 'https://www.youtube.com/watch?v=nf0kQt4ECCE',
         location: 'Impact Arena เมืองทองธานี',
         time: 'all day',
         icon: 'bullhorn',
@@ -144,7 +1128,7 @@ module.exports = {
       title: 'Live',
       details: {
         description: '[Live] Live in BNK48 Application',
-        link: '',
+        link: 'https://app.bnk48.com/member-playback/781',
         location: '',
         time: '22.50',
         icon: 'video-vintage',
@@ -159,7 +1143,7 @@ module.exports = {
         description: '[Theater] BNK48 Team BⅢ「PARTY ga Hajimaru yo」',
         link: '',
         location: 'BNK48 The Campus 4th floor @The Mall Bangkapi',
-        time: '13.00',
+        time: '13:00',
         icon: 'theater',
         color: 'coral'
       },
@@ -172,7 +1156,7 @@ module.exports = {
         description: '[Mini Concert] ตรุษจีนเยาวราช ประจำปี 2562',
         link: '',
         location: 'เยาวราช',
-        time: '20.00',
+        time: '20:00',
         icon: 'theater',
         color: 'yellow'
       },
@@ -197,7 +1181,8 @@ module.exports = {
       title: 'LINETV NEXPLOSION 2019',
       details: {
         description: '[Event] LINETV NEXPLOSION 2019',
-        link: '',
+        link:
+          'https://tv.line.me/v/5350531?utm_source=Internal&utm_medium=btn_share_link&utm_campaign=Link_share_linetvth',
         location: 'Siam Paragon',
         time: 'n/a',
         icon: 'theater',
@@ -212,7 +1197,7 @@ module.exports = {
         description: '[Mini Concert] Asia Predator League Asia Pacific 2019',
         link: '',
         location: 'สนามนิมิตรบุตร',
-        time: '18.00',
+        time: '18:00',
         icon: 'theater',
         color: 'yellow'
       },
@@ -249,10 +1234,10 @@ module.exports = {
       title: 'Live',
       details: {
         description: '[Live] Live in BNK48 Application',
-        link: '',
+        link: 'https://app.bnk48.com/member-playback/856',
         location: '',
-        time: '23.04',
-        icon: 'camcorder',
+        time: '23:04',
+        icon: 'video-vintage',
         color: 'green'
       },
       open: false
@@ -264,7 +1249,7 @@ module.exports = {
         description: '[Theater] BNK48 The Campus รอบพิเศษจาก Grab',
         link: '',
         location: 'BNK48 The Campus 4th floor @The Mall Bangkapi',
-        time: '19.00',
+        time: '19:00',
         icon: 'theater',
         color: 'purple'
       },
@@ -275,10 +1260,10 @@ module.exports = {
       title: 'BNK48 Thank you and The Beginner',
       details: {
         description:
-          '[Concert] BNK48 Thank you and The Beginner - งาน Convert ขอบคุณเลือกตั้ง',
-        link: '',
+          '[Concert] BNK48 Thank you and The Beginner - งาน Convert ขอบคุณเลือกตั้ง (เปิดตัว Single 6)',
+        link: 'https://youtu.be/w0veGNs05es',
         location: 'ลานกิจกรรม Hard Rock Café @Siam Square',
-        time: '18.06',
+        time: '18:06',
         icon: 'theater',
         color: 'purple'
       },
@@ -303,9 +1288,9 @@ module.exports = {
       details: {
         description:
           '[Mini Concert] งานแถลงข่าวกิจกรรม คัดกรองเด็กโรคหัวใจพิการแต่กำเนิด',
-        link: '',
+        link: 'https://www.facebook.com/skrhos/videos/1803403419709989/',
         location: 'โรงพยาบาลศิครินทร์',
-        time: '9.45 - 11.00',
+        time: '09:45 - 11:00',
         icon: 'theater',
         color: 'yellow'
       },
@@ -316,10 +1301,10 @@ module.exports = {
       title: 'Live',
       details: {
         description: '[Live] Live in BNK48 Application',
-        link: '',
+        link: 'https://app.bnk48.com/member-playback/912',
         location: '',
         time: '23.34',
-        icon: 'camcorder',
+        icon: 'video-vintage',
         color: 'green'
       },
       open: false
@@ -332,7 +1317,7 @@ module.exports = {
           '[Theater] BNK48 Team BⅢ「PARTY ga Hajimaru yo」- Phukkhom’s Birthday Stage',
         link: '',
         location: 'BNK48 The Campus 4th floor @The Mall Bangkapi',
-        time: '19.00',
+        time: '19:00',
         icon: 'theater',
         color: 'coral'
       },
@@ -343,10 +1328,10 @@ module.exports = {
       title: `Exclusive Live 'SF Cinema x SisterS'`,
       details: {
         description: `[Live] Exclusive Live 'SF Cinema x SisterS' in Fanpage SF Cinema (กระสือสยาม)`,
-        link: '',
+        link: 'https://www.facebook.com/WeLoveSF/videos/569368546901947/',
         location: '',
-        time: '17.00',
-        icon: 'camcorder',
+        time: '17:00',
+        icon: 'video-vintage',
         color: 'yellow'
       },
       open: false
@@ -359,7 +1344,7 @@ module.exports = {
           '[Concert] 2019 THE RETURN OF BBB #11 DREAM JOURNEY RESTAGE (Guest)',
         link: '',
         location: 'Impact Arena เมืองทองธานี',
-        time: '19.00',
+        time: '19:00',
         icon: 'theater',
         color: 'yellow'
       },
@@ -373,7 +1358,7 @@ module.exports = {
           '[Concert] 2019 THE RETURN OF BBB #11 DREAM JOURNEY RESTAGE (Guest)',
         link: '',
         location: 'Impact Arena เมืองทองธานี',
-        time: '15.00',
+        time: '15:00',
         icon: 'theater',
         color: 'yellow'
       },
@@ -385,10 +1370,11 @@ module.exports = {
       details: {
         description:
           '[Live] งานเปิดตัว Mirinda Mix-it Pineapple Passion fruit (MC)',
-        link: '',
+        link:
+          'https://www.facebook.com/MirindaMixItThailand/videos/2314142092243975/',
         location: 'ลาน Aden 1st floor @Central world',
         time: '17.30',
-        icon: 'camcorder',
+        icon: 'video-vintage',
         color: 'yellow'
       },
       open: false
@@ -398,7 +1384,7 @@ module.exports = {
       title: 'เรื่องเล่าเช้านี้ - ครอบครัวบันเทิง',
       details: {
         description: '[Event] Promote Single 6',
-        link: '',
+        link: 'https://youtu.be/aWR11_f2oGE',
         location: 'ตึกมาลีนนท์',
         time: '07.40',
         icon: 'theater',
@@ -411,9 +1397,9 @@ module.exports = {
       title: 'Live',
       details: {
         description: '[Live] Live in BNK48 Application',
-        link: '',
+        link: 'https://app.bnk48.com/member-playback/985',
         location: '',
-        time: '23.08',
+        time: '23:08',
         icon: 'video-vintage',
         color: 'green'
       },
@@ -424,7 +1410,7 @@ module.exports = {
       title: 'รอบปฐมทัศน์ SisterS กระสือสยาม',
       details: {
         description: '[Event] รอบปฐมทัศน์ SisterS กระสือสยาม',
-        link: '',
+        link: 'https://www.facebook.com/bnk48official/videos/457386461703040/',
         location: 'โรงภาพยนตร์ SF World Cinema 8th floor @Central world',
         time: '18.30',
         icon: 'video-vintage',
@@ -437,9 +1423,9 @@ module.exports = {
       title: 'Fan Meet Tinten X BNK48',
       details: {
         description: '[Event] Fan Meet Tinten X BNK48',
-        link: '',
+        link: 'https://youtu.be/v4ehdyhCtyE',
         location: 'ลาน Aden 1st floor @Central world',
-        time: '18.00',
+        time: '18:00',
         icon: 'theater',
         color: 'yellow'
       },
@@ -454,7 +1440,7 @@ module.exports = {
         link:
           'https://tv.line.me/v/5942344?utm_source=Internal&utm_medium=btn_share_link&utm_campaign=Link_share_oneyeartheseries',
         location: '',
-        time: '16.00',
+        time: '16:00',
         icon: 'video-vintage',
         color: 'yellow'
       },
@@ -467,7 +1453,7 @@ module.exports = {
         description: `[Mini Concert] BIG CAMERA FESTIVAL 2019 'Redefine Your Mind'`,
         link: '',
         location: 'ลานกิจกรรม 1st floor @Central Ladprao',
-        time: '18.00',
+        time: '18:00',
         icon: 'theater',
         color: 'yellow'
       },
@@ -504,7 +1490,7 @@ module.exports = {
       title: 'Live',
       details: {
         description: '[Live] Live in BNK48 Application',
-        link: '',
+        link: 'https://app.bnk48.com/member-playback/1048',
         location: '',
         time: '21.33',
         icon: 'video-vintage',
@@ -517,7 +1503,7 @@ module.exports = {
       title: 'Live',
       details: {
         description: '[Live] Live in BNK48 Application',
-        link: '',
+        link: 'https://app.bnk48.com/member-playback/1051',
         location: '',
         time: '09.50',
         icon: 'video-vintage',
