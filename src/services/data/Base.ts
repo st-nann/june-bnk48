@@ -40,7 +40,7 @@ module.exports = {
       name: 'Follow up',
       value: 'follow_up',
       route: '/follow_up',
-      icon: 'map-marker-radius'
+      icon: 'thumb-up'
     }
   ],
   contact: [

@@ -6,11 +6,21 @@ import moment from 'moment'
 export default {
   init() {
     Vue.filter('date', function(value) {
-      switch (typeof value) {
-        case 'number':
-          return moment.unix(value).format('dddd DD MMMM YYYY')
-        default:
-          return value
+      let split = _.split(value, ' ')
+      if (split.length > 1) {
+        switch (split[1]) {
+          case 'fulldate':
+            return moment(split[0]).format('dddd DD MMMM YYYY')
+          case 'fullmonth':
+            return moment(split[0]).format('MMMM YYYY')
+        }
+      } else {
+        switch (typeof value) {
+          case 'number':
+            return moment.unix(value).format('dddd DD MMMM YYYY')
+          default:
+            return value
+        }
       }
     }),
       Vue.filter('validate', function(value) {
