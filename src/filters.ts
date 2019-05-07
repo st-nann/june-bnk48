@@ -13,6 +13,8 @@ export default {
             return moment(split[0]).format('dddd DD MMMM YYYY')
           case 'fullmonth':
             return moment(split[0]).format('MMMM YYYY')
+          default:
+            return value
         }
       } else {
         switch (typeof value) {

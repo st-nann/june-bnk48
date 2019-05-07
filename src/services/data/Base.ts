@@ -25,9 +25,9 @@ module.exports = {
       icon: 'film'
     },
     {
-      name: 'Fan Songs',
-      value: 'fan_song',
-      route: '/fan_song',
+      name: 'Songs',
+      value: 'song',
+      route: '/song',
       icon: 'piano'
     },
     {

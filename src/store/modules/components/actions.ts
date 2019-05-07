@@ -8,7 +8,8 @@ const actions: ActionTree<State, State> = {
   },
   updateToggleSidebar(
     { commit }: ActionContext<State, State>,
-    page: string): void {
+    page: string
+  ): void {
     commit(mutation_type.TOGGLE_SIDEBAR, page)
   },
   updateSnackbar({ commit }: ActionContext<State, State>, data: object): void {
