@@ -25,9 +25,9 @@ export default new Router({
       component: () => import(`@/views/EnterSite.vue`)
     },
     {
-      path: '/profile',
-      meta: { title: 'Profile', nolayout: false },
-      component: loadMainView('Profile')
+      path: '/about_june',
+      meta: { title: 'About Juné', nolayout: false },
+      component: loadMainView('AboutJune')
     },
     {
       path: '/schedule_event',
