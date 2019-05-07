@@ -45,9 +45,9 @@ export default new Router({
       component: loadMainView('Gallery')
     },
     {
-      path: '/fan_song',
-      meta: { title: 'Fan Song', nolayout: false },
-      component: loadMainView('FanSong')
+      path: '/song',
+      meta: { title: 'Song', nolayout: false },
+      component: loadMainView('Song')
     },
     {
       path: '/shop',
@@ -61,7 +61,7 @@ export default new Router({
     },
     {
       path: '*',
-      meta: { title: 'Error - 404', nolayout: false },
+      meta: { title: 'Error - 404', nolayout: true },
       component: loadComponentBase(`error/404`)
     }
   ]

@@ -74,7 +74,7 @@ export default {
   opacity: 0
 
 img.logo
-  width: 50px !important
+  width: 70px !important
 
 .font-size-10
   font-size: 10px

@@ -1,5 +1,5 @@
 <template>
-  <v-toolbar class="offwhite elevation-10 py-1" fixed light>
+  <v-toolbar class="offwhite py-1" fixed flat light>
     <v-toolbar-title class="ml-0">
       <a href="/">
         <img class="mt-2 logo" :src="logo" />
@@ -40,7 +40,9 @@ export default {
   },
   computed: {
     logo() {
-      return process.env.VUE_APP_FAVICON ? process.env.VUE_APP_FAVICON : ''
+      return process.env.VUE_APP_LOGO_TRANSPARENT
+        ? process.env.VUE_APP_LOGO_TRANSPARENT
+        : ''
     }
   },
   methods: {
