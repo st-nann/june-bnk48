@@ -1,9 +1,9 @@
 module.exports = {
   menu: [
     {
-      name: 'Profile',
-      value: 'profile',
-      route: '/profile',
+      name: 'About Juné',
+      value: 'about_june',
+      route: '/about_june',
       icon: 'emoticon-wink-outline'
     },
     {

@@ -16,7 +16,7 @@ Vue.use(Vuetify, {
   iconfont: 'mdi',
   theme: {
     offwhite: '#dccfbf', // '#f4efe9',
-    lightgrey: '#dfe0e0',
+    lightgrey: '#d0d4d4',
     purple: '#d7a9cd',
     darkblue: '#052480',
     coral: '#FF7F50',

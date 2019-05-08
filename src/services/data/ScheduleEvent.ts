@@ -1512,6 +1512,20 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-05-17',
+      title: 'City of Sweet 2019',
+      details: {
+        description:
+          '[Event] City of Sweet 2019',
+        link: '',
+        location: 'Terminal Asok G floor',
+        time: '18:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
       date: '2019-05-24',
       title: 'Miss Grand Bangkok 2019',
       details: {

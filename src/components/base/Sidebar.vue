@@ -28,7 +28,7 @@
       </v-flex>
       <v-flex xs12 class="pt-2">
         <v-btn
-          color="brown"
+          color="orange"
           @click.native="updateToggleSidebar('home')"
           :to="{ path: '/' }"
           append
