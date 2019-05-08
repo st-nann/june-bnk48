@@ -112,7 +112,6 @@ export default {
     },
     eventChildCloseModal(close) {
       this.modal = close
-      this.activity_detail = {}
     }
   }
 }
