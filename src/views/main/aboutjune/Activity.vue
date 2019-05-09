@@ -3,7 +3,7 @@
     <v-card-text>
       <v-layout row wrap>
         <v-flex xs12 lg10 offset-lg1>
-          <div class="headline my-2"> Activity </div>
+          <div class="headline my-2">Activity</div>
           <v-divider></v-divider>
         </v-flex>
         <v-flex xs12 lg10 offset-lg1>
@@ -17,15 +17,15 @@
               wrap
             >
               <template v-slot:item="props">
-                <v-flex
-                  xs12
-                  sm6
-                  md4
-                  lg3
-                >
+                <v-flex xs12 sm6 md4 lg3>
                   <v-card>
                     <v-img
-                      :src="doGetImage(props.item.cover.name, props.item.cover.token)"
+                      :src="
+                        doGetImage(
+                          props.item.cover.name,
+                          props.item.cover.token
+                        )
+                      "
                       aspect-ratio="1.5"
                     ></v-img>
                     <v-card-title primary-title class="pt-3 pb-0">

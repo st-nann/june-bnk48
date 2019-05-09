@@ -16,7 +16,7 @@ body
   font-family: 'Lucida Grande', Helvetica, Arial, sans-serif
   color: #333
   text-align: center
-  margin-top: 250px
+  margin-top: 450px
 
 @media only screen and (min-width: 769px) and (max-width: 1024px)
   body

@@ -90,4 +90,7 @@ img.logo
 
 .text-decoration
   border-bottom: 1.5px solid black
+
+a
+  text-decoration: none
 </style>

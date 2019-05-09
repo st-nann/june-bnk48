@@ -33,16 +33,14 @@ import { mapActions } from 'vuex'
 import data from '@/services/data/Base'
 
 export default {
-  data() {
-    return {
-      menu: data.menu
-    }
-  },
   computed: {
     logo() {
       return process.env.VUE_APP_LOGO_TRANSPARENT
         ? process.env.VUE_APP_LOGO_TRANSPARENT
         : ''
+    },
+    menu() {
+      return data ? data.menu : []
     }
   },
   methods: {
