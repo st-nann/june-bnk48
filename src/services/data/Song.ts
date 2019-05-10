@@ -5,79 +5,97 @@ module.exports = {
   },
   playlist: [
     {
-      source: 'Joox',
-      name: 'song%2Fjoox',
-      token: '82ab7e48-f665-413d-9b05-7448e57bf496',
-      link: 'https://www.joox.com/th/playlist/USERPLAYLIST_0_9742177_100000001_1547697333'
+      source: 'Spotify',
+      icon: 'spotify',
+      name: 'song%2Fspotify',
+      token: 'a5e4847e-c696-413a-8d90-fa2d1f07e9bf',
+      link:
+        'https://open.spotify.com/playlist/2kIJDVuFST5Xi2XTYILQBa?si=jNE5SlAOT5KhcAceU-x9DQ'
     },
     {
-      source: 'Spotify',
-      name: 'song%2Fspotify',
-      token: '135b20a0-181b-4c88-ac08-234254046776',
-      link: 'https://open.spotify.com/playlist/2kIJDVuFST5Xi2XTYILQBa?si=jNE5SlAOT5KhcAceU-x9DQ'
+      source: 'Joox',
+      icon: 'disc',
+      name: 'song%2Fjoox',
+      token: '2c93b8f2-1443-4db6-b0dc-641ceee2f1df',
+      link:
+        'https://www.joox.com/th/playlist/USERPLAYLIST_0_9742177_100000001_1547697333'
     },
     {
       source: 'Apple Music',
-      name: '',
-      token: '',
-      link: ''
+      icon: 'apple',
+      name: 'song%2Fapp-music',
+      token: '55f3078e-e8b1-47b4-9ff2-8af225810348',
+      link:
+        'https://itunes.apple.com/th/playlist/jun%C3%A9s-playlist/pl.u-XkD0vlRfoZ3960'
     },
     {
       source: 'youtube',
+      icon: 'youtube',
       name: 'song%2Fyoutube',
-      token: '8597536d-462c-4544-ac08-98f7dc9a7d3f',
-      link: 'https://www.youtube.com/playlist?list=PL6CCS1ZBRxEz228jMtf76JhSqV5vNh2QH'
+      token: '93d563e0-a308-4c49-ac09-6647ed7dc1c3',
+      link:
+        'https://www.youtube.com/playlist?list=PL6CCS1ZBRxEz228jMtf76JhSqV5vNh2QH'
     }
   ],
   fansongs: [
     {
       name: 'JUNÉ PLEARNPICHAYA (Mixtape)',
       artist: 'YoshiNeko Feat.June BNK48',
+      time: '3:24',
       link: 'https://www.youtube.com/watch?v=2XVaQVHHaTg'
     },
     {
       name: 'Because of JU(NÉ)',
       artist: 'JICO feat.Notwave',
+      time: '3:54',
       link: 'https://www.youtube.com/watch?v=IwBd907dmQk'
     },
     {
       name: 'แอบรัก (June)',
       artist: 'TDZ48 feat.1QFordz',
+      time: '3:54',
       link: 'https://www.youtube.com/watch?v=EcuDTmt9if8'
     },
     {
       name: 'บะหมี่ชามนี้ให้คุณ',
       artist: `Pharmacist'Ota`,
+      time: '3:47',
       link: 'https://www.youtube.com/watch?v=FYRiNbezoPc'
     },
     {
       name: 'อย่างคูล - RP',
       artist: 'Prod.30hertbeatz',
+      time: '2:50',
       link: 'https://www.youtube.com/watch?v=S25UH-H3pYE'
     },
     {
       name: 'Plearnpichayáya',
       artist: 'Innoxentz',
+      time: '2:16',
       link: 'https://www.youtube.com/watch?v=mK4-2xPc3C0'
     },
     {
       name: 'Your warmth (English)',
       artist: 'PNeuma',
+      time: '4:02',
       link: 'https://www.youtube.com/watch?v=na_tp1wvR5E'
     },
     {
       name: 'บะหมี่หมูแดงJune’',
       artist: 'GOLFFY',
+      time: '3:23',
       link: 'https://www.youtube.com/watch?v=qLUboLZd1tg'
     },
     {
       name: 'เพลิน (พิชญา)',
       artist: 'COMZ',
+      time: '3:36',
       link: 'https://www.youtube.com/watch?v=Fj0CBP2L4lE'
     },
     {
       name: 'กู๊ดมอร์เน่ (Good morné)',
       artist: 'OldBoyz',
+      time: '3:10',
       link: 'https://www.youtube.com/watch?v=ELabp0KT-KQ'
     }
   ]
