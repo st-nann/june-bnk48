@@ -1,5 +1,6 @@
 export const mutation_type = {
   LOADING: 'LOADING',
+  SUBLOADING: 'SUBLOADING',
   TOGGLE_SIDEBAR: 'TOGGLE_SIDEBAR',
   SNACKBAR: 'SNACKBAR'
 }

@@ -82,12 +82,24 @@ img.logo
 .font-size-24
   font-size: 24px
 
+.font-size-40
+  font-size: 40px
+
+.font-size-45
+  font-size: 45px
+
 .font-size-65
   font-size: 65px
+
+.font-size-80
+  font-size: 80px
 
 .font-size-112
   font-size: 112px
 
 .text-decoration
   border-bottom: 1.5px solid black
+
+a
+  text-decoration: none
 </style>

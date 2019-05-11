@@ -121,13 +121,6 @@ import data from '@/services/data/Base'
 import { getImageFromStore } from '@/services/functions/Services'
 
 export default {
-  data() {
-    return {
-      menu: data.menu,
-      contact: data.contact,
-      images: data.img_sidebar
-    }
-  },
   computed: {
     ...mapState('components', {
       toggle_sidebar: state => state.toggle_sidebar
@@ -136,6 +129,15 @@ export default {
       return process.env.VUE_APP_LOGO_TRANSPARENT
         ? process.env.VUE_APP_LOGO_TRANSPARENT
         : ''
+    },
+    menu() {
+      return data ? data.menu : []
+    },
+    contact() {
+      return data ? data.contact : []
+    },
+    images() {
+      return data ? data.img_sidebar : []
     }
   },
   methods: {

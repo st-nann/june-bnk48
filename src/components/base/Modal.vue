@@ -6,8 +6,23 @@
     <v-card-text class="pb-3 pt-2" v-if="description !== ''">
       <span class="hidden-sm-and-down">{{ description }}</span>
     </v-card-text>
-    <v-card-text style="height: 480px;">
-      <slot name="body"></slot>
+    <v-card-text v-if="body">
+      <v-layout
+        v-if="loading"
+        align-center
+        justify-center
+        fill-height
+        tag="v-card-text"
+        style="height: 650px;"
+      >
+        <v-progress-circular
+          indeterminate
+          :width="3"
+          :size="40"
+          color="yellow"
+        ></v-progress-circular>
+      </v-layout>
+      <slot name="body" v-else></slot>
     </v-card-text>
     <v-card-actions>
       <v-spacer></v-spacer>
@@ -23,8 +38,12 @@
 </template>
 
 <script>
+import { mapState, mapActions } from 'vuex'
+
 export default {
   props: [
+    'open',
+    'body',
     'title',
     'description',
     'button',
@@ -33,7 +52,20 @@ export default {
     'danger',
     'disable'
   ],
+  computed: {
+    ...mapState('components', {
+      loading: state => state.modal_loading
+    })
+  },
+  watch: {
+    open() {
+      if (this.open) {
+        this.updateLoading(true)
+      }
+    }
+  },
   methods: {
+    ...mapActions('components', ['updateLoading']),
     clickOk(event) {
       this.okCallback(event)
     }

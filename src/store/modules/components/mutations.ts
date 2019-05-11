@@ -4,10 +4,11 @@ import State from './states'
 import Vue from 'vue'
 
 const mutations: MutationTree<State> = {
-  [mutation_type.LOADING](state: State): void {
-    Vue.set(state, 'loading', true)
+  [mutation_type.LOADING](state: State, modal: boolean): void {
+    let name = modal ? 'modal_loading' : 'loading'
+    Vue.set(state, name, true)
     setTimeout(function() {
-      Vue.set(state, 'loading', false)
+      Vue.set(state, name, false)
     }, 1000)
   },
   [mutation_type.TOGGLE_SIDEBAR](state: State, page: string): void {

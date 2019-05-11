@@ -1512,11 +1512,23 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-05-10',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-playback/2807',
+        location: '',
+        time: '22:43',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
       date: '2019-05-17',
       title: 'City of Sweet 2019',
       details: {
-        description:
-          '[Event] City of Sweet 2019',
+        description: '[Event] City of Sweet 2019',
         link: '',
         location: 'Terminal Asok G floor',
         time: '18:00',

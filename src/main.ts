@@ -24,6 +24,7 @@ Vue.use(Vuetify, {
     yellow: '#f7d63b',
     pink: '#fbbbd2',
     brown: '#ccaa76',
+    darkbrown: '#ccaa76',
     info: colors.blue.base,
     warning: colors.amber.base,
     error: colors.red.base,

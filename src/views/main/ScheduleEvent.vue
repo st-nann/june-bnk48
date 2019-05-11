@@ -36,6 +36,7 @@
             :now="today"
             :value="today"
             color="brown"
+            class="elevation-3"
           >
             <template v-slot:day="{ date }">
               <div
@@ -47,7 +48,7 @@
                 <v-icon color="brown" :size="$vuetify.breakpoint.xs ? 28 : 40">
                   mdi-one-up
                 </v-icon>
-                <div :class="{ caption: $vuetify.breakpoint.xs }">select!</div>
+                <div :class="{ caption: $vuetify.breakpoint.xs }">view</div>
               </div>
             </template>
           </v-calendar>
@@ -102,7 +103,7 @@
                     <strong>{{ item.title }}</strong>
                     <div class="caption">{{ item.details.description }}</div>
                     <a target="_blank" :href="item.details.link">
-                      <div class="text-truncate">{{ item.details.link }}</div>
+                      click link
                     </a>
                     <div v-if="item.details.location !== ''">
                       <v-icon size="18" style="vertical-align: sub;">

@@ -4,7 +4,9 @@
       <span class="grey--text text--darken-1">by {{ activity.owner }} - </span>
       <v-chip
         class="caption"
-        :color="expiry_date === activity.detail.period.expiry ? 'grey' : 'coral'"
+        :color="
+          expiry_date === activity.detail.period.expiry ? 'grey' : 'coral'
+        "
         text-color="white"
         small
         style="vertical-align: inherit; height: 21px!important;"
@@ -30,7 +32,9 @@ export default {
   props: ['activity'],
   computed: {
     expiry_date() {
-      return moment().add(1, 'days').format('dddd DD MMMM YYYY')
+      return moment()
+        .add(1, 'days')
+        .format('dddd DD MMMM YYYY')
     }
   }
 }
