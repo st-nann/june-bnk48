@@ -5,7 +5,8 @@
         <div
           :class="{
             'font-size-112': $vuetify.breakpoint.lgAndUp,
-            'font-size-65 pt-4 mt-3': $vuetify.breakpoint.sm || $vuetify.breakpoint.md,
+            'font-size-65 pt-4 mt-3':
+              $vuetify.breakpoint.sm || $vuetify.breakpoint.md,
             'font-size-80 pt-3': $vuetify.breakpoint.xs
           }"
           style="line-height: .7"
@@ -14,7 +15,8 @@
         </div>
         <div
           :class="{
-            'font-size-40': $vuetify.breakpoint.xs || $vuetify.breakpoint.lgAndUp,
+            'font-size-40':
+              $vuetify.breakpoint.xs || $vuetify.breakpoint.lgAndUp,
             'font-size-24': $vuetify.breakpoint.sm || $vuetify.breakpoint.md
           }"
           class="mb-3"
@@ -30,7 +32,9 @@
           <v-container
             fluid
             grid-list-md
-            :class="{ 'pa-2': $vuetify.breakpoint.sm || $vuetify.breakpoint.md }"
+            :class="{
+              'pa-2': $vuetify.breakpoint.sm || $vuetify.breakpoint.md
+            }"
           >
             <v-hover class="clickable">
               <a slot-scope="{ hover }" :href="item.link" target="_blank">

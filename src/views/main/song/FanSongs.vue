@@ -43,8 +43,8 @@
           :player-height="
             $vuetify.breakpoint.mdAndDown
               ? $vuetify.breakpoint.xs
-                ? 250 
-                : 500 
+                ? 250
+                : 500
               : 400
           "
           :player-vars="{ autoplay: 0 }"
@@ -79,10 +79,11 @@
             }"
             ripple
             @click="doGetMedia(item.link)"
-           >
+          >
             <v-layout row wrap>
               <v-flex
-                xs1 sm1
+                xs1
+                sm1
                 class="pt-4"
                 :class="{
                   'text-xs-center': $vuetify.breakpoint.mdAndDown,
@@ -101,11 +102,13 @@
                 }"
               >
                 <v-icon :size="$vuetify.breakpoint.xs ? 50 : 60" color="grey">
-                    mdi-play-speed
+                  mdi-play-speed
                 </v-icon>
               </v-flex>
               <v-flex xs8 sm5>
-                <div class="subheading font-weight-bold font-thai">{{ item.name }}</div>
+                <div class="subheading font-weight-bold font-thai">
+                  {{ item.name }}
+                </div>
                 <div>- {{ item.artist }}</div>
                 <div>
                   <v-icon size="18">
