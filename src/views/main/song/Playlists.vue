@@ -1,29 +1,37 @@
 <template>
   <v-layout row wrap>
-    <v-flex xs12 sm3>
+    <v-flex xs12 md3>
       <div class="border pl-3 mb-3">
         <div
           :class="{
-            'display-4': $vuetify.breakpoint.lgAndUp,
-            'display-3': $vuetify.breakpoint.mdAndDown
+            'font-size-112': $vuetify.breakpoint.lgAndUp,
+            'font-size-65 pt-4 mt-3': $vuetify.breakpoint.sm || $vuetify.breakpoint.md,
+            'font-size-80 pt-3': $vuetify.breakpoint.xs
           }"
+          style="line-height: .7"
         >
           Juné's
         </div>
         <div
           :class="{
-            'display-3': $vuetify.breakpoint.lgAndUp,
-            headline: $vuetify.breakpoint.mdAndDown
+            'font-size-40': $vuetify.breakpoint.xs || $vuetify.breakpoint.lgAndUp,
+            'font-size-24': $vuetify.breakpoint.sm || $vuetify.breakpoint.md
           }"
+          class="mb-3"
+          style="line-height: 2"
         >
           playlist
         </div>
       </div>
     </v-flex>
-    <v-flex xs12 sm8 offset-sm1 md9 offset-md0>
+    <v-flex xs12 md9>
       <v-layout row wrap>
         <v-flex xs12 sm3 v-for="(item, index) in playlists" :key="index">
-          <v-container fluid grid-list-md>
+          <v-container
+            fluid
+            grid-list-md
+            :class="{ 'pa-2': $vuetify.breakpoint.sm || $vuetify.breakpoint.md }"
+          >
             <v-hover class="clickable">
               <a slot-scope="{ hover }" :href="item.link" target="_blank">
                 <v-card class="card-image elevation-8">
@@ -98,6 +106,7 @@ export default {
 <style lang="stylus" scoped>
 .border
   border-left: 5px solid #000000
+  height: 156px
 
 .v-card--reveal
   align-items: center
