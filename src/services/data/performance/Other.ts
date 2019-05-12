@@ -25,6 +25,38 @@ module.exports = {
       type: 'youtube'
     },
     {
+      name: '[VOOV] Juné',
+      description: '#จะกินที่ไหนก็ได้โตแล้ว',
+      time: '-',
+      link:
+        'https://www.voovlive.com/voov-web/share/shortVideo?video_id=5285890782716168804&anchor_id=604176237&lang=en',
+      type: 'voov'
+    },
+    {
+      name: '[VOOV] Juné',
+      description: '#จะแคะที่ไหนก็ได้โตแล้ว',
+      time: '-',
+      link:
+        'https://www.voovlive.com/voov-web/share/shortVideo?video_id=5285890782724558060&anchor_id=604176237&lang=en',
+      type: 'voov'
+    },
+    {
+      name: '[VOOV] Juné',
+      description: '#จะสกิบิดี้กี่รอบก็ได้โตแล้ว',
+      time: '-',
+      link:
+        'https://www.voovlive.com/voov-web/share/shortVideo?video_id=5285890782724886160&anchor_id=604176237&lang=en',
+      type: 'voov'
+    },
+    {
+      name: '[VOOV] Juné',
+      description: '#จะดูเจ้าขุนทองที่ไหนก็ได้โตแล้ว',
+      time: '-',
+      link:
+        'https://www.voovlive.com/voov-web/share/shortVideo?video_id=5285890783000175699&anchor_id=604176237&lang=en',
+      type: 'voov'
+    },
+    {
       name: 'HitZ Karaoke ฮิตซ์คาราโอเกะ ชั้น 23 | EP.33',
       description: 'HitZ Karaoke ฮิตซ์คาราโอเกะ ชั้น 23 EP.33 BNK48 รุ่น 2',
       time: '20:26',
