@@ -37,7 +37,7 @@ export default {
   },
   computed: {
     cover() {
-      return data ? data.cover : ''
+      return data ? data.cover : {}
     }
   },
   methods: {

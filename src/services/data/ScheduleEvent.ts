@@ -696,7 +696,7 @@ module.exports = {
       details: {
         description: '[Event] Press Conference Grab ชีวิตดีเมื่อมี Grab',
         link: '',
-        location: 'ลาน Aden 1st floor @Central world',
+        location: 'ลาน Eden 1st floor @Central world',
         time: '18.30',
         icon: 'theater',
         color: 'yellow'
@@ -1063,7 +1063,7 @@ module.exports = {
       details: {
         description: '[Event] DGA (Digital Government Summit)',
         link: '',
-        location: 'ลาน Aden 1st floor @Central world',
+        location: 'ลาน Eden 1st floor @Central world',
         time: '18:00 - 19:00',
         icon: 'theater',
         color: 'yellow'
@@ -1372,7 +1372,7 @@ module.exports = {
           '[Live] งานเปิดตัว Mirinda Mix-it Pineapple Passion fruit (MC)',
         link:
           'https://www.facebook.com/MirindaMixItThailand/videos/2314142092243975/',
-        location: 'ลาน Aden 1st floor @Central world',
+        location: 'ลาน Eden 1st floor @Central world',
         time: '17.30',
         icon: 'video-vintage',
         color: 'yellow'
@@ -1424,7 +1424,7 @@ module.exports = {
       details: {
         description: '[Event] Fan Meet Tinten X BNK48',
         link: 'https://youtu.be/v4ehdyhCtyE',
-        location: 'ลาน Aden 1st floor @Central world',
+        location: 'ลาน Eden 1st floor @Central world',
         time: '18:00',
         icon: 'theater',
         color: 'yellow'
@@ -1521,6 +1521,33 @@ module.exports = {
         time: '22:43',
         icon: 'video-vintage',
         color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2019-05-11',
+      title: 'BNK48 Thank you and The Beginner',
+      details: {
+        description:
+          '[Hi-touch] BNK48 Thank you and The Beginner - งาน Convert ขอบคุณเลือกตั้ง (เปิดตัว Single 6) Rayong',
+        link: '',
+        location: 'Central PlaZa Rayong',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2019-05-13',
+      title: 'Digital live studio',
+      details: {
+        description: '[Live] Digital live studio',
+        link: '',
+        location: 'ตู้ปลา @The EmQuartier',
+        time: '18:00',
+        icon: 'video-vintage',
+        color: 'purple'
       },
       open: false
     },

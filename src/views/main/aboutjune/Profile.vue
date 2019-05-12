@@ -51,12 +51,16 @@
         <v-card
           class="elevation-0"
           :class="{
-            'pa-3': $vuetify.breakpoint.xs,
-            'pa-5 ': $vuetify.breakpoint.smAndUp
+            'pa-3': $vuetify.breakpoint.smAndDown,
+            'pa-0 ': $vuetify.breakpoint.mdAndUp
           }"
           color="transparent"
         >
-          <v-card-text>
+          <v-card-text
+            :class="{
+              'px-0 ': $vuetify.breakpoint.mdAndUp
+            }"
+          >
             <v-layout row wrap>
               <v-flex xs12>
                 <div class="headline font-weight-bold">
