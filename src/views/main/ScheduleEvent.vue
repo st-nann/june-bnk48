@@ -27,7 +27,7 @@
           </v-layout>
         </v-card-text>
         <v-sheet
-          :height="650"
+          :height="$vuetify.breakpoint.xs ? 450 : 530"
           :class="{ 'mb-3': $vuetify.breakpoint.mdAndDown }"
         >
           <v-calendar
@@ -102,7 +102,11 @@
                   <v-flex xs12 sm9>
                     <strong>{{ item.title }}</strong>
                     <div class="caption">{{ item.details.description }}</div>
-                    <a target="_blank" :href="item.details.link">
+                    <a
+                      v-if="item.details.link !== ''"
+                      target="_blank"
+                      :href="item.details.link"
+                    >
                       click link
                     </a>
                     <div v-if="item.details.location !== ''">

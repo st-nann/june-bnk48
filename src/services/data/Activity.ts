@@ -10,7 +10,7 @@ module.exports = {
       detail: {
         description:
           'ขอเชิญ #เหล่าสมุนบะหมี่ ร่วม Donate เพื่อสร้างโปรเจควันเกิดให้กับ Juné (ขั้นต่ำ 50) ทุกการ Donate จะได้รับของที่ระลึก หากสนใจสามารถ Donate และกรอกแบบฟอร์มด้านล่าง(รายละเอียด สามารถดูได้ในฟอร์มค่ะ)',
-        link: 'https://forms.gle/7v7j6pcvBExwC9Nt9',
+        link: 'https://forms.gle/v32KXzhNjsXCioER6',
         period: {
           start: 1554681600,
           expiry: 1562284799

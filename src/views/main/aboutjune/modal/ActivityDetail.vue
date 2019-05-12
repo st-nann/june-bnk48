@@ -14,8 +14,13 @@
           <v-card-text class="pt-0">
             <Period :activity="activity_detail"></Period>
           </v-card-text>
-          <v-card-text class="pt-0">
+          <v-card-text class="py-0">
             {{ activity_detail.detail.description }}
+          </v-card-text>
+          <v-card-text class="pt-0">
+            <a :href="activity_detail.detail.link" target="_blank">
+              click here !
+            </a>
           </v-card-text>
           <v-card-text class="pt-0">
             <v-window

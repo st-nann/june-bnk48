@@ -79,8 +79,14 @@ img.logo
 .font-size-10
   font-size: 10px
 
+.font-size-20
+  font-size: 20px
+
 .font-size-24
   font-size: 24px
+
+.font-size-30
+  font-size: 30px
 
 .font-size-40
   font-size: 40px

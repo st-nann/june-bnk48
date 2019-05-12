@@ -72,10 +72,11 @@
           <v-card
             v-for="(item, index) in fansongs"
             :key="index"
-            class="ma-0 py-1 elevation-0"
+            class="ma-0 py-1 elevation-0 clickable"
             :class="{
               'px-1 clickable': $vuetify.breakpoint.xs,
-              'px-3': $vuetify.breakpoint.smAndUp
+              'px-3': $vuetify.breakpoint.smAndUp,
+              'coral--text': videoId === $youtube.getIdFromURL(item.link)
             }"
             ripple
             @click="doGetMedia(item.link)"
@@ -84,49 +85,74 @@
               <v-flex
                 xs1
                 sm1
-                class="pt-4"
+                class="pt-3"
                 :class="{
                   'text-xs-center': $vuetify.breakpoint.mdAndDown,
                   'text-xs-right': $vuetify.breakpoint.lgAndUp
                 }"
               >
-                <div class="subheading">{{ index + 1 }}</div>
+                <div
+                  :class="{
+                    subheading: $vuetify.breakpoint.smAndUp,
+                    caption: $vuetify.breakpoint.xs
+                  }"
+                >
+                  {{ index + 1 }}
+                </div>
               </v-flex>
-              <v-flex
-                xs3
-                sm3
-                class="text-xs-center"
-                :class="{
-                  'pt-1': $vuetify.breakpoint.smAndUp,
-                  'pt-3': $vuetify.breakpoint.xs
-                }"
-              >
-                <v-icon :size="$vuetify.breakpoint.xs ? 50 : 60" color="grey">
+              <v-flex xs3 sm3 class="text-xs-center">
+                <v-icon
+                  :size="$vuetify.breakpoint.xs ? 55 : 60"
+                  :color="
+                    videoId === $youtube.getIdFromURL(item.link) ? 'coral' : ''
+                  "
+                >
                   mdi-play-speed
                 </v-icon>
               </v-flex>
-              <v-flex xs8 sm5>
-                <div class="subheading font-weight-bold font-thai">
+              <v-flex xs8 sm5 :class="{ 'pt-2': $vuetify.breakpoint.smAndUp }">
+                <div
+                  class="font-weight-bold font-thai"
+                  :class="{
+                    subheading: $vuetify.breakpoint.smAndUp,
+                    caption: $vuetify.breakpoint.xs
+                  }"
+                >
                   {{ item.name }}
                 </div>
-                <div>- {{ item.artist }}</div>
+                <div :class="{ caption: $vuetify.breakpoint.xs }">
+                  - {{ item.artist }}
+                </div>
+                <div class="hidden-sm-and-up">
+                  <v-icon
+                    :size="$vuetify.breakpoint.xs ? 16 : 18"
+                    :color="
+                      videoId === $youtube.getIdFromURL(item.link)
+                        ? 'coral'
+                        : ''
+                    "
+                  >
+                    mdi-timer
+                  </v-icon>
+                  <span :class="{ caption: $vuetify.breakpoint.xs }">
+                    {{ item.time }}
+                  </span>
+                </div>
+              </v-flex>
+              <v-flex xs3 class="text-xs-center hidden-xs-only pt-3">
                 <div>
-                  <v-icon size="18">
+                  <v-icon
+                    size="18"
+                    :color="
+                      videoId === $youtube.getIdFromURL(item.link)
+                        ? 'coral'
+                        : ''
+                    "
+                  >
                     mdi-timer
                   </v-icon>
                   {{ item.time }}
                 </div>
-              </v-flex>
-              <v-flex xs3 class="text-xs-center hidden-xs-only">
-                <v-btn
-                  class="px-4 mt-3"
-                  color="coral"
-                  round
-                  outline
-                  @click="doGetMedia(item.link)"
-                >
-                  view
-                </v-btn>
               </v-flex>
             </v-layout>
             <v-divider class="mt-2"></v-divider>
