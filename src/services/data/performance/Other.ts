@@ -181,6 +181,13 @@ module.exports = {
       type: 'youtube'
     },
     {
+      name: 'Hilight KazzMagazine UnderGirls BNK48',
+      description: 'Part 1',
+      time: '00:35',
+      link: 'https://youtu.be/HWdN1hXIcrs',
+      type: 'youtube'
+    },
+    {
       name: 'Kazz interview',
       description: 'จูเน่ มิวนิค รตา มายยู แบมบู นิว : Tsugi no Season ฤดูใหม่',
       time: '04:53',

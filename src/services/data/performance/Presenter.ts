@@ -2,7 +2,7 @@ module.exports = {
   presenter: [
     {
       name: 'TINTEN Fan Meeting [Full]',
-      description: '3 Apr 2019 @ลาน Eden Central World',
+      description: '3 Apr 2019 @ลาน Eden Central world',
       time: '01:39:46',
       link: 'https://youtu.be/v4ehdyhCtyE',
       type: 'youtube'
