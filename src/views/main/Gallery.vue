@@ -1,8 +1,12 @@
 <template>
   <v-layout row wrap>
     <v-flex xs12>
+      <img :src="doGetImage(cover.name, cover.token)" width="100%" />
+    </v-flex>
+    <v-flex xs12 class="mt-3">
       <v-tabs
         v-model="tab"
+        class="gallery darkbrown--text"
         color="transparent"
         slider-color="darkbrown"
         centered
@@ -96,7 +100,7 @@
 
 <script>
 import data from '@/services/data/Gallery'
-import { convertName } from '@/services/functions/Services'
+import { getImageFromStore, convertName } from '@/services/functions/Services'
 import GalleryList from '@/views/main/gallery/List'
 
 export default {
@@ -112,6 +116,9 @@ export default {
     GalleryList
   },
   computed: {
+    cover() {
+      return data ? data.cover : {}
+    },
     tabs() {
       return data ? data.tabs : []
     },
@@ -128,6 +135,9 @@ export default {
     this.doGetDetail(this.tab)
   },
   methods: {
+    doGetImage(name, token) {
+      return getImageFromStore(name, token)
+    },
     doGetDetail(name) {
       let key = convertName(name)
       let detail = () => import(`@/services/data/gallery/${key}`)
