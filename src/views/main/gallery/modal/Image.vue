@@ -8,14 +8,16 @@
       :closeModal="doCloseModal"
     >
       <div slot="body">
-        <v-icon
-          class="clickable icon-close"
-          @click="doCloseModal()"
-        >
-          mdi-close-circle
-        </v-icon>
+        <div class="text-xs-right">
+          <v-icon
+            class="clickable icon-close"
+            @click="doCloseModal()"
+          >
+            mdi-close-circle
+          </v-icon>
+        </div>
         <img :src="doGetImage(item.image.name, item.image.token)" width="100%" />
-        <div class="pt-2 text-xs-center font-weight-bold">
+        <div class="pt-2 text-xs-center font-weight-bold font-thai">
           {{ item.name }}
         </div>
       </div>
@@ -60,6 +62,7 @@ export default {
 .icon-close
   position: absolute
   right: 0
-  margin-top: -10px
-  margin-right: 8px
+  margin-right: 5px
+  margin-top: -12px
+  color: black !important
 </style>

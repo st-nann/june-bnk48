@@ -10,7 +10,7 @@ module.exports = {
       name: 'ตรุษจีนเยาวราช 2019',
       date: '6 Febuary 2019',
       place: 'Yaowarat',
-      value: '06022019_yaowarat'
+      value: '0602019_yaowarat'
     },
     {
       name: 'Mirinda Mix-It',

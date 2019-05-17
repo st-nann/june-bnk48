@@ -3,12 +3,12 @@
     <v-flex xs12>
       <img :src="doGetImage(cover.name, cover.token)" width="100%" />
     </v-flex>
-    <v-flex xs12 class="mt-3">
+    <v-flex xs12 class="my-3">
       <v-tabs
         v-model="tab"
-        class="gallery darkbrown--text"
+        class="gallery brown--text"
         color="transparent"
-        slider-color="darkbrown"
+        slider-color="brown"
         centered
         fixed-tabs
       >
@@ -23,48 +23,56 @@
       <v-tabs-items v-model="tab">
         <v-tab-item
           v-for="(item, index) in tabs"
-            :key="index"
+          :key="index"
           :value="`${item.value}`"
         >
           <v-card flat>
             <v-card-text>
-              <v-layout v-if="!isArry" row wrap>
-                <v-spacer></v-spacer>
-                <v-flex xs3>
-                  <v-select
-                    v-model="topic"
-                    :items="menu"
-                    item-text="name"
-                    item-value="value"
-                    prepend-inner-icon="mdi-calendar-check"
-                    :menu-props="{ closeOnContentClick: true, overflowY: true }"
-                    background-color="brown"
-                    solo
-                    flat
-                    dense
-                    hide-details
-                  >
-                    <template v-slot:selection="{ item, index }">
-                      <v-list-tile class="pa-1">
-                        <v-list-tile-content v-if="menu.length > 0" class="font-thai white--text">
-                          <v-list-tile-title
-                            class="font-weight-bold"
-                            v-html="item.name"
-                          ></v-list-tile-title>
-                          <v-list-tile-sub-title>
-                            {{ item.date }} - {{ item.place }}
-                          </v-list-tile-sub-title>
-                        </v-list-tile-content>
-                      </v-list-tile>
-                    </template>
-                    <template v-slot:item="{ item, index }">
-                      <v-list-tile :key="item.value" class="pa-1">
-                        <v-list-tile-content v-if="menu.length > 0" class="font-thai">
+              <v-container
+                fluid
+                :class="{
+                  'py-2 px-5': $vuetify.breakpoint.lgAndUp,
+                  'pa-3': $vuetify.breakpoint.mdAndDown
+                }"
+              >
+                <v-layout v-if="tab === 'event'" row wrap>
+                  <v-spacer></v-spacer>
+                  <v-flex xs12 sm5 md4>
+                    <v-select
+                      v-model="topic"
+                      :items="menu"
+                      item-text="name"
+                      item-value="value"
+                      prepend-inner-icon="mdi-calendar-check"
+                      :menu-props="{ closeOnContentClick: true, overflowY: true }"
+                      color="white"
+                      background-color="brown"
+                      attach
+                      solo
+                      flat
+                      hide-details
+                    >
+                      <template v-slot:selection="{ item, index }">
+                        <v-list-tile class="pa-1">
+                          <v-list-tile-content v-if="menu.length > 0" class="font-thai white--text">
+                            <v-list-tile-title
+                              class="font-weight-bold"
+                              v-html="item.name"
+                            ></v-list-tile-title>
+                            <v-list-tile-sub-title>
+                              {{ item.date }} - {{ item.place }}
+                            </v-list-tile-sub-title>
+                          </v-list-tile-content>
+                        </v-list-tile>
+                      </template>
+                      <template v-slot:item="{ item, index }">
+                        <v-list-tile-content :key="item.value" v-if="menu.length > 0" class="font-thai">
                           <v-list-tile-title
                             class="font-weight-regular"
+                            :class="{'brown--text': item.value === topic }"
                             v-html="item.name"
                           ></v-list-tile-title>
-                          <v-list-tile-sub-title>
+                          <v-list-tile-sub-title :class="{'brown--text': item.value === topic }">
                             {{ item.date }} - {{ item.place }}
                           </v-list-tile-sub-title>
                         </v-list-tile-content>
@@ -84,12 +92,12 @@
                             ></v-progress-circular>
                           </v-layout>
                         </v-list-tile-content>
-                      </v-list-tile>
-                    </template>
-                  </v-select>
-                </v-flex>
-              </v-layout>
-              <GalleryList :image_lists="image_lists"></GalleryList>
+                      </template>
+                    </v-select>
+                  </v-flex>
+                </v-layout>
+              </v-container>
+              <GalleryList :image_lists="image_lists" :tab="tab"></GalleryList>
             </v-card-text>
           </v-card>
         </v-tab-item>
@@ -99,6 +107,7 @@
 </template>
 
 <script>
+import Vue from 'vue'
 import data from '@/services/data/Gallery'
 import { getImageFromStore, convertName } from '@/services/functions/Services'
 import GalleryList from '@/views/main/gallery/List'
@@ -107,8 +116,8 @@ export default {
   data() {
     return {
       tab: 'photoset',
-      image_lists: [],
       menu: [],
+      image_lists: [],
       topic: ''
     }
   },
@@ -121,24 +130,25 @@ export default {
     },
     tabs() {
       return data ? data.tabs : []
-    },
-    isArry() {
-      return _.isArray(this.image_lists)
     }
   },
   watch: {
     tab() {
-      this.doGetDetail(this.tab)
+      this.doGetImageList()
+    },
+    topic() {
+      this.doGetImageList()
     }
   },
   created() {
-    this.doGetDetail(this.tab)
+    this.doGetImageList()
   },
   methods: {
     doGetImage(name, token) {
       return getImageFromStore(name, token)
     },
-    doGetDetail(name) {
+    doGetImageList() {
+      let name = this.tab
       let key = convertName(name)
       let detail = () => import(`@/services/data/gallery/${key}`)
       detail().then(res => {
@@ -152,14 +162,19 @@ export default {
       })
     },
     doGetMenu(name) {
-      let menu = () => import(`@/services/data/gallery/${name}Menu`)
-      menu().then(res => {
-        this.menu = res.menu
-        this.topic = this.menu[0].value
-      })
+      if (this.menu.length < 1) {
+        let menu = () => import(`@/services/data/gallery/${name}Menu`)
+        menu().then(res => {
+          this.menu = res.menu
+          this.topic = res.menu[0].value
+        })
+      }
     }
   }
 }
 </script>
 
-<style lang="stylus" scoped></style>
+<style lang="stylus">
+.v-window__container--is-active
+  height: auto !important
+</style>

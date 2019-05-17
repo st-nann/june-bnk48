@@ -13,7 +13,7 @@
         justify-center
         fill-height
         tag="v-card-text"
-        style="height: 650px;"
+        style="height: 450px;"
       >
         <v-progress-circular
           indeterminate
