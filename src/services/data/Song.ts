@@ -51,6 +51,12 @@ module.exports = {
       link: 'https://www.youtube.com/watch?v=IwBd907dmQk'
     },
     {
+      name: 'Wassup พี่สาว',
+      artist: 'HNUN Feat.1 9 9 2 K official',
+      time: '02:27',
+      link: 'https://youtu.be/AMZQNC6IuRY'
+    },
+    {
       name: 'แอบรัก (June)',
       artist: 'TDZ48 feat.1QFordz',
       time: '3:54',

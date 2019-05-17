@@ -69,7 +69,7 @@
 
 <script>
 import data from '@/services/data/Performance'
-import { getImageFromStore } from '@/services/functions/Services'
+import { getImageFromStore, convertName } from '@/services/functions/Services'
 import Detail from '@/views/main/performance/Detail'
 
 export default {
@@ -93,10 +93,7 @@ export default {
       return getImageFromStore(name, token)
     },
     doGetCategoryLists(group) {
-      let camel = _.camelCase(group.key)
-      let key = _.includes(group.key, '_')
-        ? _.upperFirst(camel)
-        : _.capitalize(group.key)
+      let key = convertName(group.name)
       this.group = group
       this.data = () => import(`@/services/data/performance/${key}`)
       this.data().then(res => {

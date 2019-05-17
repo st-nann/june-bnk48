@@ -63,7 +63,7 @@
                     <v-expand-transition>
                       <div
                         v-if="hover"
-                        class="d-flex transition-fast-in-fast-out darkbrown v-card--reveal white--text"
+                        class="d-flex transition-fast-in-fast-out brown v-card--reveal white--text"
                         :class="{
                           caption: $vuetify.breakpoint.smAndDown,
                           title: $vuetify.breakpoint.mdAndUp

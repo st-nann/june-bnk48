@@ -1,9 +1,9 @@
 <template>
   <v-card>
-    <v-card-title>
+    <v-card-title v-if="!hide_action">
       <div class="headline">{{ title }}</div>
     </v-card-title>
-    <v-card-text class="pb-3 pt-2" v-if="description !== ''">
+    <v-card-text class="pb-3 pt-2" v-if="description !== '' && !hide_action">
       <span class="hidden-sm-and-down">{{ description }}</span>
     </v-card-text>
     <v-card-text v-if="body">
@@ -13,7 +13,7 @@
         justify-center
         fill-height
         tag="v-card-text"
-        style="height: 650px;"
+        style="height: 450px;"
       >
         <v-progress-circular
           indeterminate
@@ -24,7 +24,7 @@
       </v-layout>
       <slot name="body" v-else></slot>
     </v-card-text>
-    <v-card-actions>
+    <v-card-actions v-if="!hide_action">
       <v-spacer></v-spacer>
       <v-btn
         class="orange--text font-weight-bold"
@@ -50,7 +50,8 @@ export default {
     'okCallback',
     'closeModal',
     'danger',
-    'disable'
+    'disable',
+    'hide_action'
   ],
   computed: {
     ...mapState('components', {

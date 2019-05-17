@@ -1558,7 +1558,20 @@ module.exports = {
         description: '[Event] City of Sweet 2019',
         link: '',
         location: 'Terminal Asok G floor',
-        time: '18:00',
+        time: '18:00 - 19:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2019-05-17',
+      title: 'Money Expo 2019 (มหกรรมการเงิน ครั้งที่ 19)',
+      details: {
+        description: '[Event] City of Sweet 2019',
+        link: '',
+        location: 'บูธธนาคารออมสิน Challenger Hall @Impact Arena เมืองทองธานี',
+        time: '16:00',
         icon: 'theater',
         color: 'yellow'
       },
@@ -1601,6 +1614,19 @@ module.exports = {
         time: 'all day',
         icon: 'charity',
         color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2019-06-03',
+      title: 'งานน้ำใจสร้างกุศล ของคณะแพทย์ฯจุฬา',
+      details: {
+        description: '[Event] City of Sweet 2019',
+        link: '',
+        location: 'ห้องประชุม 1210 โซนบี ชั้น 12 อาคารภูมิสิริมังคลานุสรณ์ รพ. ุฬา',
+        time: '11:00 - 13ซ00',
+        icon: 'theater',
+        color: 'yellow'
       },
       open: false
     },
