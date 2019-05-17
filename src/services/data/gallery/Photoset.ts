@@ -160,20 +160,20 @@ module.exports = {
         name: 'gallery%2Fphotoset%2Fbeginner%20(full)',
         token: '4029ae2d-3dc6-497d-9a7c-7d7d2a5428c9'
       }
-    // },
-    // {
-    //   name: '[Single 6] - Beginner (Closeup)',
-    //   image: {
-    //     name: 'gallery%2Fbeginner%20(closeup)',
-    //     token: '9a0246e4-93ec-44b7-84d3-712d608e14bc'
-    //   }
-    // },
-    // {
-    //   name: '[Single 7] - Reborn',
-    //   image: {
-    //     name: '',
-    //     token: ''
-    //   }
+      // },
+      // {
+      //   name: '[Single 6] - Beginner (Closeup)',
+      //   image: {
+      //     name: 'gallery%2Fbeginner%20(closeup)',
+      //     token: '9a0246e4-93ec-44b7-84d3-712d608e14bc'
+      //   }
+      // },
+      // {
+      //   name: '[Single 7] - Reborn',
+      //   image: {
+      //     name: '',
+      //     token: ''
+      //   }
     }
   ]
 }

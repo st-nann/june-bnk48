@@ -6,11 +6,18 @@
       :class="{
         'py-2 px-5': $vuetify.breakpoint.lgAndUp,
         'pa-3': $vuetify.breakpoint.mdAndDown
-      }">
+      }"
+    >
       <v-layout row wrap>
         <v-flex xs4 sm3 lg2 v-for="(data, index) in image_lists" :key="index">
           <v-container v-if="data.credit" fill-height>
-            <v-layout row wrap align-center justify-center class="text-xs-center">
+            <v-layout
+              row
+              wrap
+              align-center
+              justify-center
+              class="text-xs-center"
+            >
               <v-flex xs12>
                 <v-avatar
                   :size="150"
@@ -25,7 +32,9 @@
                     {{ data.credit.substring(0, 1).toUpperCase() }}
                   </div>
                 </v-avatar>
-                <div class="mt-3 subheading font-weight-bold">{{ data.credit }}</div>
+                <div class="mt-3 subheading font-weight-bold">
+                  {{ data.credit }}
+                </div>
               </v-flex>
             </v-layout>
           </v-container>
@@ -43,13 +52,11 @@
               :height="$vuetify.breakpoint.xs ? '150px' : '330px'"
             >
               <template v-slot:placeholder>
-                <v-layout
-                  fill-height
-                  align-center
-                  justify-center
-                  ma-0
-                >
-                  <v-progress-circular indeterminate color="grey lighten-5"></v-progress-circular>
+                <v-layout fill-height align-center justify-center ma-0>
+                  <v-progress-circular
+                    indeterminate
+                    color="grey lighten-5"
+                  ></v-progress-circular>
                 </v-layout>
               </template>
             </v-img>
@@ -64,7 +71,6 @@
     ></ImageModal>
   </div>
 </template>
-
 
 <script>
 import _ from 'lodash'

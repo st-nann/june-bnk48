@@ -6,7 +6,5 @@ export function getImageFromStore(name: string, token: string) {
 
 export function convertName(name) {
   let camel = _.camelCase(name)
-  return _.includes(name, '_')
-    ? _.upperFirst(camel)
-    : _.capitalize(name)
+  return _.includes(name, '_') ? _.upperFirst(camel) : _.capitalize(name)
 }
