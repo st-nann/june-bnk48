@@ -1,5 +1,5 @@
 module.exports = {
-  social: [
+  socials: [
     {
       name: 'Facebook',
       image: {
@@ -29,10 +29,17 @@ module.exports = {
       }
     },
     {
-      name: 'Youtube',
+      name: 'Youtube Chanel',
       image: {
         name: 'base%2Flogo%2Fyoutube',
         token: 'e1bc98bf-c9c2-4c22-9a74-cf62d2e3a831'
+      }
+    },
+    {
+      name: 'Facebook Group',
+      image: {
+        name: 'base%2Flogo%2Ffacebookgroup',
+        token: '6b55b6ad-01f8-4984-b135-3e0586c64aba'
       }
     },
     {
@@ -85,7 +92,7 @@ module.exports = {
             name: 'Juné BNK48 Thailand Fanclub',
             route: 'https://www.youtube.com/channel/UCrqDo51ZS6OP6HnidoEUmCg'
           }
-        },
+        }
       ]
     },
     {

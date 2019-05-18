@@ -1,32 +1,61 @@
 <template>
-  <qr-canvas :options="options"></qr-canvas>
+  <qr-canvas :options="options[group]"></qr-canvas>
 </template>
 
 <script>
-import { QRCanvas } from 'qrcanvas-vue'
- 
+const { QRCanvas } = require('qrcanvas-vue')
+import Vue from 'vue'
+import { getImageFromStore } from '@/services/functions/Services'
+
 export default {
-  components: {
-    QRCanvas
-  },
+  props: ['lists', 'group', 'qrcode'],
   data() {
     return {
-      options: {
-        cellSize: 8,
-        correctLevel: 'M',
-        data: 'hello, world',
+      options: {},
+      filter: []
+    }
+  },
+  components: {
+    QrCanvas: QRCanvas
+  },
+  watch: {
+    qrcode: {
+      handler() {
+        this.doGetOptions()
       },
-    };
+      deep: true
+    }
   },
   created() {
-    const image = new Image();
-    image.src = 'https://user-images.githubusercontent.com/3139113/38300650-ed2c25c4-382f-11e8-9792-d46987eb17d1.png';
-    image.onload = () => {
-      this.options = Object.assign({}, this.options, {
-        logo: {
-          image
+    this.doGetOptions()
+  },
+  methods: {
+    doGetOptions() {
+      _.forEach(this.lists, item => {
+        if (item.social === this.qrcode[item.group]) {
+          this.filter[item.group] = item
         }
       })
+      Vue.set(this.options, this.group, {
+        size: 180,
+        correctLevel: 'M',
+        data: this.filter[this.group].link.route
+      })
+      const image = new Image()
+      image.src = this.doGetImage(
+        this.filter[this.group].icon.name,
+        this.filter[this.group].icon.token
+      )
+      image.onload = () => {
+        this.options[this.group] = Object.assign({}, this.options[this.group], {
+          logo: {
+            image
+          }
+        })
+      }
+    },
+    doGetImage(name, token) {
+      return getImageFromStore(name, token)
     }
   }
 }
