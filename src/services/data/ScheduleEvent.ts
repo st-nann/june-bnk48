@@ -1565,13 +1565,13 @@ module.exports = {
       open: false
     },
     {
-      date: '2019-05-17',
+      date: '2019-05-18',
       title: 'Money Expo 2019 (มหกรรมการเงิน ครั้งที่ 19)',
       details: {
         description: '[Event] City of Sweet 2019',
         link: '',
         location: 'บูธธนาคารออมสิน Challenger Hall @Impact Arena เมืองทองธานี',
-        time: '16:00',
+        time: '16:00 - 16.40',
         icon: 'theater',
         color: 'yellow'
       },

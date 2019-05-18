@@ -7,7 +7,7 @@
       'pa-5': $vuetify.breakpoint.smAndUp
     }"
   >
-    <v-flex xs12 lg8>
+    <v-flex xs12 lg7>
       <v-card color="brown" flat>
         <v-card-text>
           <v-layout row wrap class="white--text">
@@ -27,7 +27,7 @@
           </v-layout>
         </v-card-text>
         <v-sheet
-          :height="$vuetify.breakpoint.xs ? 450 : 530"
+          :height="$vuetify.breakpoint.xs ? 450 : 500"
           :class="{ 'mb-3': $vuetify.breakpoint.mdAndDown }"
         >
           <v-calendar
@@ -57,7 +57,7 @@
     </v-flex>
     <v-flex
       xs12
-      lg4
+      lg5
       class="font-thai"
       :class="{ 'pl-3': $vuetify.breakpoint.lgAndUp }"
     >
@@ -87,7 +87,7 @@
                   </v-icon>
                 </template>
                 <v-layout row wrap class="white pa-3 elevation-5">
-                  <v-flex xs12 sm3>
+                  <v-flex xs12 sm4>
                     <strong>
                       <v-icon
                         size="15"
@@ -99,7 +99,7 @@
                       {{ item.details.time }}
                     </strong>
                   </v-flex>
-                  <v-flex xs12 sm9>
+                  <v-flex xs12 sm8>
                     <strong>{{ item.title }}</strong>
                     <div class="caption">{{ item.details.description }}</div>
                     <a
