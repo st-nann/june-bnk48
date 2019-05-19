@@ -50,6 +50,38 @@ module.exports = {
       }
     }
   ],
+  june: {
+    image: {
+      name: 'followup%2Fjune%2Ffollowup',
+      token: '3947fc52-c46a-484c-91ef-870897e50b4a'
+    },
+    contact: [
+      {
+        name: 'Facebook',
+        link: {
+          name: 'Juné BNK48',
+          route: 'https://www.facebook.com/bnk48official.june/'
+        }
+      },
+      {
+        name: 'Instagram',
+        link: {
+          name: 'june.bnk48office',
+          route: 'https://www.instagram.com/june.bnk48office/'
+        }
+      }
+    ],
+    hashtag: [
+      {
+        name: 'filmkongjń',
+        route: 'https://www.instagram.com/explore/tags/filmkongj%C5%84/'
+      },
+      {
+        name: 'taiidbabnitongdetoxbyjuné',
+        route: 'https://www.instagram.com/explore/tags/taiidbabnitongdetoxbyjun%C3%A9/'
+      }
+    ]
+  },
   groups: [
     {
       name: 'ร้านบะหมี่ของจูเน่',
