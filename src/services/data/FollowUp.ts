@@ -78,7 +78,8 @@ module.exports = {
       },
       {
         name: 'taiidbabnitongdetoxbyjuné',
-        route: 'https://www.instagram.com/explore/tags/taiidbabnitongdetoxbyjun%C3%A9/'
+        route:
+          'https://www.instagram.com/explore/tags/taiidbabnitongdetoxbyjun%C3%A9/'
       }
     ]
   },

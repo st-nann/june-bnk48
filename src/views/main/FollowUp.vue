@@ -12,7 +12,9 @@
               ></v-img>
             </v-flex>
             <v-flex xs12 sm4 lg2 class="text-xs-center">
-              <div class="font-weight-bold my-3"> Follow up </div>
+              <div class="font-weight-bold my-3">
+                Follow up
+              </div>
               <span
                 v-for="(item, index) in june.contact"
                 :key="`qrcode-${index}`"
@@ -32,15 +34,19 @@
                 :class="{
                   'mt-3': $vuetify.breakpoint.mdAndUp,
                   'mt-1': $vuetify.breakpoint.smAndDown
-                  }
-                "
+                }"
               >
-                <div v-for="(item, index) in june.contact" :key="`link-${index}`">
-                  <img :src="
-                    doGetImage(
-                      doMapIcon(item.name).image.name,
-                      doMapIcon(item.name).image.token
-                    )"
+                <div
+                  v-for="(item, index) in june.contact"
+                  :key="`link-${index}`"
+                >
+                  <img
+                    :src="
+                      doGetImage(
+                        doMapIcon(item.name).image.name,
+                        doMapIcon(item.name).image.token
+                      )
+                    "
                     width="20"
                   />
                   <a
@@ -57,8 +63,7 @@
                 :class="{
                   'ma-3': $vuetify.breakpoint.mdAndUp,
                   'ma-1': $vuetify.breakpoint.smAndDown
-                  }
-                "
+                }"
               ></v-divider>
               <div class="font-weight-bold caption my-2">- Hashtag -</div>
               <div v-for="(item, index) in june.hashtag" :key="index">
@@ -92,7 +97,13 @@
             </span>
           </v-card-text>
           <v-card-text class="px-5">
-            <div :style="$vuetify.breakpoint.mdAndDown ? 'height: 140px' : 'height: 100px'">
+            <div
+              :style="
+                $vuetify.breakpoint.mdAndDown
+                  ? 'height: 140px'
+                  : 'height: 100px'
+              "
+            >
               <div v-for="(data, subindex) in item.contact" :key="subindex">
                 <img
                   :src="

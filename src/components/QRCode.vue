@@ -35,17 +35,14 @@ export default {
         this.options.size = this.size
         this.options.correctLevel = 'M'
         this.options.data = this.data.link.route
-        this.doAssignData(
-          this.icon.name,
-          this.icon.token
-        )
+        this.doAssignData(this.icon.name, this.icon.token)
       } else {
-         _.forEach(this.lists, item => {
+        _.forEach(this.lists, item => {
           if (item.social === this.qrcode[item.group]) {
             this.filter[item.group] = item
           }
         })
-         Vue.set(this.options, this.group, {
+        Vue.set(this.options, this.group, {
           size: this.size,
           correctLevel: 'M',
           data: this.filter[this.group].link.route
@@ -58,22 +55,26 @@ export default {
     },
     doAssignData(name, token) {
       const image = new Image()
-        image.src = this.doGetImage(name, token)
-        image.onload = () => {
-          if (this.group) {
-            this.options[this.group] = Object.assign({}, this.options[this.group], {
+      image.src = this.doGetImage(name, token)
+      image.onload = () => {
+        if (this.group) {
+          this.options[this.group] = Object.assign(
+            {},
+            this.options[this.group],
+            {
               logo: {
                 image
               }
-            })
-          } else {
-            this.options = Object.assign({}, this.options, {
-              logo: {
-                image
-              }
-            })
-          }
+            }
+          )
+        } else {
+          this.options = Object.assign({}, this.options, {
+            logo: {
+              image
+            }
+          })
         }
+      }
     },
     doGetImage(name, token) {
       return getImageFromStore(name, token)

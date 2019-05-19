@@ -22,7 +22,7 @@ export default new Router({
     {
       path: '/',
       meta: { title: 'Enter site', nolayout: true },
-      component: () => import(`@/views/EnterSite.vue`)
+      component: () => import(`@/views/Home.vue`)
     },
     {
       path: '/about_june',
