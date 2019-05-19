@@ -1,5 +1,160 @@
 module.exports = {
   event: {
+    ['18052019_money_expo']: [
+      { credit: 'mukashi1911' },
+      {
+        name: 'Money Expo 2019',
+        image: {
+          name:
+            'gallery%2Fevent%2F2019.05.18%20Money%20Expo%202019%2Fmoneyexpo001',
+          token: 'ca6a4cbb-1b1c-4413-8341-3bceb7e3c6d1'
+        }
+      },
+      {
+        name: 'Money Expo 2019',
+        image: {
+          name:
+            'gallery%2Fevent%2F2019.05.18%20Money%20Expo%202019%2Fmoneyexpo002',
+          token: '23efda47-0ed1-4f7e-a968-544e7a328538'
+        }
+      },
+      {
+        name: 'Money Expo 2019',
+        image: {
+          name:
+            'gallery%2Fevent%2F2019.05.18%20Money%20Expo%202019%2Fmoneyexpo003',
+          token: 'e5aaee63-1050-4965-9c2d-9b2592954042'
+        }
+      },
+      {
+        name: 'Money Expo 2019',
+        image: {
+          name:
+            'gallery%2Fevent%2F2019.05.18%20Money%20Expo%202019%2Fmoneyexpo004',
+          token: '9f4e10d4-71b9-46e4-ad34-3bcf979bb269'
+        }
+      },
+      {
+        name: 'Money Expo 2019',
+        image: {
+          name:
+            'gallery%2Fevent%2F2019.05.18%20Money%20Expo%202019%2Fmoneyexpo005',
+          token: '5318f2f6-6cc8-4104-8feb-64fc92227b5c'
+        }
+      },
+      {
+        name: 'Money Expo 2019',
+        image: {
+          name:
+            'gallery%2Fevent%2F2019.05.18%20Money%20Expo%202019%2Fmoneyexpo006',
+          token: 'f141131e-6f61-491e-b581-bb00190c37fb'
+        }
+      },
+      {
+        name: 'Money Expo 2019',
+        image: {
+          name:
+            'gallery%2Fevent%2F2019.05.18%20Money%20Expo%202019%2Fmoneyexpo007',
+          token: '2603c444-73b5-46f6-a0b0-fb6ab63b7947'
+        }
+      },
+      {
+        name: 'Money Expo 2019',
+        image: {
+          name:
+            'gallery%2Fevent%2F2019.05.18%20Money%20Expo%202019%2Fmoneyexpo008',
+          token: '81c9f037-8edf-4cde-832c-32714e8becf1'
+        }
+      },
+      {
+        name: 'Money Expo 2019',
+        image: {
+          name:
+            'gallery%2Fevent%2F2019.05.18%20Money%20Expo%202019%2Fmoneyexpo009',
+          token: '33e50017-933b-47fc-8ae8-521f130d9c1c'
+        }
+      },
+      {
+        name: 'Money Expo 2019',
+        image: {
+          name:
+            'gallery%2Fevent%2F2019.05.18%20Money%20Expo%202019%2Fmoneyexpo010',
+          token: 'f09e4c7b-8527-4f8e-9425-f156f2a62777'
+        }
+      },
+      {
+        name: 'Money Expo 2019',
+        image: {
+          name:
+            'gallery%2Fevent%2F2019.05.18%20Money%20Expo%202019%2Fmoneyexpo011',
+          token: '3f1396f5-437b-4eb9-9384-5d1bd339c9fd'
+        }
+      },
+      {
+        name: 'Money Expo 2019',
+        image: {
+          name:
+            'gallery%2Fevent%2F2019.05.18%20Money%20Expo%202019%2Fmoneyexpo012',
+          token: '9256b61e-a314-41c6-9354-04ed82091aa9'
+        }
+      },
+      {
+        name: 'Money Expo 2019',
+        image: {
+          name:
+            'gallery%2Fevent%2F2019.05.18%20Money%20Expo%202019%2Fmoneyexpo013',
+          token: 'fb46ba57-05d2-43a7-bb44-dcf31d910b20'
+        }
+      },
+      {
+        name: 'Money Expo 2019',
+        image: {
+          name:
+            'gallery%2Fevent%2F2019.05.18%20Money%20Expo%202019%2Fmoneyexpo014',
+          token: '985520bc-2dba-4364-aa0a-08d609d26948'
+        }
+      },
+      {
+        name: 'Money Expo 2019',
+        image: {
+          name:
+            'gallery%2Fevent%2F2019.05.18%20Money%20Expo%202019%2Fmoneyexpo015',
+          token: '6505d6d9-df6f-46dc-a55e-d000321b7aec'
+        }
+      },
+      {
+        name: 'Money Expo 2019',
+        image: {
+          name:
+            'gallery%2Fevent%2F2019.05.18%20Money%20Expo%202019%2Fmoneyexpo016',
+          token: 'ffde33d4-b7e6-412f-aa3a-a38c651f2005'
+        }
+      },
+      {
+        name: 'Money Expo 2019',
+        image: {
+          name:
+            'gallery%2Fevent%2F2019.05.18%20Money%20Expo%202019%2Fmoneyexpo017',
+          token: '107dd26e-3b71-49e3-a137-2819b36e8ecb'
+        }
+      },
+      {
+        name: 'Money Expo 2019',
+        image: {
+          name:
+            'gallery%2Fevent%2F2019.05.18%20Money%20Expo%202019%2Fmoneyexpo018',
+          token: '23a37e56-ec84-418e-a0b6-5818234f39b1'
+        }
+      },
+      {
+        name: 'Money Expo 2019',
+        image: {
+          name:
+            'gallery%2Fevent%2F2019.05.18%20Money%20Expo%202019%2Fmoneyexpo019',
+          token: '1a3e8b0d-55f5-4ee8-83ff-1259db1b72af'
+        }
+      }
+    ],
     ['23012019_teaw_mueng_thai']: [
       { credit: 'mukashi1911' },
       {
