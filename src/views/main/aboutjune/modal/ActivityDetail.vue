@@ -41,11 +41,12 @@
                   fill-height
                   tag="v-card-text"
                 >
-                  <img
+                  <v-img
                     :src="doGetImage(item.name, item.token)"
+                    :lazy-src="doGetImage(item.name, item.token)"
                     class="elevation-20"
                     width="100%"
-                  />
+                  ></v-img>
                 </v-layout>
               </v-window-item>
             </v-window>
