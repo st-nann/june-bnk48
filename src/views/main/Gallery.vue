@@ -44,7 +44,10 @@
                       item-text="name"
                       item-value="value"
                       prepend-inner-icon="mdi-calendar-check"
-                      :menu-props="{ closeOnContentClick: true, overflowY: true }"
+                      :menu-props="{
+                        closeOnContentClick: true,
+                        overflowY: true
+                      }"
                       color="white"
                       background-color="brown"
                       attach
@@ -54,7 +57,10 @@
                     >
                       <template v-slot:selection="{ item, index }">
                         <v-list-tile class="pa-1">
-                          <v-list-tile-content v-if="menu.length > 0" class="font-thai white--text">
+                          <v-list-tile-content
+                            v-if="menu.length > 0"
+                            class="font-thai white--text"
+                          >
                             <v-list-tile-title
                               class="font-weight-bold"
                               v-html="item.name"
@@ -66,13 +72,19 @@
                         </v-list-tile>
                       </template>
                       <template v-slot:item="{ item, index }">
-                        <v-list-tile-content :key="item.value" v-if="menu.length > 0" class="font-thai">
+                        <v-list-tile-content
+                          :key="item.value"
+                          v-if="menu.length > 0"
+                          class="font-thai"
+                        >
                           <v-list-tile-title
                             class="font-weight-regular"
-                            :class="{'brown--text': item.value === topic }"
+                            :class="{ 'brown--text': item.value === topic }"
                             v-html="item.name"
                           ></v-list-tile-title>
-                          <v-list-tile-sub-title :class="{'brown--text': item.value === topic }">
+                          <v-list-tile-sub-title
+                            :class="{ 'brown--text': item.value === topic }"
+                          >
                             {{ item.date }} - {{ item.place }}
                           </v-list-tile-sub-title>
                         </v-list-tile-content>

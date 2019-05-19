@@ -86,12 +86,12 @@
         </v-layout>
       </v-flex>
     </v-layout>
-    <v-layout row wrap class="text-xs-center py-3">
+    <v-layout row wrap class="text-xs-center py-3 caption">
       <v-flex xs12 class="pb-1">
         ----------- created by -----------
       </v-flex>
       <v-flex xs12 v-for="(item, index) in contact" :key="index">
-        <img :src="doGetImage(item.name, item.token)" width="20px" />
+        <img :src="doGetImage(item.name, item.token)" width="15px" />
         <span style="vertical-align: super;">
           {{ item.detail.description }}
         </span>
@@ -103,11 +103,11 @@
     <v-layout row wrap class="text-xs-center mx-3">
       <v-flex xs12 class="font-size-10 grey--text">
         <div>
-          Juné BNK48 website v2.0.0
+          Juné BNK48 website v1.0.0
         </div>
         <div>
           <span class="caption">&copy;</span>
-          {{ new Date().getFullYear() }} Mukashi1911.bnk48
+          {{ new Date().getFullYear() }} Sanyanee Thawinvongrak
         </div>
       </v-flex>
     </v-layout>

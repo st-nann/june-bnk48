@@ -20,6 +20,7 @@
     "chart.js": "^2.8.0",
     "moment": "^2.24.0",
     "numeral": "^2.0.6",
+    "qrcanvas-vue": "^2.0.3",
     "vue": "^2.6.6",
     "vue-class-component": "^6.0.0",
     "vue-clipboard2": "^0.3.0",

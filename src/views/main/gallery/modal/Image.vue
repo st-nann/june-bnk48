@@ -9,14 +9,14 @@
     >
       <div slot="body">
         <div class="text-xs-right">
-          <v-icon
-            class="clickable icon-close"
-            @click="doCloseModal()"
-          >
+          <v-icon class="clickable icon-close" @click="doCloseModal()">
             mdi-close-circle
           </v-icon>
         </div>
-        <img :src="doGetImage(item.image.name, item.image.token)" width="100%" />
+        <img
+          :src="doGetImage(item.image.name, item.image.token)"
+          width="100%"
+        />
         <div class="pt-2 text-xs-center font-weight-bold font-thai">
           {{ item.name }}
         </div>
