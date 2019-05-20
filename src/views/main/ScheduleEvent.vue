@@ -45,10 +45,10 @@
                 @click="doGetDetailEvent(date)"
                 class="brown--text text-xs-center pt-2 clickable"
               >
-                <v-icon color="brown" :size="$vuetify.breakpoint.xs ? 28 : 40">
-                  mdi-one-up
-                </v-icon>
-                <div :class="{ caption: $vuetify.breakpoint.xs }">view</div>
+                <img
+                  :src="doGetImage('schedule%2Fsalmon', '4a5863b6-9f4f-48b3-a187-dc26773955e6')"
+                  width="40%"
+                />
               </div>
             </template>
           </v-calendar>
@@ -135,6 +135,7 @@
 import _ from 'lodash'
 import moment from 'moment'
 import data from '@/services/data/ScheduleEvent'
+import { getImageFromStore } from '@/services/functions/Services'
 
 export default {
   data() {
@@ -166,6 +167,9 @@ export default {
     doGetDetailEvent(date) {
       this.date = date
       this.details = _.filter(this.events, { date: date })
+    },
+    doGetImage(name, token) {
+      return getImageFromStore(name, token)
     }
   }
 }
