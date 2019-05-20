@@ -1624,7 +1624,7 @@ module.exports = {
         description: '[Event] City of Sweet 2019',
         link: '',
         location:
-          'ห้องประชุม 1210 โซนบี ชั้น 12 อาคารภูมิสิริมังคลานุสรณ์ รพ. ุฬา',
+          'ห้องประชุม 1210 โซนบี ชั้น 12 อาคารภูมิสิริมังคลานุสรณ์ รพ.จุฬา',
         time: '11:00 - 13ซ00',
         icon: 'theater',
         color: 'yellow'
