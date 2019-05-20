@@ -46,7 +46,12 @@
                 class="brown--text text-xs-center pt-2 clickable"
               >
                 <img
-                  :src="doGetImage('schedule%2Fsalmon', '4a5863b6-9f4f-48b3-a187-dc26773955e6')"
+                  :src="
+                    doGetImage(
+                      'schedule%2Fsalmon',
+                      '4a5863b6-9f4f-48b3-a187-dc26773955e6'
+                    )
+                  "
                   width="40%"
                 />
               </div>
