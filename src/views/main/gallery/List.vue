@@ -41,8 +41,8 @@
                 <div
                   class="mt-3 font-weight-bold"
                   :class="{
-                    'subheading': $vuetify.breakpoint.smAndUp,
-                    'caption': $vuetify.breakpoint.xs
+                    subheading: $vuetify.breakpoint.smAndUp,
+                    caption: $vuetify.breakpoint.xs
                   }"
                 >
                   {{ data.credit }}
