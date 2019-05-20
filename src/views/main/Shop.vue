@@ -18,7 +18,9 @@
             </div>
           </v-flex>
           <v-flex
-            xs12 sm4 lg3
+            xs12
+            sm4
+            lg3
             v-for="(data, subindex) in products[item].orders"
             :key="subindex"
           >
