@@ -5,7 +5,7 @@
       <v-chip
         class="caption"
         :color="
-          expiry_date === activity.detail.period.expiry ? 'grey' : 'coral'
+          doCheckOutOfStock(activity.detail.period.expiry) ? 'grey' : 'coral'
         "
         text-color="white"
         small
@@ -26,15 +26,13 @@
 </template>
 
 <script>
-import moment from 'moment'
+import { checkExpireDate } from '@/services/functions/Services'
 
 export default {
   props: ['activity'],
-  computed: {
-    expiry_date() {
-      return moment()
-        .add(1, 'days')
-        .format('dddd DD MMMM YYYY')
+  methods: {
+    doCheckOutOfStock(until) {
+      return checkExpireDate(until)
     }
   }
 }

@@ -88,15 +88,15 @@ export default {
     item_per_page() {
       switch (this.$vuetify.breakpoint.name) {
         case 'xs':
-          return 4
+          return 12
         case 'sm':
-          return 4
+          return 3
         case 'md':
-          return 4
+          return 3
         case 'lg':
           return 4
         case 'xl':
-          return 4
+          return 6
         default:
           return 4
       }
