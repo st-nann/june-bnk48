@@ -87,8 +87,7 @@ module.exports = {
       },
       {
         name: 'jumykheng',
-        route:
-          'https://www.instagram.com/explore/tags/jumykheng/?hl=en'
+        route: 'https://www.instagram.com/explore/tags/jumykheng/?hl=en'
       }
     ]
   },

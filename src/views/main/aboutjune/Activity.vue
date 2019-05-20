@@ -1,6 +1,7 @@
 <template>
   <v-card class="pa-3" flat>
     <v-card-text>
+      <v-divider></v-divider>
       <v-layout row wrap>
         <v-flex xs12 lg10 offset-lg1>
           <v-container fluid grid-list-md class="px-0">
@@ -10,7 +11,6 @@
                   <v-img
                     :src="doGetImage(title.image.name, title.image.token)"
                     width="100%"
-                    
                   ></v-img>
                   <v-card-title class="py-3">
                     <div class="font-weight-bold">
@@ -44,10 +44,7 @@
                           "
                           aspect-ratio="1.5"
                         ></v-img>
-                        <v-card-title
-                          primary-title
-                          class="pt-3 pb-0"
-                        >
+                        <v-card-title primary-title class="pt-3 pb-0">
                           <div class="title mb-0">{{ props.item.name }}</div>
                         </v-card-title>
                         <v-card-text class="caption py-0">
