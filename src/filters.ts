@@ -36,6 +36,9 @@ export default {
           default:
             return value
         }
+      }),
+      Vue.filter('currency', function(price) {
+        return `฿ ${numeral(price).format('0,0.00')}`
       })
   }
 }

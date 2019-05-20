@@ -73,6 +73,10 @@ module.exports = {
     ],
     hashtag: [
       {
+        name: 'junébnk48',
+        route: 'https://www.instagram.com/explore/tags/jun%C3%A9bnk48/'
+      },
+      {
         name: 'filmkongjń',
         route: 'https://www.instagram.com/explore/tags/filmkongj%C5%84/'
       },
@@ -80,6 +84,10 @@ module.exports = {
         name: 'taiidbabnitongdetoxbyjuné',
         route:
           'https://www.instagram.com/explore/tags/taiidbabnitongdetoxbyjun%C3%A9/'
+      },
+      {
+        name: 'jumykheng',
+        route: 'https://www.instagram.com/explore/tags/jumykheng/?hl=en'
       }
     ]
   },

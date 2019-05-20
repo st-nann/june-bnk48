@@ -1,57 +1,69 @@
 <template>
-  <v-layout row wrap>
-    <v-flex xs10 offset-xs1 class="my-5">
-      <v-card class="text-xs-left pa-5 card-position">
-        <v-layout row wrap class="mt-5 outside-layout">
-          <v-flex xs12 order-xs2 md6 order-md1 class="mt-5 text-xs-center">
-            <!-- <img class="mt-5 pt-4 image-size" src="~@/img/icon/Error404.svg" width="500px"/> -->
-          </v-flex>
-          <v-flex xs12 order-xs1 md6 order-md2>
-            <v-card-text
-              class="text-position display-1 grey--text text--darken-2 pb-0"
-            >
-              <b>Oops !</b>
-            </v-card-text>
-            <v-card-text class="title grey--text text--darken-2 pt-3 pb-0">
-              You have some problems.
-            </v-card-text>
-            <v-card-text class="body-2 grey--text text--darken-1 pt-1">
-              The page you are looking for was moved, removed, renamed or might
-              never existed.
-            </v-card-text>
-            <a href="/" style="text-decoration:none;">
-              <v-btn class="ml-3 light-blue--text text--darken-3" outline>
-                Go back
-              </v-btn>
-            </a>
-          </v-flex>
-        </v-layout>
-      </v-card>
-    </v-flex>
-  </v-layout>
+  <v-container fill-height align-center>
+    <v-layout row wrap fill-height justify-center align-center>
+      <v-flex xs12 lg10 offset-lg1>
+        <v-card
+          class="elevation-10"
+          :class="{
+            'pa-5': !$vuetify.breakpoint.xs,
+            'pa-2': $vuetify.breakpoint.xs
+          }"
+        >
+          <v-layout row wrap>
+            <v-flex xs12 order-xs2 lg6 order-lg1>
+              <v-img
+                :src="doGetImage(error.image.name, error.image.token)"
+                :lazy-src="doGetImage(error.image.name, error.image.token)"
+                width="100%"
+              ></v-img>
+            </v-flex>
+            <v-flex xs12 order-xs1 lg6 order-lg2>
+              <v-card-text :class="{ 'ml-4': $vuetify.breakpoint.lgAndUp }">
+                <div
+                  class="font-weight-bold display-1 grey--text text--darken-2"
+                >
+                  Oops !
+                </div>
+                <div class="title grey--text text--darken-2 pt-3">
+                  You have some problems.
+                </div>
+                <div class="body-2 grey--text text--darken-1 pt-1">
+                  The page you are looking for was moved, removed, renamed or
+                  might never existed.
+                </div>
+                <v-btn
+                  append
+                  :to="{ path: '/' }"
+                  class="mx-0 mt-3"
+                  color="brown"
+                  outline
+                  small
+                >
+                  Go back
+                </v-btn>
+              </v-card-text>
+            </v-flex>
+          </v-layout>
+        </v-card>
+      </v-flex>
+    </v-layout>
+  </v-container>
 </template>
 
-<style lang="stylus" scoped>
-@media only screen and (max-width: 1024px)
-  .image-size
-    width: 350px !important
-    margin-top: 0px !important
-    margin-bottom: 20px !important
-    padding-top: 0px !important
+<script>
+import data from '@/services/data/Error'
+import { getImageFromStore } from '@/services/functions/Services'
 
-@media only screen and (max-width: 414px)
-  .image-size
-    width: 230px !important
-    margin-top: 0px !important
-    margin-bottom: 20px !important
-    padding-top: 0px !important
-
-.card-position
-  padding: 20px !important
-
-.text-position
-  padding-top: 0px !important
-
-.outside-layout
-  margin-top: 20px !important
-</style>
+export default {
+  computed: {
+    error() {
+      return data ? data.error : {}
+    }
+  },
+  methods: {
+    doGetImage(name, token) {
+      return getImageFromStore(name, token)
+    }
+  }
+}
+</script>

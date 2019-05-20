@@ -1,4 +1,11 @@
 module.exports = {
+  title: {
+    name: 'Activity',
+    image: {
+      name: 'activity%2Ftitle%2Fjn',
+      token: 'c7471f32-28d9-4b07-bc93-d0859c752670'
+    }
+  },
   activity: [
     {
       name: 'Birthday 19th Juné Project',
@@ -19,6 +26,28 @@ module.exports = {
           {
             name: 'activity%2Fbirthday-project',
             token: 'b55223a2-5533-476f-bb98-6153671224d7'
+          }
+        ]
+      }
+    },
+    {
+      name: 'Birthday 19th Juné Project',
+      cover: {
+        name: 'activity%2Factivity2',
+        token: '469f099a-48bb-484b-8190-84c85a40b144'
+      },
+      owner: 'JUNÉonly',
+      detail: {
+        description: `มาร่วมเป็นส่วนหนึ่งในโปรเจคส่งต่อของขวัญวันเกิดให้จูเน่กันเถอะ! แค่ Donate เข้าโปรเจค H4PP7 JU DAY หรือ IT'S ALL GONNA HAPPEN TO JU ตั้งแต่ 70 บาทขึ้นไป และกรอกแบบฟอร์มรับของที่ระลึกไปเลย ดูรายละเอียดเพิ่มเติมได้ในฟอร์มจ้า`,
+        link: 'https://t.co/nmafRseiHN',
+        period: {
+          start: 1557795600,
+          expiry: 1559692800
+        },
+        image: [
+          {
+            name: 'activity%2Factivity2',
+            token: '469f099a-48bb-484b-8190-84c85a40b144'
           }
         ]
       }
