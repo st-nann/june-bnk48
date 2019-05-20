@@ -56,7 +56,12 @@
                       hide-details
                     >
                       <template v-slot:selection="{ item, index }">
-                        <v-list-tile class="pa-1">
+                        <v-list-tile
+                          class="text-truncate menu"
+                          :class="{
+                            'pa-1': $vuetify.breakpoint.smAndUp
+                          }"
+                        >
                           <v-list-tile-content
                             v-if="menu.length > 0"
                             class="font-thai white--text"
@@ -189,4 +194,7 @@ export default {
 <style lang="stylus">
 .v-window__container--is-active
   height: auto !important
+
+.menu .v-list__tile
+  padding: 0
 </style>
