@@ -5,7 +5,7 @@
       fluid
       :class="{
         'py-2 px-5': $vuetify.breakpoint.lgAndUp,
-        'pa-3': $vuetify.breakpoint.mdAndDown
+        'pt-0 px-3 pb-3': $vuetify.breakpoint.mdAndDown
       }"
     >
       <v-layout row wrap>
@@ -20,7 +20,13 @@
             >
               <v-flex xs12>
                 <v-avatar
-                  :size="150"
+                  :size="
+                    $vuetify.breakpoint.smAndDown
+                      ? $vuetify.breakpoint.xs
+                        ? 60
+                        : 100
+                      : 150
+                  "
                   class="white--text elevation-3"
                   color="coral"
                 >
@@ -32,7 +38,13 @@
                     {{ data.credit.substring(0, 1).toUpperCase() }}
                   </div>
                 </v-avatar>
-                <div class="mt-3 subheading font-weight-bold">
+                <div
+                  class="mt-3 font-weight-bold"
+                  :class="{
+                    'subheading': $vuetify.breakpoint.smAndUp,
+                    'caption': $vuetify.breakpoint.xs
+                  }"
+                >
                   {{ data.credit }}
                 </div>
               </v-flex>
