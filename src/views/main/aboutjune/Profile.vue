@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="mb-2">
     <v-layout row wrap>
       <v-flex xs12>
         <v-carousel
