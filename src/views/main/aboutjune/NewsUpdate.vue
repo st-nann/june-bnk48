@@ -7,7 +7,9 @@
   >
     <v-layout row wrap justify-center justify-space-between>
       <v-flex xs12 class="text-xs-center">
-        <div class="font-size-30 font-weight-bold mb-2"> NEWS UPDATE </div>
+        <div class="font-size-30 font-weight-bold mb-2">
+          NEWS UPDATE
+        </div>
       </v-flex>
       <v-flex xs8 offset-xs2 sm2 offset-sm5 class="mb-4">
         <v-divider class="title-line mx-5"></v-divider>
@@ -16,8 +18,18 @@
     <v-layout row wrap class="elevation-5">
       <v-flex xs12 sm9>
         <v-img
-          :src="doGetImage(newsupdate.instagram.image.name, newsupdate.instagram.image.token)"
-          :lazy-src="doGetImage(newsupdate.instagram.image.name, newsupdate.instagram.image.token)"
+          :src="
+            doGetImage(
+              newsupdate.instagram.image.name,
+              newsupdate.instagram.image.token
+            )
+          "
+          :lazy-src="
+            doGetImage(
+              newsupdate.instagram.image.name,
+              newsupdate.instagram.image.token
+            )
+          "
           width="100%"
         ></v-img>
       </v-flex>
@@ -29,8 +41,8 @@
               ? $vuetify.breakpoint.sm
                 ? 'height: 300px;'
                 : $vuetify.breakpoint.xs
-                  ? 'height: 480px;'
-                  : 'height: 360px;'
+                ? 'height: 480px;'
+                : 'height: 360px;'
               : 'height: 436px;'
           "
           width="100%"
@@ -40,7 +52,11 @@
     <v-layout row wrap class="elevation-5 my-4">
       <v-flex xs12 order-xs2 sm3 order-sm1>
         <iframe
-          :src="$vuetify.breakpoint.xs ? newsupdate.facebook.src.mobile : newsupdate.facebook.src.desktop"
+          :src="
+            $vuetify.breakpoint.xs
+              ? newsupdate.facebook.src.mobile
+              : newsupdate.facebook.src.desktop
+          "
           width="100%"
           :height="$vuetify.breakpoint.xs ? '494' : '100%'"
           style="border:none;overflow:hidden"
@@ -52,8 +68,18 @@
       </v-flex>
       <v-flex xs12 order-xs1 sm9 order-sm2>
         <v-img
-          :src="doGetImage(newsupdate.facebook.image.name, newsupdate.facebook.image.token)"
-          :lazy-src="doGetImage(newsupdate.facebook.image.name, newsupdate.facebook.image.token)"
+          :src="
+            doGetImage(
+              newsupdate.facebook.image.name,
+              newsupdate.facebook.image.token
+            )
+          "
+          :lazy-src="
+            doGetImage(
+              newsupdate.facebook.image.name,
+              newsupdate.facebook.image.token
+            )
+          "
           width="100%"
         ></v-img>
       </v-flex>
@@ -61,8 +87,18 @@
     <v-layout row wrap class="elevation-5">
       <v-flex xs3>
         <v-img
-          :src="doGetImage(newsupdate.event.title.image.name, newsupdate.event.title.image.token)"
-          :lazy-src="doGetImage(newsupdate.event.title.image.name, newsupdate.event.title.image.token)"
+          :src="
+            doGetImage(
+              newsupdate.event.title.image.name,
+              newsupdate.event.title.image.token
+            )
+          "
+          :lazy-src="
+            doGetImage(
+              newsupdate.event.title.image.name,
+              newsupdate.event.title.image.token
+            )
+          "
           width="100%"
           height="100%"
         ></v-img>
@@ -70,10 +106,7 @@
       <v-flex xs6>
         <v-card flat tile>
           <v-window v-model="onboarding">
-            <v-window-item
-              v-for="(item, index) in announcements"
-              :key="index"
-            >
+            <v-window-item v-for="(item, index) in announcements" :key="index">
               <v-img
                 :src="doGetImage(item.image.name, item.image.token)"
                 :lazy-src="doGetImage(item.image.name, item.image.token)"
@@ -84,10 +117,7 @@
           <v-card-actions class="bg-event">
             <v-layout row wrap>
               <v-flex xs12 class="text-xs-center">
-                <v-item-group
-                  v-model="onboarding"
-                  mandatory
-                >
+                <v-item-group v-model="onboarding" mandatory>
                   <v-item
                     v-for="(item, index) in announcements.length"
                     :key="index"
@@ -110,8 +140,18 @@
       </v-flex>
       <v-flex xs3>
         <v-img
-          :src="doGetImage(newsupdate.event.image.name, newsupdate.event.image.token)"
-          :lazy-src="doGetImage(newsupdate.event.image.name, newsupdate.event.image.token)"
+          :src="
+            doGetImage(
+              newsupdate.event.image.name,
+              newsupdate.event.image.token
+            )
+          "
+          :lazy-src="
+            doGetImage(
+              newsupdate.event.image.name,
+              newsupdate.event.image.token
+            )
+          "
           width="100%"
           height="100%"
         ></v-img>
@@ -143,7 +183,7 @@ export default {
   },
   created() {
     let script = document.createElement('script')
-    script.setAttribute('src',"https://apps.elfsight.com/p/platform.js")
+    script.setAttribute('src', 'https://apps.elfsight.com/p/platform.js')
     document.head.appendChild(script)
   },
   methods: {
