@@ -1,9 +1,14 @@
 module.exports = {
   title: {
-    name: 'Activity',
     image: {
-      name: 'activity%2Ftitle%2Fjn',
-      token: 'c7471f32-28d9-4b07-bc93-d0859c752670'
+      mobile: {
+        name: 'profile%2Factivity%2Ftitle%20(mobile)',
+        token: '16717553-30f3-4232-94ea-1633f49d9144'
+      },
+      desktop: {
+        name: 'profile%2Factivity%2Ftitle%20(desktop)',
+        token: '3f0ad3b4-8ef2-4525-8ed5-082b25a7be55'
+      }
     }
   },
   activity: [

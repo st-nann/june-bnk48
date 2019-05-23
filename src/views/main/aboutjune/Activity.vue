@@ -1,87 +1,81 @@
 <template>
-  <v-card class="pa-3" flat>
-    <v-card-text>
-      <v-divider></v-divider>
+  <div>
+    <v-container grid-list-md class="px-0">
       <v-layout row wrap>
-        <v-flex xs12 lg10 offset-lg1>
-          <v-container fluid grid-list-md class="px-0">
-            <v-layout row wrap>
-              <v-flex xs12 sm3>
-                <v-card class="elevation-8">
+        <v-flex xs12 md4 lg3 class="pa-0">
+          <v-img
+            :src="
+              $vuetify.breakpoint.smAndDown
+              ? doGetImage(title.image.mobile.name, title.image.mobile.token)
+              : doGetImage(title.image.desktop.name, title.image.desktop.token)
+            "
+            :lazy-src="
+              $vuetify.breakpoint.smAndDown
+              ? doGetImage(title.image.mobile.name, title.image.mobile.token)
+              : doGetImage(title.image.desktop.name, title.image.desktop.token)
+            "
+            width="100%"
+          ></v-img>
+        </v-flex>
+        <v-flex
+          xs12
+          md8
+          lg9
+          class="bg-item"
+          :class="{
+            'pt-0': $vuetify.breakpoint.smAndDown
+          }"
+        >
+          <v-data-iterator
+            class="pb-0 px-3"
+            :class="{
+              'pt-3': $vuetify.breakpoint.mdAndUp,
+              'pt-5': $vuetify.breakpoint.smAndDown
+            }"
+            :items="activity"
+            :rows-per-page-items="[item_per_page]"
+            :pagination.sync="pagination"
+            content-tag="v-layout"
+            row
+            wrap
+          >
+            <template v-slot:item="props">
+              <v-flex xs12 sm8 offset-sm2 md6 offset-md0 lg4>
+                <v-card class="elevation-5 clickable" @click="doOpenModal(props.item)">
                   <v-img
-                    :src="doGetImage(title.image.name, title.image.token)"
-                    width="100%"
+                    :src="
+                      doGetImage(
+                        props.item.cover.name,
+                        props.item.cover.token
+                      )
+                    "
+                    aspect-ratio="1.5"
                   ></v-img>
-                  <v-card-title class="py-3">
-                    <div class="font-weight-bold">
-                      {{ title.name }}
-                      <v-icon size="15" color="grey darken-3">
-                        mdi-chevron-right-circle-outline
-                      </v-icon>
-                    </div>
+                  <v-card-title primary-title class="pt-3 pb-0">
+                    <div class="title mb-0">{{ props.item.name }}</div>
                   </v-card-title>
+                  <v-card-text class="caption pt-0 pb-3">
+                    <Period :activity="props.item"></Period>
+                  </v-card-text>
                 </v-card>
               </v-flex>
-              <v-flex xs12 sm9>
-                <v-data-iterator
-                  class="pa-3 grey lighten-4"
-                  :items="activity"
-                  :rows-per-page-items="[item_per_page]"
-                  :pagination.sync="pagination"
-                  content-tag="v-layout"
-                  row
-                  wrap
-                >
-                  <template v-slot:item="props">
-                    <v-flex xs12 sm6 lg4>
-                      <v-card class="elevation-5">
-                        <v-img
-                          :src="
-                            doGetImage(
-                              props.item.cover.name,
-                              props.item.cover.token
-                            )
-                          "
-                          aspect-ratio="1.5"
-                        ></v-img>
-                        <v-card-title primary-title class="pt-3 pb-0">
-                          <div class="title mb-0">{{ props.item.name }}</div>
-                        </v-card-title>
-                        <v-card-text class="caption py-0">
-                          <Period :activity="props.item"></Period>
-                        </v-card-text>
-                        <v-card-actions>
-                          <v-btn
-                            color="orange"
-                            @click="doOpenModal(props.item)"
-                            small
-                            flat
-                          >
-                            View detail
-                          </v-btn>
-                        </v-card-actions>
-                      </v-card>
-                    </v-flex>
-                  </template>
-                </v-data-iterator>
-              </v-flex>
-            </v-layout>
-          </v-container>
+            </template>
+          </v-data-iterator>
         </v-flex>
       </v-layout>
-    </v-card-text>
+    </v-container>
     <ActivityDetail
       :modal="modal"
       :activity_detail="activity_detail"
       v-on:closeModal="eventChildCloseModal"
     ></ActivityDetail>
-  </v-card>
+  </div>
 </template>
 
 <script>
 import _ from 'lodash'
 import Vue from 'vue'
-import data from '@/services/data/Activity'
+import data from '@/services/data/aboutjune/Activity'
 import { getImageFromStore } from '@/services/functions/Services'
 import Period from '@/views/main/aboutjune/detail/Period'
 import ActivityDetail from '@/views/main/aboutjune/modal/ActivityDetail'
@@ -112,7 +106,7 @@ export default {
           itemPerPage = 1
           break
         case 'sm':
-          itemPerPage = 2
+          itemPerPage = 1
           break
         case 'md':
           itemPerPage = 2
@@ -144,3 +138,14 @@ export default {
   }
 }
 </script>
+
+<style lang="stylus">
+.title-line
+  border: 1.5px solid #000000
+  border-color: #000000 !important
+  border-radius: 50px
+  margin: 0 60px
+
+.bg-item
+  background: #f8d1a7
+</style>
