@@ -41,7 +41,7 @@
               ? $vuetify.breakpoint.sm
                 ? 'height: 300px;'
                 : $vuetify.breakpoint.xs
-                ? 'height: 450px;'
+                ? 'height: 480px;'
                 : 'height: 360px;'
               : 'height: 436px;'
           "
@@ -57,7 +57,7 @@
               ? newsupdate.facebook.src.mobile
               : newsupdate.facebook.src.desktop
           "
-          width="100%"
+          :width="$vuetify.breakpoint.xs ? '320' : '100%'"
           :height="$vuetify.breakpoint.xs ? '494' : '100%'"
           style="border:none;overflow:hidden"
           scrolling="no"
