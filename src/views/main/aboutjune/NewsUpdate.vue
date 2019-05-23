@@ -41,7 +41,7 @@
               ? $vuetify.breakpoint.sm
                 ? 'height: 300px;'
                 : $vuetify.breakpoint.xs
-                ? 'height: 480px;'
+                ? 'height: 450px;'
                 : 'height: 360px;'
               : 'height: 436px;'
           "
