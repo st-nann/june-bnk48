@@ -6,13 +6,19 @@
           <v-img
             :src="
               $vuetify.breakpoint.smAndDown
-              ? doGetImage(title.image.mobile.name, title.image.mobile.token)
-              : doGetImage(title.image.desktop.name, title.image.desktop.token)
+                ? doGetImage(title.image.mobile.name, title.image.mobile.token)
+                : doGetImage(
+                    title.image.desktop.name,
+                    title.image.desktop.token
+                  )
             "
             :lazy-src="
               $vuetify.breakpoint.smAndDown
-              ? doGetImage(title.image.mobile.name, title.image.mobile.token)
-              : doGetImage(title.image.desktop.name, title.image.desktop.token)
+                ? doGetImage(title.image.mobile.name, title.image.mobile.token)
+                : doGetImage(
+                    title.image.desktop.name,
+                    title.image.desktop.token
+                  )
             "
             width="100%"
           ></v-img>
@@ -41,13 +47,13 @@
           >
             <template v-slot:item="props">
               <v-flex xs12 sm8 offset-sm2 md6 offset-md0 lg4>
-                <v-card class="elevation-5 clickable" @click="doOpenModal(props.item)">
+                <v-card
+                  class="elevation-5 clickable"
+                  @click="doOpenModal(props.item)"
+                >
                   <v-img
                     :src="
-                      doGetImage(
-                        props.item.cover.name,
-                        props.item.cover.token
-                      )
+                      doGetImage(props.item.cover.name, props.item.cover.token)
                     "
                     aspect-ratio="1.5"
                   ></v-img>

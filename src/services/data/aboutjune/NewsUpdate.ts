@@ -43,7 +43,7 @@ module.exports = {
           'https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fbnk48official.june%2F&tabs=timeline&width=320&height=494&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId',
         mobile:
           'https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fbnk48official.june%2F&tabs=timeline&width=380&height=494&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId'
-      } 
+      }
     }
   }
 }
