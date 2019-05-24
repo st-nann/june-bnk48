@@ -8,7 +8,7 @@
       <main class="ma-0">
         <Sidebar></Sidebar>
         <Loading v-if="loading"></Loading>
-        <router-view v-else style="margin-top: 65px;"></router-view>
+        <router-view v-else style="margin-top: 60px;"></router-view>
       </main>
     </template>
   </v-app>
