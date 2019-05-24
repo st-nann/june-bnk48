@@ -1585,7 +1585,7 @@ module.exports = {
           '[Event] รอบตัดสิน Miss Grand Bangkok 2019 - After Party 45 นาที',
         link: '',
         location: 'Bitec Bangna Hall 98 - 99',
-        time: 'ไม่ระบุเวลา',
+        time: '18:00 - 22:00',
         icon: 'crown',
         color: 'yellow'
       },
