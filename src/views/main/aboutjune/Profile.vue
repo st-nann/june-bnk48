@@ -141,7 +141,7 @@ export default {
 
 <style lang="stylus">
 .carousel-item .v-image__image--cover
-  background-size: auto
+  background-size: contain
 .line
   border: 2px solid #000000
   width: 100px
