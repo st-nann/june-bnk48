@@ -57,7 +57,7 @@
               ? newsupdate.facebook.src.mobile
               : newsupdate.facebook.src.desktop
           "
-          :width="$vuetify.breakpoint.xs ? '345' : '100%'"
+          :width="$vuetify.breakpoint.xs ? '343' : '100%'"
           :height="$vuetify.breakpoint.xs ? '494' : '100%'"
           style="border:none;overflow:hidden"
           scrolling="no"
