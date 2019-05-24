@@ -71,7 +71,15 @@ export default {
       return data ? data.cover : {}
     },
     products() {
-      return data ? data.products : {}
+      return data
+        ? _.forEach(data.products, (item, index) => {
+            data.products[index].orders = _.orderBy(
+              item.orders,
+              ['date.end', 'date.start'],
+              ['desc', 'asc']
+            )
+          })
+        : {}
     }
   },
   methods: {

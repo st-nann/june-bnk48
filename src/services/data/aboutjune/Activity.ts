@@ -2,12 +2,12 @@ module.exports = {
   title: {
     image: {
       mobile: {
-        name: 'profile%2Factivity%2Ftitle%20(mobile)',
-        token: '16717553-30f3-4232-94ea-1633f49d9144'
+        name: 'profile%2Factivity%2Ftitle%2Ftitle%20(mobile)',
+        token: 'c42282b9-2a13-488d-8661-bf2fb0600d21'
       },
       desktop: {
-        name: 'profile%2Factivity%2Ftitle%20(desktop)',
-        token: '3f0ad3b4-8ef2-4525-8ed5-082b25a7be55'
+        name: 'profile%2Factivity%2Ftitle%2Ftitle%20(desktop)',
+        token: '260977f5-5f79-4c99-affb-5670c348c73e'
       }
     }
   },
@@ -15,8 +15,8 @@ module.exports = {
     {
       name: 'Birthday 19th Juné Project',
       cover: {
-        name: 'activity%2Fbirthday-project',
-        token: 'b55223a2-5533-476f-bb98-6153671224d7'
+        name: 'profile%2Factivity%2Fbirthday-project',
+        token: 'ad7ab76b-f83b-4e07-82c0-0ebba4c94302'
       },
       owner: 'Mukashi1911',
       detail: {
@@ -25,12 +25,12 @@ module.exports = {
         link: 'https://forms.gle/v32KXzhNjsXCioER6',
         period: {
           start: 1554681600,
-          expiry: 1562284799
+          expiry: 1562198400
         },
         image: [
           {
-            name: 'activity%2Fbirthday-project',
-            token: 'b55223a2-5533-476f-bb98-6153671224d7'
+            name: 'profile%2Factivity%2Fbirthday-project',
+            token: 'ad7ab76b-f83b-4e07-82c0-0ebba4c94302'
           }
         ]
       }
@@ -38,8 +38,8 @@ module.exports = {
     {
       name: 'Birthday 19th Juné Project',
       cover: {
-        name: 'activity%2Factivity2',
-        token: '469f099a-48bb-484b-8190-84c85a40b144'
+        name: 'profile%2Factivity%2Factivity2',
+        token: '49b795df-a1df-4621-b5c6-ad82dd73615d'
       },
       owner: 'JUNÉonly',
       detail: {
@@ -51,8 +51,42 @@ module.exports = {
         },
         image: [
           {
-            name: 'activity%2Factivity2',
-            token: '469f099a-48bb-484b-8190-84c85a40b144'
+            name: 'profile%2Factivity%2Factivity2',
+            token: '49b795df-a1df-4621-b5c6-ad82dd73615d'
+          }
+        ]
+      }
+    },
+    {
+      name: 'Birthday 19th Juné Project',
+      cover: {
+        name: 'profile%2Factivity%2Fbirthday(ju%20fam)%20-%201',
+        token: '25c3977b-ded7-423c-9e9e-a657f0c44499'
+      },
+      owner: 'JUNÉ Family',
+      detail: {
+        description: `ขอเชิญแฟนคลับและคนที่รัก จูเน่ BNK48 ทุกท่าน ร่วมส่งต่อความสุขเนื่อง ในวันเกิดของจูเน่ ร่วมเลี้ยงอาหารคนชรา และมอบของใช้ที่จำเป็น ณ ศพส.บ้านบางแค วันเสาร์ที่ 8 มิถุนายน 2562 ตั้งแต่เวลา 10.30-12.30 สามารถดูรายละเอียดเพิ่มเติมได้ที่ `,
+        link: 'https://www.facebook.com/337495687038962/posts/438078240314039/',
+        period: {
+          start: 1559989800,
+          expiry: 1559997000
+        },
+        image: [
+          {
+            name: 'profile%2Factivity%2Fbirthday(ju%20fam)%20-%201',
+            token: '25c3977b-ded7-423c-9e9e-a657f0c44499'
+          },
+          {
+            name: 'profile%2Factivity%2Fbirthday(ju%20fam)%20-%202',
+            token: '21230872-3bca-4779-aba7-851cbe0520e8'
+          },
+          {
+            name: 'profile%2Factivity%2Fbirthday(ju%20fam)%20-%203',
+            token: '116d8183-c0a7-4c72-82f3-8fc276e28b62'
+          },
+          {
+            name: 'profile%2Factivity%2Fbirthday(ju%20fam)%20-%204',
+            token: '4802b64f-32a3-4a3e-9f65-0359b1bdf99c'
           }
         ]
       }
