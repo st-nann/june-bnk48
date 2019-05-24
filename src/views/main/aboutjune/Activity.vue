@@ -103,7 +103,13 @@ export default {
       return data ? data.title : {}
     },
     activity() {
-      return data ? data.activity : []
+      return data
+        ? _.orderBy(
+            data.activity,
+            ['detail.period.expiry', 'detail.period.start'],
+            ['desc', 'asc']
+          )
+        : []
     },
     item_per_page() {
       let itemPerPage

@@ -1618,6 +1618,20 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-06-02',
+      title: 'BNK48 Thank you and The Beginner',
+      details: {
+        description:
+          '[Concert] BNK48 Thank you and The Beginner - งาน Convert ขอบคุณเลือกตั้ง (เปิดตัว Single 6)',
+        link: '',
+        location: 'ลานกิจกรรม ชั้น 1 ศูนย์การค้าเซ็นทรัลเฟสติวัล เชียงใหม่',
+        time: '17:00',
+        icon: 'theater',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
       date: '2019-06-03',
       title: 'งานน้ำใจสร้างกุศล ของคณะแพทย์ฯจุฬา',
       details: {
