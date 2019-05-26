@@ -3,7 +3,7 @@
     :value="toggle_sidebar"
     height="100%"
     persistent
-    absolute
+    fixed
     temporary
     clipped
     enable-resize-watcher
