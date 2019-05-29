@@ -1618,6 +1618,34 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-05-29',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: '',
+        location: '',
+        time: '07:07',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2019-05-29',
+      title: 'ลุ้นยกบ้าน ONE YEAR',
+      details: {
+        description:
+          'ลุ้นยกบ้าน ONE YEAR กับภารกิจ "ลุกจากเก้าอี้ด้วยขาเดียว" ในวันออกกำลังกายโลก',
+        link:
+          'https://tv.line.me/v/8538597?utm_source=Internal&utm_medium=btn_share_link&utm_campaign=Link_share_oneyeartheseries',
+        location: '',
+        time: '10:00',
+        icon: 'video-vintage',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
       date: '2019-06-02',
       title: 'BNK48 Thank you and The Beginner',
       details: {
