@@ -26,7 +26,7 @@ module.exports = {
     {
       name: 'BNK48 5th Single [BNK Festival] Senbatsu Members Announcement',
       description:
-        '30 Sep 2018 BNK48 1st Album "RIVER" 2-Shot Event @BITEC Bangna EH98',
+        '30 Sep 2018 @BITEC Bangna EH98',
       time: '01:12',
       link: 'https://youtu.be/Q49T77N9Jns',
       type: 'youtube'
@@ -34,9 +34,25 @@ module.exports = {
     {
       name: 'BNK48 2nd Album 2nd Song [Reborn] Senbatsu Announcement',
       description:
-        '17 Apr 2019 BNK48 1st Album "RIVER" 2-Shot Event @BITEC Bangna EH98',
+        '17 Apr 2019 @BITEC Bangna EH106',
       time: '02:58',
       link: 'https://youtu.be/y4unegtLnZI',
+      type: 'youtube'
+    },
+    {
+      name: '[Handshake Event] BNK48 2nd Album Senbatsu Members Announcement (Reaction ver.)',
+      description:
+        '17 Apr 2019 @BITEC Bangna EH106',
+      time: '12:39',
+      link: 'https://youtu.be/SrkSPI1XIHs',
+      type: 'youtube'
+    },
+    {
+      name: '[Handshake Event] บรรยากาศการจับฉลากแบ่งทีม “เทศกาลกีฬาบางกอก๔๘”',
+      description:
+        '26 May 2019 @BITEC Bangna EH98',
+      time: '26:28',
+      link: 'https://youtu.be/IPrBCME2iUc',
       type: 'youtube'
     },
     {
