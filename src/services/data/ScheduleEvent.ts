@@ -1651,7 +1651,7 @@ module.exports = {
       details: {
         description:
           '[Concert] BNK48 Thank you and The Beginner - งาน Convert ขอบคุณเลือกตั้ง (เปิดตัว Single 6)',
-        link: '',
+        link: 'https://www.facebook.com/bnk48official/videos/374116009898973/',
         location: 'ลานกิจกรรม ชั้น 1 ศูนย์การค้าเซ็นทรัลเฟสติวัล เชียงใหม่',
         time: '17:00',
         icon: 'theater',

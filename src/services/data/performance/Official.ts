@@ -25,32 +25,29 @@ module.exports = {
     },
     {
       name: 'BNK48 5th Single [BNK Festival] Senbatsu Members Announcement',
-      description:
-        '30 Sep 2018 @BITEC Bangna EH98',
+      description: '30 Sep 2018 @BITEC Bangna EH98',
       time: '01:12',
       link: 'https://youtu.be/Q49T77N9Jns',
       type: 'youtube'
     },
     {
       name: 'BNK48 2nd Album 2nd Song [Reborn] Senbatsu Announcement',
-      description:
-        '17 Apr 2019 @BITEC Bangna EH106',
+      description: '17 Apr 2019 @BITEC Bangna EH106',
       time: '02:58',
       link: 'https://youtu.be/y4unegtLnZI',
       type: 'youtube'
     },
     {
-      name: '[Handshake Event] BNK48 2nd Album Senbatsu Members Announcement (Reaction ver.)',
-      description:
-        '17 Apr 2019 @BITEC Bangna EH106',
+      name:
+        '[Handshake Event] BNK48 2nd Album Senbatsu Members Announcement (Reaction ver.)',
+      description: '17 Apr 2019 @BITEC Bangna EH106',
       time: '12:39',
       link: 'https://youtu.be/SrkSPI1XIHs',
       type: 'youtube'
     },
     {
       name: '[Handshake Event] บรรยากาศการจับฉลากแบ่งทีม “เทศกาลกีฬาบางกอก๔๘”',
-      description:
-        '26 May 2019 @BITEC Bangna EH98',
+      description: '26 May 2019 @BITEC Bangna EH98',
       time: '26:28',
       link: 'https://youtu.be/IPrBCME2iUc',
       type: 'youtube'
@@ -76,6 +73,13 @@ module.exports = {
       description: '2 Mar 2019 @ลานหน้า Hard Rock café Siam Square',
       time: '02:42:38',
       link: 'https://youtu.be/w0veGNs05es',
+      type: 'youtube'
+    },
+    {
+      name: '[Concert] BNK48 THANK YOU & THE BEGINNER Chiangmai',
+      description: '2 June 2019 @Central festival Chiangmai',
+      time: '02:00:50',
+      link: 'https://www.facebook.com/bnk48official/videos/374116009898973/',
       type: 'youtube'
     },
     {
