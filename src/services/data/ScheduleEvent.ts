@@ -1674,6 +1674,19 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-06-05',
+      title: 'Shopee',
+      details: {
+        description: '[Live] Shopee Application',
+        link: '',
+        location: '',
+        time: '19:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
       date: '2019-06-22',
       title: `BNK48 5th Single 'BNK Festival' Handshake`,
       details: {
