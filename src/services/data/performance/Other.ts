@@ -188,6 +188,13 @@ module.exports = {
       type: 'youtube'
     },
     {
+      name: '[Behind The Scene] BNK48 2nd Issue 155',
+      description: 'KAZZTALK : มินมิน ผักขม จูเน่ BNK48 เบื้องหลังความสนุกของการถ่าย KAZZMAGAZINE',
+      time: '05:55',
+      link: 'https://youtu.be/ly7_KqpE8Pk',
+      type: 'youtube'
+    },
+    {
       name: 'Hilight KazzMagazine UnderGirls BNK48',
       description: 'Part 1',
       time: '00:35',
