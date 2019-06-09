@@ -1663,11 +1663,11 @@ module.exports = {
       date: '2019-06-03',
       title: 'งานน้ำใจสร้างกุศล ของคณะแพทย์ฯจุฬา',
       details: {
-        description: '[Event] City of Sweet 2019',
+        description: '',
         link: '',
         location:
           'ห้องประชุม 1210 โซนบี ชั้น 12 อาคารภูมิสิริมังคลานุสรณ์ รพ.จุฬา',
-        time: '11:00 - 13ซ00',
+        time: '11:00 - 13:00',
         icon: 'theater',
         color: 'yellow'
       },
@@ -1681,6 +1681,19 @@ module.exports = {
         link: '',
         location: '',
         time: '19:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2019-06-09',
+      title: 'งานรับพระราชทานเข็ม วันอานันทมหิดล',
+      details: {
+        description: '[Event] City of Sweet 2019',
+        link: '',
+        location: 'รพ.จุฬา',
+        time: 'n/a',
         icon: 'theater',
         color: 'yellow'
       },

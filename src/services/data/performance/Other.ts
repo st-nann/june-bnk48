@@ -259,6 +259,13 @@ module.exports = {
       type: 'youtube'
     },
     {
+      name: 'ปกโลกสีสวย',
+      description: 'คิวท์ๆ ใจละลาย "จูเน่" BNK48 รุ่น 2 | ปกโลกสีสวย 070961',
+      time: '01:41',
+      link: 'https://youtu.be/vNY9Q8q9qcI',
+      type: 'youtube'
+    },
+    {
       name: '[ស្នេហ៍ឆ្លងវេហា (Sneha Chlong Veha) –รักข้ามขอบฟ้า]',
       description: 'from BNK48 Hello Cambodia',
       time: '01:52',
