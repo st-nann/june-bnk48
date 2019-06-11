@@ -27,7 +27,7 @@
           </v-layout>
         </v-card-text>
         <v-sheet
-          :height="$vuetify.breakpoint.xs ? 450 : 500"
+          height="100%"
           :class="{ 'mb-3': $vuetify.breakpoint.mdAndDown }"
         >
           <v-calendar
