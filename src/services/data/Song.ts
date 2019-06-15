@@ -41,14 +41,20 @@ module.exports = {
     {
       name: 'JUNÉ PLEARNPICHAYA (Mixtape)',
       artist: 'YoshiNeko Feat.June BNK48',
-      time: '3:24',
+      time: '03:24',
       link: 'https://www.youtube.com/watch?v=2XVaQVHHaTg'
     },
     {
       name: 'Because of JU(NÉ)',
       artist: 'JICO feat.Notwave',
-      time: '3:54',
+      time: '03:54',
       link: 'https://www.youtube.com/watch?v=IwBd907dmQk'
+    },
+    {
+      name: 'ทูนหัวของบ่าว',
+      artist: 'PANDABOYZ x JICO',
+      time: '03:23',
+      link: 'https://youtu.be/20R3Y-b8NHw'
     },
     {
       name: 'Wassup พี่สาว',
@@ -59,49 +65,49 @@ module.exports = {
     {
       name: 'แอบรัก (June)',
       artist: 'TDZ48 feat.1QFordz',
-      time: '3:54',
+      time: '03:54',
       link: 'https://www.youtube.com/watch?v=EcuDTmt9if8'
     },
     {
       name: 'บะหมี่ชามนี้ให้คุณ',
       artist: `Pharmacist'Ota`,
-      time: '3:47',
+      time: '03:47',
       link: 'https://www.youtube.com/watch?v=FYRiNbezoPc'
     },
     {
       name: 'อย่างคูล - RP',
       artist: 'Prod.30hertbeatz',
-      time: '2:50',
+      time: '02:50',
       link: 'https://www.youtube.com/watch?v=S25UH-H3pYE'
     },
     {
       name: 'Plearnpichayáya',
       artist: 'Innoxentz',
-      time: '2:16',
+      time: '02:16',
       link: 'https://www.youtube.com/watch?v=mK4-2xPc3C0'
     },
     {
       name: 'Your warmth (English)',
       artist: 'PNeuma',
-      time: '4:02',
+      time: '04:02',
       link: 'https://www.youtube.com/watch?v=na_tp1wvR5E'
     },
     {
       name: 'บะหมี่หมูแดงJune’',
       artist: 'GOLFFY',
-      time: '3:23',
+      time: '03:23',
       link: 'https://www.youtube.com/watch?v=qLUboLZd1tg'
     },
     {
       name: 'เพลิน (พิชญา)',
       artist: 'COMZ',
-      time: '3:36',
+      time: '03:36',
       link: 'https://www.youtube.com/watch?v=Fj0CBP2L4lE'
     },
     {
       name: 'กู๊ดมอร์เน่ (Good morné)',
       artist: 'OldBoyz',
-      time: '3:10',
+      time: '03:10',
       link: 'https://www.youtube.com/watch?v=ELabp0KT-KQ'
     }
   ]

@@ -32,6 +32,13 @@ module.exports = {
       link:
         'https://tv.line.me/embed/8538597_ลุ้นยกบ้าน-one-year-กับภารกิจ-ลุกจากเก้าอี้ด้วยขาเดียว-ในวันออกกำลังกายโลก',
       type: 'linetv'
+    },
+    {
+      name: 'เปิดตัวทีมโกงเซ็ตใหม่ “ฉลาดเกมส์โกง เดอะซีรีส์”',
+      description: 'GDH559',
+      time: '01:45',
+      link: 'https://youtu.be/FipO5QXntYI',
+      type: 'youtube'
     }
   ]
 }
