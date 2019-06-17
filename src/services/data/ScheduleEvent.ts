@@ -1690,10 +1690,36 @@ module.exports = {
       date: '2019-06-09',
       title: 'งานรับพระราชทานเข็ม วันอานันทมหิดล',
       details: {
-        description: '[Event] City of Sweet 2019',
+        description: '[Event] งานรับพระราชทานเข็ม',
         link: '',
         location: 'รพ.จุฬา',
         time: 'n/a',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2019-06-15',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-playback/12201',
+        location: '',
+        time: '21:36',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2019-06-17',
+      title: 'งานเปิดตัวภาพยนต์ WHERE WE BELONG',
+      details: {
+        description: '[Event] งานกาล่า WHERE WE BELONG',
+        link: 'https://www.facebook.com/bnk48official/videos/379052025916414/',
+        location: 'Central World',
+        time: '18:00',
         icon: 'theater',
         color: 'yellow'
       },
