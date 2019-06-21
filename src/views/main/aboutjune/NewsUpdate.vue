@@ -201,5 +201,5 @@ export default {
   border-radius: 50px
 
 .bg-event
-  background: #3d4868
+  background: #DED9DD
 </style>

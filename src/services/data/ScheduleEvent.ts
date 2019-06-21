@@ -1726,6 +1726,19 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-06-18',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-playback/13048',
+        location: '',
+        time: '22:22',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
       date: '2019-06-22',
       title: `BNK48 5th Single 'BNK Festival' Handshake`,
       details: {
