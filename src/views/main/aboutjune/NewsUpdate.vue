@@ -43,7 +43,7 @@
                 : $vuetify.breakpoint.xs
                 ? 'height: 480px;'
                 : 'height: 360px;'
-              : 'height: 436px;'
+              : 'height: 473px;'
           "
           width="100%"
         ></v-card>
@@ -202,4 +202,7 @@ export default {
 
 .bg-event
   background: #DED9DD
+
+#eapps-instagram-feed-1
+  box-shadow: none !important;
 </style>
