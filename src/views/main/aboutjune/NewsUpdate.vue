@@ -43,7 +43,7 @@
                 : $vuetify.breakpoint.xs
                 ? 'height: 480px;'
                 : 'height: 360px;'
-              : 'height: 473px;'
+              : 'height: 453px;'
           "
           width="100%"
         ></v-card>

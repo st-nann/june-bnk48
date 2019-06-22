@@ -169,6 +169,13 @@ module.exports = {
       }
     },
     {
+      name: 'rotdeepduck (instagram)',
+      image: {
+        name: 'gallery%2Ffanart%2Frotdeepduck-1',
+        token: '863f7c31-4196-473a-b82b-54c5fde0f036'
+      }
+    },
+    {
       name: 'Nori Studio (facebook)',
       image: {
         name: 'gallery%2Ffanart%2Fnoristudio',
