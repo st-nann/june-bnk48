@@ -225,6 +225,13 @@ module.exports = {
       }
     },
     {
+      name: 'juné line square',
+      image: {
+        name: 'gallery%2Ffanart%2FjuneSQ-3',
+        token: '62245fab-74db-4bb8-8950-a0c233d0d987'
+      }
+    },
+    {
       name: 'ธเนศพล กมลชัยวานิช',
       image: {
         name: 'gallery%2Ffanart%2Fธเนศพล%20กมลชัยวานิช-1',
