@@ -1765,6 +1765,19 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-06-27',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-playback/15503',
+        location: '',
+        time: '22:39',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
       date: '2019-07-04',
       title: 'Birthday 19th',
       details: {
