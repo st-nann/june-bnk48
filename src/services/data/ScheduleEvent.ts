@@ -1791,6 +1791,33 @@ module.exports = {
       open: false
     },
     {
+      date: '2018-07-02',
+      title: 'The power of unity',
+      details: {
+        description: '[Event] The power of unity รวมพลังเพื่อ ฮีโร่กีฬาไทย',
+        link: '',
+        location: 'ลาน Eden @Central world',
+        time: '13:00 - 16:30',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2019-07-05',
+      title: 'EVERYBODY SAYS JABAJA',
+      details: {
+        description:
+          'งานเปิดตัว BNK48 2nd Album JABAJA / (13:00 - 17:00 มีกิจกรรมพิเศษบนเวที)',
+        link: '',
+        location: 'Suralai Hall 7th floor @ICONSIAM',
+        time: '18:05',
+        icon: 'theater',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
       date: '2019-07-04',
       title: 'Birthday 19th',
       details: {
