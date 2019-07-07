@@ -39,6 +39,15 @@ module.exports = {
       time: '01:45',
       link: 'https://youtu.be/FipO5QXntYI',
       type: 'youtube'
+    },
+    {
+      name:
+        'รวมตัวพูดคุยครบทีมครั้งแรก ทั้งผู้กำกับและทัพนักแสดง “ฉลาดเกมส์โกง เดอะซีรีส์” ',
+      description: 'GDH559',
+      time: '06:31',
+      link:
+        'https://www.facebook.com/Badgeniusthemovie/videos/580050245735014/',
+      type: 'facebook'
     }
   ]
 }

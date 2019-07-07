@@ -188,6 +188,13 @@ module.exports = {
         name: 'gallery%2Fphotoset%2Fgentel%20woman%20(full)',
         token: '8e7b9be2-bf3e-4647-9d7a-00e0854d0597'
       }
+    },
+    {
+      name: '[Special] - BNK48 Aniversary 2 years',
+      image: {
+        name: 'gallery%2Fphotoset%2Faniversary%202%20years',
+        token: 'e8e2362d-da90-413e-bdc6-b2c7ba1b7f98'
+      }
     }
     // },
     // {

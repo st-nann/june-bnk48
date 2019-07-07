@@ -1,6 +1,13 @@
 module.exports = {
   official: [
     {
+      name: '[Live] งานเปิดตัว BNK48 2nd Album "JABAJA"',
+      description: '5 July 2019 @Iconsiam',
+      time: '03:19:54',
+      link: 'https://youtu.be/0YiIdi-P6GM',
+      type: 'youtube'
+    },
+    {
       name: '[Live] BNK48 2nd Generation The Debut',
       description:
         '17 Jul 2018 BNK48 2nd Generation The Debut @Quartier Gallery, The EmQuartier',
