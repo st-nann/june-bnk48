@@ -24,7 +24,7 @@
             v-for="(data, subindex) in products[item].orders"
             :key="subindex"
           >
-            <v-card ripple :href="data.route" target="_blank">
+            <v-card ripple :href="data.route" target="_blank" height="100%">
               <v-img
                 :src="doGetImage(data.image.name, data.image.token)"
                 :lazy-src="doGetImage(data.image.name, data.image.token)"
