@@ -1,10 +1,38 @@
 module.exports = {
   official: [
     {
-      name: '[Live] งานเปิดตัว BNK48 2nd Album "JABAJA"',
+      name: '[Live] งานเปิดตัว BNK48 2nd Album "JABAJA" (กิจกรรมบนเวที)',
       description: '5 July 2019 @Iconsiam',
       time: '03:19:54',
       link: 'https://youtu.be/0YiIdi-P6GM',
+      type: 'youtube'
+    },
+    {
+      name: '[Live] งานเปิดตัว BNK48 2nd Album "JABAJA (เปิดตัวเพลง Part 1)"',
+      description: '5 July 2019 @Iconsiam',
+      time: '14:55',
+      link: 'https://youtu.be/DBVaybPgaos',
+      type: 'youtube'
+    },
+    {
+      name: '[Live] งานเปิดตัว BNK48 2nd Album "JABAJA (เปิดตัวเพลง Part 2)"',
+      description: '5 July 2019 @Iconsiam',
+      time: '06:03',
+      link: 'https://youtu.be/vIqpiSKnY4A',
+      type: 'youtube'
+    },
+    {
+      name: '[Live] งานเปิดตัว BNK48 2nd Album "JABAJA (เปิดตัวเพลง Part 3)"',
+      description: '5 July 2019 @Iconsiam',
+      time: '24:43',
+      link: 'https://youtu.be/o6Nf62aP39M',
+      type: 'youtube'
+    },
+    {
+      name: '[Live] งานเปิดตัว BNK48 2nd Album "JABAJA (เปิดตัวเพลง Part 4)"',
+      description: '5 July 2019 @Iconsiam',
+      time: '16:59',
+      link: 'https://youtu.be/PCPasfl7LdU',
       type: 'youtube'
     },
     {
