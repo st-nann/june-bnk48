@@ -23,30 +23,17 @@ module.exports = {
     event: {
       title: {
         image: {
-          name: 'profile%2Fnew%20feed%2Fannouncement%20(title)',
-          token: '6611b827-e9a7-4a8a-b306-6b2ff343af28'
+          name: 'profile%2Fnew%20feed%2Fannouncement-(title)-new',
+          token: 'd3a640e4-694a-4fc5-9f6f-29d183cc3cc6'
         }
-      },
-      image: {
-        name: 'profile%2Fnew%20feed%2Fannouncement%20(image)',
-        token: 'b124f5fb-c1b0-443d-8a89-535707e5b6ff'
       }
     },
-    instagram: {
-      image: {
-        name: 'profile%2Fnew%20feed%2Finstagram',
-        token: 'd3d43c40-f3b5-432e-bd7d-fb31211cd86a'
-      },
-      src: ''
-    },
     facebook: {
-      image: {
-        name: 'profile%2Fnew%20feed%2Ffacebook',
-        token: 'd4d3088a-d1d6-4b8a-801b-83ae0ec82b7e'
-      },
       src: {
         desktop:
-          'https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fbnk48official.june%2F&tabs=timeline&width=320&height=494&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId',
+          'https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fbnk48official.june%2F&tabs=timeline&width=380&height=509&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId',
+        tablet:
+          'https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fbnk48official.june%2F&tabs=timeline&width=380&height=640&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId',
         mobile:
           'https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fbnk48official.june%2F&tabs=timeline&width=380&height=494&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId'
       }

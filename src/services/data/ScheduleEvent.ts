@@ -1804,6 +1804,18 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-07-04',
+      title: 'Birthday 19th',
+      details: {
+        description: '',
+        location: '',
+        time: 'all day',
+        icon: 'cake-variant',
+        color: 'pink'
+      },
+      open: false
+    },
+    {
       date: '2019-07-05',
       title: 'EVERYBODY SAYS JABAJA',
       details: {
@@ -1818,14 +1830,145 @@ module.exports = {
       open: false
     },
     {
-      date: '2019-07-04',
-      title: 'Birthday 19th',
+      date: '2019-07-06',
+      title: `BNK48 6th Single 'Beginner' Handshake`,
       details: {
-        description: '',
-        location: '',
+        description: `[Handshake] งานจับมือ BNK48 6th Single 'Beginner' Handshake`,
+        link: '',
+        location: 'Bitec Bangna Hall 106 - 107',
         time: 'all day',
-        icon: 'cake-variant',
-        color: 'pink'
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2019-07-07',
+      title: `BNK48 6th Single 'Beginner' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ BNK48 6th Single 'Beginner' Handshake`,
+        link: '',
+        location: 'Bitec Bangna Hall 106 - 107',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2019-07-21',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: '',
+        location: '',
+        time: '21:31',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2019-07-27',
+      title: `BNK48 2nd album : JABAJA 2-shot event`,
+      details: {
+        description: `[2Shot] BNK48 2nd album : JABAJA 2-shot event'`,
+        link: '',
+        location: 'Bitec Bangna Hall 106 - 107',
+        time: 'all day',
+        icon: 'camera',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2019-07-28',
+      title: `BNK48 2nd album : JABAJA 2-shot event`,
+      details: {
+        description: `[2Shot] BNK48 2nd album : JABAJA 2-shot event'`,
+        link: '',
+        location: 'Bitec Bangna Hall 106 - 107',
+        time: 'all day',
+        icon: 'camera',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2019-08-10',
+      title: `BNK48 6th Single 'Beginner' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ BNK48 6th Single 'Beginner' Handshake`,
+        link: '',
+        location: 'Bitec Bangna Hall 106 - 107',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2019-08-11',
+      title: `BNK48 6th Single 'Beginner' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ BNK48 6th Single 'Beginner' Handshake`,
+        link: '',
+        location: 'Bitec Bangna Hall 106 - 107',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2019-09-21',
+      title: `BNK48 6th Single 'Beginner' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ BNK48 6th Single 'Beginner' Handshake`,
+        link: '',
+        location: 'Bitec Bangna Hall 106 - 107',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2019-09-22',
+      title: `BNK48 6th Single 'Beginner' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ BNK48 6th Single 'Beginner' Handshake`,
+        link: '',
+        location: 'Bitec Bangna Hall 106 - 107',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2019-10-19',
+      title: `BNK48 2nd album : JABAJA 2-shot event`,
+      details: {
+        description: `[2Shot] BNK48 2nd album : JABAJA 2-shot event'`,
+        link: '',
+        location: 'Bitec Bangna Hall 106 - 107',
+        time: 'all day',
+        icon: 'camera',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2019-10-20',
+      title: `BNK48 2nd album : JABAJA 2-shot event`,
+      details: {
+        description: `[2Shot] BNK48 2nd album : JABAJA 2-shot event'`,
+        link: '',
+        location: 'Bitec Bangna Hall 106 - 107',
+        time: 'all day',
+        icon: 'camera',
+        color: 'purple'
       },
       open: false
     }

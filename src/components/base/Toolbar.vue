@@ -1,5 +1,5 @@
 <template>
-  <v-toolbar class="offwhite py-1" fixed flat light>
+  <v-toolbar class="offwhite py-1" fixed flat light style="z-index: 9;">
     <v-toolbar-title class="ml-0">
       <a href="/">
         <img class="mt-2 logo" :src="logo" />
