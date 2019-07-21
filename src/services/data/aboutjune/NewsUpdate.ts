@@ -8,10 +8,16 @@ module.exports = {
   announcements: [
     {
       image: {
-        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement2',
-        token: 'bf10050a-5b14-48fd-95e7-98a4f9a70b5a'
+        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement3',
+        token: '2904e73c-96a6-44fb-a990-d8d5b7b6be54'
       }
     }
+    // {
+    //   image: {
+    //     name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement2',
+    //     token: 'bf10050a-5b14-48fd-95e7-98a4f9a70b5a'
+    //   }
+    // }
     // {
     //   image: {
     //     name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement1',
