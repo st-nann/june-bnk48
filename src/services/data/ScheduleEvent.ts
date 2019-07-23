@@ -1860,11 +1860,24 @@ module.exports = {
       title: 'Live',
       details: {
         description: '[Live] Live in BNK48 Application',
-        link: '',
+        link: 'https://app.bnk48.com/member-playback/22617',
         location: '',
         time: '21:31',
         icon: 'video-vintage',
         color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2019-07-23',
+      title: 'Digital live studio',
+      details: {
+        description: '[Live] Digital live studio',
+        link: 'https://www.facebook.com/bnk48official/videos/399648334008547/',
+        location: 'ตู้ปลา @The EmQuartier',
+        time: '18:00',
+        icon: 'video-vintage',
+        color: 'purple'
       },
       open: false
     },
