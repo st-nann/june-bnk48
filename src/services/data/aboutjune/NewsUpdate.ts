@@ -26,6 +26,7 @@ module.exports = {
     // }
   ],
   newsupdate: {
+    video: 'https://youtu.be/u37TlKD7cwo',
     event: {
       title: {
         image: {

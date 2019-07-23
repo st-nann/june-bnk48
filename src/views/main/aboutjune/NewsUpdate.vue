@@ -182,7 +182,7 @@ export default {
     let script = document.createElement('script')
     script.setAttribute('src', 'https://apps.elfsight.com/p/platform.js')
     document.head.appendChild(script)
-    this.doGetMedia('https://youtu.be/u37TlKD7cwo')
+    this.doGetMedia(this.newsupdate.video)
   },
   methods: {
     doGetImage(name, token) {

@@ -2,6 +2,22 @@ module.exports = {
   other: [
     {
       name:
+        'HBD Juné 19th (04.07.2019)',
+      description: '#จูเน่19ขวบแล้วนะ Project Happy Birth Day (Video at MBK จากร้านบะหมี่จของูเน่)',
+      time: '00:31',
+      link: 'https://youtu.be/u37TlKD7cwo',
+      type: 'youtube'
+    },
+    {
+      name:
+        'HBD Juné 19th (04.07.2019)',
+      description: '#จูเน่19ขวบแล้วนะ Project Happy Birth Day (Video จาก Juniversé)',
+      time: '04:21',
+      link: 'https://www.facebook.com/junebnk48family/videos/2359298197468784/',
+      type: 'facebook'
+    },
+    {
+      name:
         'ล้วงลึก "พอลล่า-ภรวรรณ" เจ้าของร้าน "Kanom" เลี้ยงลูกอย่างไรจนได้เป็น BNK48',
       description: 'Interview',
       time: '18:22',
