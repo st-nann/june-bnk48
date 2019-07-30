@@ -1908,6 +1908,19 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-07-30',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-live/1429',
+        location: '',
+        time: '11:41',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
       date: '2019-08-10',
       title: `BNK48 6th Single 'Beginner' Handshake`,
       details: {

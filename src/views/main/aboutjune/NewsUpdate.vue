@@ -139,7 +139,8 @@
                   : '640'
               "
               :class="{
-                'mt-2 elevation-5': $vuetify.breakpoint.lgAndUp || $vuetify.breakpoint.xs
+                'mt-2 elevation-5':
+                  $vuetify.breakpoint.lgAndUp || $vuetify.breakpoint.xs
               }"
               style="border:none;overflow:hidden"
               scrolling="no"
