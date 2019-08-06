@@ -1,6 +1,13 @@
 module.exports = {
   official: [
     {
+      name: 'BNK48 Jabaja ก็จ๊าบ อะจ้า (Dance Practice Ver.7)',
+      description: 'กิจกรรมประกวดเต้น JABAJA',
+      time: '00:01:50',
+      link: 'https://youtu.be/neQrl3VN09c',
+      type: 'youtube'
+    },
+    {
       name: '[Live] งานเปิดตัว BNK48 2nd Album "JABAJA" (กิจกรรมบนเวที)',
       description: '5 July 2019 @Iconsiam',
       time: '03:19:54',
