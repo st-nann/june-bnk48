@@ -1960,6 +1960,32 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-08-07',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-playback/30627',
+        location: '',
+        time: '14:09',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2019-08-07',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-playback/30653',
+        location: '',
+        time: '14:14',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
       date: '2019-08-10',
       title: `BNK48 6th Single 'Beginner' Handshake`,
       details: {
