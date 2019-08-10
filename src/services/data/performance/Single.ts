@@ -22,10 +22,17 @@ module.exports = {
       type: 'youtube'
     },
     {
-      name: '[MV Full] Reborn (wait)',
+      name: '[MV Trailer] Reborn',
       description: '[album 2] - Jabaja',
-      time: '00:00',
-      link: '',
+      time: '03:51',
+      link: 'https://youtu.be/S1VOPqK1VNM',
+      type: 'youtube'
+    },
+    {
+      name: '[MV Full] Reborn',
+      description: '[album 2] - Jabaja',
+      time: '05:34',
+      link: 'https://youtu.be/SPZNSJ5NmJU',
       type: 'youtube'
     }
   ]
