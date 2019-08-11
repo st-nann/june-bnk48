@@ -195,6 +195,27 @@ module.exports = {
         name: 'gallery%2Fphotoset%2Faniversary%202%20years',
         token: 'e8e2362d-da90-413e-bdc6-b2c7ba1b7f98'
       }
+    },
+    {
+      name: '[2nd album] - JABAJA (Closeup)',
+      image: {
+        name: 'gallery%2Fphotoset%2Fjabaja%20(closeup)',
+        token: '4e3bfb6d-67c6-42d7-9118-9ebb99de8611'
+      }
+    },
+    {
+      name: '[2nd album] - JABAJA (Half)',
+      image: {
+        name: 'gallery%2Fphotoset%2Fjabaja%20(half)',
+        token: '44dab3e4-8784-4373-8599-513332d4fd48'
+      }
+    },
+    {
+      name: '[2nd album] - JABAJA (Full)',
+      image: {
+        name: 'gallery%2Fphotoset%2Fjabaja%20(full)',
+        token: 'fd511e43-7aae-4541-ab6b-1f7bd31a8353'
+      }
     }
     // },
     // {
