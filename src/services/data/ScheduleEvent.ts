@@ -2025,6 +2025,19 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-08-27',
+      title: 'BNK48 Trainee Stage「PARTY ga Hajimaru yo」',
+      details: {
+        description: `[Theater] BNK48 Special Stage: Rina and Aom We Hug You เจ้า「PARTY ga Hajimaru yo」`,
+        link: '',
+        location: 'BNK48 The Campus 4th floor @The Mall Bangkapi',
+        time: '19:00',
+        icon: 'theater',
+        color: 'coral'
+      },
+      open: false
+    },
+    {
       date: '2019-09-21',
       title: `BNK48 6th Single 'Beginner' Handshake`,
       details: {
