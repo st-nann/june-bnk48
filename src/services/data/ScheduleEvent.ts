@@ -2012,6 +2012,19 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-08-22',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-playback/39242',
+        location: '',
+        time: '13:02',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
       date: '2019-08-23',
       title: 'BNK48 Trainee Stage「PARTY ga Hajimaru yo」',
       details: {
