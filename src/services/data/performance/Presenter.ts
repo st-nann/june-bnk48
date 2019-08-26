@@ -84,6 +84,13 @@ module.exports = {
       link:
         'https://www.facebook.com/OishiDrinkStation/videos/249567122377141/',
       type: 'facebook'
+    },
+    {
+      name: 'โฆษณา บัตรออมสินเดบิต GSB x BNK48 Limited',
+      description: 'โฆษณา บัตรออมสินเดบิต GSB x BNK48 Limited',
+      time: '01:00',
+      link: 'https://youtu.be/d7HUs9Qazis',
+      type: 'youtube'
     }
   ]
 }

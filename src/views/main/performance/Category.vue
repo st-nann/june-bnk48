@@ -93,7 +93,7 @@ export default {
       return getImageFromStore(name, token)
     },
     doGetCategoryLists(group) {
-      let key = convertName(group.name)
+      let key = convertName(group.key)
       this.group = group
       this.data = () => import(`@/services/data/performance/${key}`)
       this.data().then(res => {
