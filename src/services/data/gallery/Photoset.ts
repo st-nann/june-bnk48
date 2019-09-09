@@ -216,6 +216,13 @@ module.exports = {
         name: 'gallery%2Fphotoset%2Fjabaja%20(full)',
         token: 'fd511e43-7aae-4541-ab6b-1f7bd31a8353'
       }
+    },
+    {
+      name: '[Special] - เทศกาลกีฬาบางกอก ๔๘ (Full)',
+      image: {
+        name: 'gallery%2Fphotoset%2Fsport%20day%20(full)',
+        token: '6c039ed1-91ef-48ba-b81e-e82d7dd54ca0'
+      }
     }
     // },
     // {
