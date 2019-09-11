@@ -218,6 +218,13 @@ module.exports = {
       }
     },
     {
+      name: '[Special] - เทศกาลกีฬาบางกอก ๔๘ (Half)',
+      image: {
+        name: 'gallery%2Fphotoset%2Fsport%20day%20(half)',
+        token: 'b6a00a9d-ecd5-46e9-960d-67232046e1e4'
+      }
+    },
+    {
       name: '[Special] - เทศกาลกีฬาบางกอก ๔๘ (Full)',
       image: {
         name: 'gallery%2Fphotoset%2Fsport%20day%20(full)',
