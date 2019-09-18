@@ -197,6 +197,13 @@ module.exports = {
       }
     },
     {
+      name: '[2nd album] - JABAJA (Cover)',
+      image: {
+        name: 'gallery%2Fphotoset%2Fjabaja%20(cover)',
+        token: 'c81517fb-636f-4cc2-af72-020fb1339c82'
+      }
+    },
+    {
       name: '[2nd album] - JABAJA (Closeup)',
       image: {
         name: 'gallery%2Fphotoset%2Fjabaja%20(closeup)',
