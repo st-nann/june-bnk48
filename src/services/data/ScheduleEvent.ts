@@ -1791,7 +1791,7 @@ module.exports = {
       open: false
     },
     {
-      date: '2018-07-02',
+      date: '2019-07-02',
       title: 'The power of unity',
       details: {
         description: '[Event] The power of unity รวมพลังเพื่อ ฮีโร่กีฬาไทย',
@@ -2060,6 +2060,19 @@ module.exports = {
         time: '19:00',
         icon: 'theater',
         color: 'coral'
+      },
+      open: false
+    },
+    {
+      date: '2019-09-20',
+      title: 'SAT Thailand Volleyball Invitation 2019',
+      details: {
+        description: '[Event] งานกิจกรรมกีฬาของการกีฬาแห่งประเทศไทย',
+        link: '',
+        location: 'Terminal 21 @Korat',
+        time: '14:00 - 16:00',
+        icon: 'theater',
+        color: 'yellow'
       },
       open: false
     },
