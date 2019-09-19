@@ -37,7 +37,17 @@ module.exports = {
       name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ - ปิดกล้อง และความสนุกในกองถ่าย',
       description: 'GDH559',
       time: '04:09',
-      link: 'https://tv.line.me/embed/9126362',
+      link:
+        'https://tv.line.me/embed/9126362_one-year-ปิดกล้อง-และความสนุกในกองถ่าย',
+      type: 'linetv'
+    },
+    {
+      name:
+        'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ - รวมพลคนบ้าน ONE YEAR อ่านบทครั้งแรก !',
+      description: 'GDH559',
+      time: '03:53',
+      link:
+        'https://tv.line.me/embed/9851353_รวมพลคนบ้าน-one-year-อ่านบทครั้งแรก',
       type: 'linetv'
     },
     {

@@ -17,7 +17,7 @@ module.exports = {
         name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement6',
         token: '3ade4569-98fb-4bc8-8b89-5d8bb64ee3f5'
       }
-    },
+    }
     // {
     //   image: {
     //     name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement4',
