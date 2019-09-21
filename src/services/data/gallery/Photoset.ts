@@ -225,6 +225,13 @@ module.exports = {
       }
     },
     {
+      name: '[Special] - เทศกาลกีฬาบางกอก ๔๘ (Closeup)',
+      image: {
+        name: 'gallery%2Fphotoset%2Fsport%20day%20(closeup)',
+        token: '4d4d3f3e-3968-442d-80c7-d2a4136eb558'
+      }
+    },
+    {
       name: '[Special] - เทศกาลกีฬาบางกอก ๔๘ (Half)',
       image: {
         name: 'gallery%2Fphotoset%2Fsport%20day%20(half)',
