@@ -908,7 +908,7 @@ module.exports = {
         description: '[Live] Live in BNK48 Application',
         link: 'https://app.bnk48.com/member-playback/450',
         location: '',
-        time: '18.18',
+        time: '18:18',
         icon: 'video-vintage',
         color: 'green'
       },
@@ -1303,7 +1303,7 @@ module.exports = {
         description: '[Live] Live in BNK48 Application',
         link: 'https://app.bnk48.com/member-playback/912',
         location: '',
-        time: '23.34',
+        time: '23:34',
         icon: 'video-vintage',
         color: 'green'
       },
@@ -1373,7 +1373,7 @@ module.exports = {
         link:
           'https://www.facebook.com/MirindaMixItThailand/videos/2314142092243975/',
         location: 'ลาน Eden 1st floor @Central world',
-        time: '17.30',
+        time: '17:30',
         icon: 'video-vintage',
         color: 'yellow'
       },
@@ -1492,7 +1492,7 @@ module.exports = {
         description: '[Live] Live in BNK48 Application',
         link: 'https://app.bnk48.com/member-playback/1048',
         location: '',
-        time: '21.33',
+        time: '21:33',
         icon: 'video-vintage',
         color: 'green'
       },
@@ -1505,7 +1505,7 @@ module.exports = {
         description: '[Live] Live in BNK48 Application',
         link: 'https://app.bnk48.com/member-playback/1051',
         location: '',
-        time: '09.50',
+        time: '09:50',
         icon: 'video-vintage',
         color: 'green'
       },
@@ -2099,6 +2099,32 @@ module.exports = {
         time: 'all day',
         icon: 'charity',
         color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2019-09-24',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application (Part I)',
+        link: 'https://app.bnk48.com/member-playback/57840',
+        location: '',
+        time: '15:20',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2019-09-24',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application (Part II)',
+        link: 'https://app.bnk48.com/member-playback/57859',
+        location: '',
+        time: '16:52',
+        icon: 'video-vintage',
+        color: 'green'
       },
       open: false
     },
