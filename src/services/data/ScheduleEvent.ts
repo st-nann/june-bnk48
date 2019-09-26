@@ -2129,6 +2129,32 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-09-26',
+      title: 'Digital live studio',
+      details: {
+        description: '[Live] Digital live studio อำลาตู้ปลา (Part I)',
+        link: 'https://www.facebook.com/bnk48official/videos/486744765506653/',
+        location: 'ตู้ปลา @The EmQuartier',
+        time: '16:00 - 18.30',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2019-09-26',
+      title: 'Digital live studio',
+      details: {
+        description: '[Live] Digital live studio อำลาตู้ปลา (Part II)',
+        link: 'https://www.facebook.com/bnk48official/videos/735468353544272/',
+        location: 'ตู้ปลา @The EmQuartier',
+        time: '19:00 - 21.07',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
       date: '2019-10-19',
       title: `BNK48 2nd album : JABAJA 2-shot event`,
       details: {

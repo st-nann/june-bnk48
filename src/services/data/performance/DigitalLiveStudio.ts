@@ -1,6 +1,20 @@
 module.exports = {
   digital_live_studio: [
     {
+      name: 'DIGITAL LIVE STUDIO (อำลาตู้ปลา Part II)',
+      description: '26 Sep 2019',
+      time: '02:07:38',
+      link: 'https://www.facebook.com/bnk48official/videos/735468353544272/',
+      type: 'facebook'
+    },
+    {
+      name: 'DIGITAL LIVE STUDIO (อำลาตู้ปลา Part I)',
+      description: '26 Sep 2019',
+      time: '02:39:49',
+      link: 'https://www.facebook.com/bnk48official/videos/486744765506653/',
+      type: 'facebook'
+    },
+    {
       name: 'DIGITAL LIVE STUDIO',
       description: '23 July 2019',
       time: '01:30:32',
