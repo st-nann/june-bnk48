@@ -481,6 +481,48 @@ module.exports = {
             start: 1556150400,
             end: 1558396799
           }
+        },
+        {
+          name: 'หมวก Bucket',
+          image: {
+            name: 'shop%2Fproducts%2Fgroup%2Fhat',
+            token: '952b0a44-8521-4257-8e14-3970d3dc31d4'
+          },
+          route:
+            'https://docs.google.com/forms/d/1np8GGLk_JzISPYYHhEapF_D1aE7C3J93WKi1jkErFvM/viewform?edit_requested=true',
+          price: 350,
+          date: {
+            start: 1569603600,
+            end: 1570892400
+          }
+        },
+        {
+          name: 'พวงกุญแจ + ฐานวางแก้วใส',
+          image: {
+            name: 'shop%2Fproducts%2Fgroup%2Fkeychain',
+            token: '92507eda-8a45-467f-a32b-4708658c088b'
+          },
+          route:
+            'https://docs.google.com/forms/d/1np8GGLk_JzISPYYHhEapF_D1aE7C3J93WKi1jkErFvM/viewform?edit_requested=true',
+          price: 200,
+          date: {
+            start: 1569603600,
+            end: 1570892400
+          }
+        },
+        {
+          name: '[Fullset] - หมวก Bucket + พวงกุญแจ',
+          image: {
+            name: 'shop%2Fproducts%2Fgroup%2Fhatandkeychain',
+            token: 'd2ddec26-342a-458a-925b-7d5b90c952be'
+          },
+          route:
+            'https://docs.google.com/forms/d/1np8GGLk_JzISPYYHhEapF_D1aE7C3J93WKi1jkErFvM/viewform?edit_requested=true',
+          price: 500,
+          date: {
+            start: 1569603600,
+            end: 1570892400
+          }
         }
       ]
     }

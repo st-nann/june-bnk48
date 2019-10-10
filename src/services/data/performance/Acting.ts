@@ -51,6 +51,15 @@ module.exports = {
       type: 'linetv'
     },
     {
+      name:
+        'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ - เวิร์กชอปติวเข้ม! จัดเต็มสองบ้าน ONE YEAR',
+      description: 'GDH559',
+      time: '05:00',
+      link:
+        'https://tv.line.me/embed/10042831_เวิร์กชอปติวเข้ม-จัดเต็มสองบ้าน-one-year',
+      type: 'linetv'
+    },
+    {
       name: 'เปิดตัวทีมโกงเซ็ตใหม่ “ฉลาดเกมส์โกง เดอะซีรีส์”',
       description: 'GDH559',
       time: '01:45',

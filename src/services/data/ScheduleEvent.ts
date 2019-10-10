@@ -2155,6 +2155,32 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-09-30',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-playback/61153',
+        location: '',
+        time: '19:21',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2019-10-10',
+      title: 'GSB Bangkok Cup 2019',
+      details: {
+        description: '[Event] GSB Bangkok Cup 2019',
+        link: '',
+        location: 'สนามบุญยะจินดา',
+        time: '',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
       date: '2019-10-19',
       title: `BNK48 2nd album : JABAJA 2-shot event`,
       details: {
