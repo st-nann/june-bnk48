@@ -2205,6 +2205,33 @@ module.exports = {
         color: 'purple'
       },
       open: false
+    },
+    {
+      date: '2019-10-25',
+      title: 'BNK48 Trainee Stage「PARTY ga Hajimaru yo」',
+      details: {
+        description: `[Theater] BNK48 Trainee Stage「PARTY ga Hajimaru yo」`,
+        link: '',
+        location: 'BNK48 The Campus 4th floor @The Mall Bangkapi',
+        time: '19:00',
+        icon: 'theater',
+        color: 'coral'
+      },
+      open: false
+    },
+    {
+      date: '2019-10-26',
+      title: 'BNK48: 77 ดินแดนแสนวิเศษ',
+      details: {
+        description:
+          '[Event] BNK48: 77 ดินแดนแสนวิเศษ ซ้อมเชียร์กันให้สุดเสียงกับเหล่าสมาชิกจาก BNK48 #เพลงเชียร์ที่มันที่สุด #มายิงMIXไปด้วยกัน',
+        link: '',
+        location: 'The street Ratchada',
+        time: '18:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
     }
   ]
 }
