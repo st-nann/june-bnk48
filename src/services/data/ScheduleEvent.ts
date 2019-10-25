@@ -2208,6 +2208,19 @@ module.exports = {
     },
     {
       date: '2019-10-25',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-playback/75402update',
+        location: '',
+        time: '15:46',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2019-10-25',
       title: 'BNK48 Trainee Stage「PARTY ga Hajimaru yo」',
       details: {
         description: `[Theater] BNK48 Trainee Stage「PARTY ga Hajimaru yo」`,
