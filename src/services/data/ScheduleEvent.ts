@@ -2245,6 +2245,19 @@ module.exports = {
         color: 'yellow'
       },
       open: false
+    },
+    {
+      date: '2019-10-27',
+      title: '[Live] Grab',
+      details: {
+        description: '[Event] Grab',
+        link: 'https://www.facebook.com/GrabTH/videos/469982936938165/',
+        location: '',
+        time: '11.00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
     }
   ]
 }
