@@ -2258,6 +2258,46 @@ module.exports = {
         color: 'yellow'
       },
       open: false
+    },
+    {
+      date: '2019-10-27',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-playback/76707',
+        location: '',
+        time: '23:08',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2019-10-29',
+      title: 'Grand Opening บัตรออมสินเดบิต',
+      details: {
+        description: '[Event] Grand Opening บัตรออมสินเดบิต',
+        link: '',
+        location: 'Fashion Hall Siam Paragon',
+        time: '10.00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2019-10-30',
+      title: 'BNK48: The Journey to 7th Single "77 ดินแดนแสนวิเศษ"',
+      details: {
+        description:
+          '[Event] เปิดตัว Single 7 BNK48: The Journey to 7th Single "77 ดินแดนแสนวิเศษ" #เพลงเชียร์ที่มันที่สุด #มายิงMIXไปด้วยกัน',
+        link: '',
+        location: 'The street Ratchada',
+        time: '18:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
     }
   ]
 }
