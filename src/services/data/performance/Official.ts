@@ -1,6 +1,31 @@
 module.exports = {
   official: [
     {
+      name: 'BNK48: 77 ดินแดนแสนวิเศษ',
+      description:
+        'BNK48: 77 ดินแดนแสนวิเศษ ซ้อมเชียร์กันให้สุดเสียงกับเหล่าสมาชิกจาก BNK48 #เพลงเชียร์ที่มันที่สุด #มายิงMIXไปด้วยกัน',
+      time: '00:05:23',
+      link: 'https://youtu.be/6bePZKJW85M',
+      type: 'youtube'
+    },
+    {
+      name: '[Teaser] BNK48: 77 ดินแดนแสนวิเศษ',
+      description:
+        'BNK48: 77 ดินแดนแสนวิเศษ ซ้อมเชียร์กันให้สุดเสียงกับเหล่าสมาชิกจาก BNK48 #เพลงเชียร์ที่มันที่สุด #มายิงMIXไปด้วยกัน',
+      time: '00:00:54',
+      link: 'https://www.facebook.com/bnk48official/?epa=SEARCH_BOX',
+      type: 'youtube'
+    },
+    {
+      name:
+        'BNK48: The Journey to 7th Single "77 ดินแดนแสนวิเศษ" (77 no suteki na machi e)',
+      description:
+        'เปิดตัว Single 7 BNK48: The Journey to 7th Single "77 ดินแดนแสนวิเศษ" (77 no suteki na machi e) #เพลงเชียร์ที่มันที่สุด #มายิงMIXไปด้วยกัน',
+      time: '03:04:57',
+      link: 'https://www.facebook.com/bnk48official/videos/596679587535851/',
+      type: 'facebook'
+    },
+    {
       name: 'BNK48 Jabaja ก็จ๊าบ อะจ้า (Dance Practice Ver.7)',
       description: 'กิจกรรมประกวดเต้น JABAJA',
       time: '00:01:50',
