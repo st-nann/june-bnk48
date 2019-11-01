@@ -438,6 +438,111 @@ module.exports = {
             start: 1563537600,
             end: 1564747200
           }
+        },
+        {
+          name: '[Concert] BNK48 2nd Generation Concert "Blooming Season"',
+          image: {
+            name:
+              'shop%2Fproducts%2Fofficial%2Fblooming%20season',
+            token: '75920156-c0b5-4853-a1ce-0416141e6a28'
+          },
+          route:
+            'http://go.eventpop.me/BNK48BloomingSeason',
+          price: 2800,
+          date: {
+            start: 1570870800,
+            end: 1572652799
+          }
+        },
+        {
+          name: '[CD Type A] BNK48 - 77 ดินแดนแสนวิเศษ (Event : 7-8 Dec 19)',
+          image: {
+            name:
+              'shop%2Fproducts%2Fofficial%2FSingle7thCDTypeA',
+            token: 'c1851b47-fd88-412f-bda9-4b4c19190b4b'
+          },
+          route:
+            'https://shopee.co.th/-CD-Type-A-BNK48-77-%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9-(Event-7-8-Dec-19)-i.72135979.5304384912',
+          price: 350,
+          date: {
+            start: 1572609600,
+            end: 1575374400
+          }
+        },
+        {
+          name: '[CD Type B] BNK48 - 77 ดินแดนแสนวิเศษ (Event : 7-8 Dec 19)',
+          image: {
+            name:
+              'shop%2Fproducts%2Fofficial%2FSingle7thCDTypeB',
+            token: '29d9d698-55e6-49bc-91ff-bd17a713afd8'
+          },
+          route:
+            'https://shopee.co.th/-CD-Type-B-BNK48-77-%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9-(Event-7-8-Dec-19)-i.72135979.5504385947',
+          price: 350,
+          date: {
+            start: 1572609600,
+            end: 1575374400
+          }
+        },
+        {
+          name: '[Mini Photobook+Music Card Type A] BNK48 - 77 ดินแดนแสนวิเศษ (Event : 7-8 Dec 19)',
+          image: {
+            name:
+              'shop%2Fproducts%2Fofficial%2FSingle7thMiniPhotobookTypeADec',
+            token: 'f4da7494-2838-40eb-87ce-277adb572543'
+          },
+          route:
+            'https://shopee.co.th/-Mini-Photobook-Music-Card-Type-A-BNK48-77-%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9-(Event-7-8-Dec-19)-i.72135979.6904386845',
+          price: 350,
+          date: {
+            start: 1572609600,
+            end: 1575374400
+          }
+        },
+        {
+          name: '[Mini Photobook+Music Card Type B] BNK48 - 77 ดินแดนแสนวิเศษ (Event : 7-8 Dec 19)',
+          image: {
+            name:
+              'shop%2Fproducts%2Fofficial%2FSingle7thMiniPhotobookTypeBDec',
+            token: 'ac1b342e-d15c-4417-9ce7-c8a0a3ab91f6'
+          },
+          route:
+            'https://shopee.co.th/-Mini-Photobook-Music-Card-Type-B-BNK48-77-%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9-(Event-7-8-Dec-19)-i.72135979.5204387404',
+          price: 350,
+          date: {
+            start: 1572609600,
+            end: 1575374400
+          }
+        },
+        {
+          name: '[Mini Photobook+Music Card Type A] BNK48 - 77 ดินแดนแสนวิเศษ (Event : 15-16 Feb 20)',
+          image: {
+            name:
+              'shop%2Fproducts%2Fofficial%2FSingle7thMiniPhotobookTypeAFeb',
+            token: '07334a4c-afd5-4826-8e93-10aa1c8e6831'
+          },
+          route:
+            'https://shopee.co.th/-Mini-Photobook-Music-Card-Type-A-BNK48-77-%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9-(Event-15-16-Feb-20)-i.72135979.6904389078',
+          price: 350,
+          date: {
+            start: 1572609600,
+            end: 1575374400
+          }
+        },
+        {
+          name: '[Mini Photobook+Music Card Type B] BNK48 - 77 ดินแดนแสนวิเศษ (Event : 15-16 Feb 20)',
+          image: {
+            name:
+              'shop%2Fproducts%2Fofficial%2FSingle7thMiniPhotobookTypeBFeb',
+            token: 'c87a1333-161d-4f6e-88ee-9e0a5c9e89d3'
+          },
+          route:
+            'https://shopee.co.th/-Mini-Photobook-Music-Card-Type-B-BNK48-77-%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9-(Event-15-16-Feb-20)-i.72135979.3116170867',
+          price: 350,
+          date: {
+            start: 1572609600,
+            end: 1575374400
+          }
         }
       ]
     },

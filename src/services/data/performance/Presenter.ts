@@ -1,6 +1,14 @@
 module.exports = {
   presenter: [
     {
+      name: '[โฆษณา] Mirinda Mix-it กลิ่นออเรนจ์และทรอปิคัลฟรุต',
+      description: 'โฆษณา Mirinda Mix-it กลิ่นออเรนจ์และทรอปิคัลฟรุต',
+      time: '00:15',
+      link:
+        'https://www.facebook.com/MirindaMixItThailand/videos/2640923239325746/',
+      type: 'facebook'
+    },
+    {
       name: 'TINTEN Fan Meeting [Full]',
       description: '3 Apr 2019 @ลาน Eden Central world',
       time: '01:39:46',

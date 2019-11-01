@@ -2287,15 +2287,81 @@ module.exports = {
     },
     {
       date: '2019-10-30',
-      title: 'BNK48: The Journey to 7th Single "77 ดินแดนแสนวิเศษ"',
+      title:
+        'BNK48: The Journey to 7th Single "77 ดินแดนแสนวิเศษ" (77 no suteki na machi e)',
       details: {
         description:
-          '[Event] เปิดตัว Single 7 BNK48: The Journey to 7th Single "77 ดินแดนแสนวิเศษ" #เพลงเชียร์ที่มันที่สุด #มายิงMIXไปด้วยกัน',
-        link: '',
+          '[Event] เปิดตัว Single 7 BNK48: The Journey to 7th Single "77 ดินแดนแสนวิเศษ" (77 no suteki na machi e) #เพลงเชียร์ที่มันที่สุด #มายิงMIXไปด้วยกัน',
+        link: 'https://www.facebook.com/bnk48official/videos/596679587535851/',
         location: 'The street Ratchada',
         time: '18:00',
         icon: 'theater',
         color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2019-11-02',
+      title: '[Concert] BNK48 2nd Generation Concert “Blooming Season”',
+      details: {
+        description: '[Event] BNK48 2nd Generation Concert “Blooming Season”',
+        link: '',
+        location: 'Bitec Bangna Hall 106 - 107',
+        time: '16:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2019-12-07',
+      title: `BNK48 7th Single '77 ดินแดนแสนวิเศษ (77 no suteki na machi e)' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ 7th Single '77 ดินแดนแสนวิเศษ (77 no suteki na machi e)'`,
+        link: '',
+        location: 'Bitec Bangna Hall 106 - 107',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2019-12-08',
+      title: `BNK48 7th Single '77 ดินแดนแสนวิเศษ (77 no suteki na machi e)' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ 7th Single '77 ดินแดนแสนวิเศษ (77 no suteki na machi e)'`,
+        link: '',
+        location: 'Bitec Bangna Hall 106 - 107',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-02-15',
+      title: `BNK48 7th Single '77 ดินแดนแสนวิเศษ (77 no suteki na machi e)' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ 7th Single '77 ดินแดนแสนวิเศษ (77 no suteki na machi e)'`,
+        link: '',
+        location: 'Bitec Bangna Hall 106 - 107',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-02-16',
+      title: `BNK48 7th Single '77 ดินแดนแสนวิเศษ (77 no suteki na machi e)' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ 7th Single '77 ดินแดนแสนวิเศษ (77 no suteki na machi e)'`,
+        link: '',
+        location: 'Bitec Bangna Hall 106 - 107',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
       },
       open: false
     }
