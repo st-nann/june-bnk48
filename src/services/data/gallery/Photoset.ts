@@ -244,6 +244,34 @@ module.exports = {
         name: 'gallery%2Fphotoset%2Fsport%20day%20(full)',
         token: '6c039ed1-91ef-48ba-b81e-e82d7dd54ca0'
       }
+    },
+    {
+      name: '[Special] - Photobook The frozer (BNK48 2nd generation)',
+      image: {
+        name: 'gallery%2Fphotoset%2Fphotobook%20(2nd%20generation)',
+        token: '07a36640-4fd7-41ce-b050-7211f2980c68'
+      }
+    },
+    {
+      name: '[Special] - Blooming season concert (Closeup)',
+      image: {
+        name: 'gallery%2Fphotoset%2Fblooming%20season%20(closeup)',
+        token: '65f047fd-35be-4884-9dc2-559b3cf84cab'
+      }
+    },
+    {
+      name: '[Special] - Blooming season concert (Half)',
+      image: {
+        name: 'gallery%2Fphotoset%2Fblooming%20season%20(half)',
+        token: 'c55e78b5-50d6-40b8-9cf6-01a961500cd3'
+      }
+    },
+    {
+      name: '[Special] - Blooming season concert (Full)',
+      image: {
+        name: 'gallery%2Fphotoset%2Fblooming%20season%20(full)',
+        token: '4bfa47db-bd12-4f6e-9c73-a62ed758ac8e'
+      }
     }
     // },
     // {
