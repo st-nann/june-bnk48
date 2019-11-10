@@ -1,6 +1,20 @@
 module.exports = {
   presenter: [
     {
+      name: '[โฆษณา] โฆษณา Mirinda Mix-it x BNK48 - เกมเมอร์เผยพกส้มก่อนแข่ง',
+      description: 'โฆษณา Mirinda Mix-it กลิ่นออเรนจ์และทรอปิคัลฟรุต',
+      time: '00:00:22',
+      link: 'https://youtu.be/gG1ZLnjv0J8',
+      type: 'youtube'
+    },
+    {
+      name: '[โฆษณา] โฆษณา Mirinda Mix-it x BNK48 - พระเอกโวยแค่ชวนไปกินส้ม | เฌอปราง & จูเน่',
+      description: 'โฆษณา Mirinda Mix-it กลิ่นออเรนจ์และทรอปิคัลฟรุต',
+      time: '00:00:17',
+      link: 'https://youtu.be/mMtMsjLfdOo',
+      type: 'youtube'
+    },
+    {
       name: '[Live] Grab',
       description: '[Live] Grab',
       time: '02:18:51',
