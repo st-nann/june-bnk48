@@ -1,6 +1,13 @@
 module.exports = {
   presenter: [
     {
+      name: '[โฆษณา] โฆษณา Mirinda Mix-it x BNK48 - บอกรักให้โลกรู้',
+      description: 'โฆษณา Mirinda Mix-it กลิ่นออเรนจ์และทรอปิคัลฟรุต',
+      time: '00:00:31',
+      link: 'https://youtu.be/4Fsoh4e9pdA',
+      type: 'youtube'
+    },
+    {
       name: '[โฆษณา] โฆษณา Mirinda Mix-it x BNK48 - เกมเมอร์เผยพกส้มก่อนแข่ง',
       description: 'โฆษณา Mirinda Mix-it กลิ่นออเรนจ์และทรอปิคัลฟรุต',
       time: '00:00:22',

@@ -8,6 +8,12 @@ module.exports = {
   announcements: [
     {
       image: {
+        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement10',
+        token: 'c9125c73-9745-4bb5-aca1-ad13a456d1c0'
+      }
+    },
+    {
+      image: {
         name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement9',
         token: 'a12c11b9-9dc9-4897-833e-c6ad1ce23733'
       }
