@@ -37,6 +37,13 @@ module.exports = {
       type: 'facebook'
     },
     {
+      name: '[โฆษณา] Mirinda Mix-it กลิ่นออเรนจ์และทรอปิคัลฟรุต',
+      description: 'โฆษณา Mirinda Mix-it กลิ่นออเรนจ์และทรอปิคัลฟรุต',
+      time: '00:30',
+      link: 'https://youtu.be/J6g7Sh0-G_U',
+      type: 'youtube'
+    },
+    {
       name: 'TINTEN Fan Meeting [Full]',
       description: '3 Apr 2019 @ลาน Eden Central world',
       time: '01:39:46',
