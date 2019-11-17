@@ -2314,6 +2314,32 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-11-17',
+      title: '[Fanmeet] Cherprang’s Fanmeet -Me and My Cats-',
+      details: {
+        description: '[Event] Cherprang’s Fanmeet -Me and My Cats-',
+        link: '',
+        location: 'MCC Hall The Mall Bangkapi',
+        time: '16:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2019-11-21',
+      title: 'งานแถลงข่าวเปิด serie 365 One years',
+      details: {
+        description: '[Event] งานแถลงข่าวเปิด serie 365 One years',
+        link: '',
+        location: 'Samyan Mitrtown',
+        time: '18.00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
       date: '2019-12-07',
       title: `BNK48 7th Single '77 ดินแดนแสนวิเศษ (77 no suteki na machi e)' Handshake`,
       details: {

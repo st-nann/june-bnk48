@@ -1,6 +1,13 @@
 module.exports = {
   presenter: [
     {
+      name: '[โฆษณา] โฆษณา Mirinda Mix-it x BNK48 - โอปป้าหูแทบดับ',
+      description: 'โฆษณา Mirinda Mix-it กลิ่นออเรนจ์และทรอปิคัลฟรุต',
+      time: '00:00:18',
+      link: 'https://youtu.be/yx7iuRBb87U',
+      type: 'youtube'
+    },
+    {
       name: '[โฆษณา] โฆษณา Mirinda Mix-it x BNK48 - บอกรักให้โลกรู้',
       description: 'โฆษณา Mirinda Mix-it กลิ่นออเรนจ์และทรอปิคัลฟรุต',
       time: '00:00:31',
@@ -15,7 +22,8 @@ module.exports = {
       type: 'youtube'
     },
     {
-      name: '[โฆษณา] โฆษณา Mirinda Mix-it x BNK48 - พระเอกโวยแค่ชวนไปกินส้ม | เฌอปราง & จูเน่',
+      name:
+        '[โฆษณา] โฆษณา Mirinda Mix-it x BNK48 - พระเอกโวยแค่ชวนไปกินส้ม | เฌอปราง & จูเน่',
       description: 'โฆษณา Mirinda Mix-it กลิ่นออเรนจ์และทรอปิคัลฟรุต',
       time: '00:00:17',
       link: 'https://youtu.be/mMtMsjLfdOo',

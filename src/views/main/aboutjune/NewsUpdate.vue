@@ -73,6 +73,11 @@
                     :src="doGetImage(item.image.name, item.image.token)"
                     :lazy-src="doGetImage(item.image.name, item.image.token)"
                     width="100%"
+                    :style="
+                      $vuetify.breakpoint.lgAndUp
+                        ? 'min-height: 509px; max-height: 509px;'
+                        : ''
+                    "
                   ></v-img>
                 </v-window-item>
               </v-window>
