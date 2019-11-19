@@ -2327,6 +2327,19 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-11-19',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: '',
+        location: '',
+        time: '17:',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
       date: '2019-11-21',
       title: 'งานแถลงข่าวเปิด serie 365 One years',
       details: {
