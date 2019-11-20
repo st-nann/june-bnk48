@@ -2379,6 +2379,19 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-12-12',
+      title: 'งานเปิดตัว Mirinda Mix-it Orange and Tropical fruit',
+      details: {
+        description: 'งานเปิดตัว Mirinda Mix-it Orange and Tropical fruit',
+        link: '',
+        location: 'โรงภาพยนตร์ IMAX (Quartier CineArt)',
+        time: '11:00',
+        icon: 'video-vintage',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
       date: '2020-02-15',
       title: `BNK48 7th Single '77 ดินแดนแสนวิเศษ (77 no suteki na machi e)' Handshake`,
       details: {
