@@ -2331,9 +2331,9 @@ module.exports = {
       title: 'Live',
       details: {
         description: '[Live] Live in BNK48 Application',
-        link: '',
+        link: 'https://app.bnk48.com/member-playback/95538',
         location: '',
-        time: '17:',
+        time: '17:47',
         icon: 'video-vintage',
         color: 'green'
       },

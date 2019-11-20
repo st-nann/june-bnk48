@@ -60,6 +60,24 @@ module.exports = {
       type: 'linetv'
     },
     {
+      name:
+        'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ - ONE YEAR ตัวอย่างตอนพิเศษ l ภารกิจกระชับสัมพันธ์ พาบ้านฉัน ไปรู้จักบ้านเธอ',
+      description: 'GDH559',
+      time: '00:30',
+      link:
+        'https://tv.line.me/embed/11019959_one-year-ตัวอย่างตอนพิเศษ-l-ภารกิจกระชับสัมพันธ์-พาบ้านฉัน-ไปรู้จักบ้านเธอ',
+      type: 'linetv'
+    },
+    {
+      name:
+        'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ - งานแถลงข่าวซีรีส์ ‘ONE YEAR 365 วัน บ้านฉัน บ้านเธอ’',
+      description: 'GDH559',
+      time: '02:03',
+      link:
+        'https://tv.line.me/embed/live/3418_live-งานแถลงข่าวซีรีส์-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
+      type: 'linetv'
+    },
+    {
       name: 'เปิดตัวทีมโกงเซ็ตใหม่ “ฉลาดเกมส์โกง เดอะซีรีส์”',
       description: 'GDH559',
       time: '01:45',

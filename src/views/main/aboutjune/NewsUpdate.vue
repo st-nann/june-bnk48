@@ -60,7 +60,7 @@
             <v-card
               flat
               tile
-              z-index="1"
+              z-index="2"
               :class="{ 'my-3': $vuetify.breakpoint.mdAndDown }"
             >
               <v-window v-model="onboarding">
@@ -78,6 +78,7 @@
                         ? 'min-height: 509px; max-height: 509px;'
                         : ''
                     "
+                    contain
                   ></v-img>
                 </v-window-item>
               </v-window>
