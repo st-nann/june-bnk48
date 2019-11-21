@@ -8,18 +8,6 @@ module.exports = {
   announcements: [
     {
       image: {
-        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement13',
-        token: 'dcf66cf2-8372-4d4d-b027-8917a53f622e'
-      }
-    },
-    {
-      image: {
-        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement35',
-        token: '9757c8e2-fb52-4586-ac34-f7b2710b96f0'
-      }
-    },
-    {
-      image: {
         name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement34',
         token: '85ebf5c3-69ea-41b8-a550-4dbdfd65ba4d'
       }
@@ -222,6 +210,18 @@ module.exports = {
         token: '41888182-5044-44b7-b5c5-494651989f8f'
       }
     }
+    // {
+    //   image: {
+    //     name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement13',
+    //     token: 'dcf66cf2-8372-4d4d-b027-8917a53f622e'
+    //   }
+    // },
+    // {
+    //   image: {
+    //     name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement35',
+    //     token: '9757c8e2-fb52-4586-ac34-f7b2710b96f0'
+    //   }
+    // },
     // {
     //   image: {
     //     name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement11',
