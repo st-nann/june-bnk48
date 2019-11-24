@@ -2353,6 +2353,20 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-11-24',
+      title: 'Superboy Project - CONCERT WEEK 10',
+      details: {
+        description: '[LIVE] Superboy Project - CONCERT WEEK 10',
+        link: '',
+        location:
+          'ถ่ายทอดสดทางช่อง 9 MCOT HD หมายเลข 30 และ Facebook และ Youtube Live : Superboy Project',
+        time: '14.00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
       date: '2019-12-07',
       title: `BNK48 7th Single '77 ดินแดนแสนวิเศษ (77 no suteki na machi e)' Handshake`,
       details: {

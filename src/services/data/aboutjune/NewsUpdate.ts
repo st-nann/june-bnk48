@@ -206,6 +206,24 @@ module.exports = {
     },
     {
       image: {
+        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement47',
+        token: '858781cb-cf2a-4422-a8f8-a13bcd03be9d'
+      }
+    },
+    {
+      image: {
+        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement48',
+        token: '157fa4ce-3ce6-458b-ba57-f2d2944e9693'
+      }
+    },
+    {
+      image: {
+        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement49',
+        token: '6c8e585e-7122-49ea-8944-83f15d66c074'
+      }
+    },
+    {
+      image: {
         name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement44',
         token: '41888182-5044-44b7-b5c5-494651989f8f'
       }
