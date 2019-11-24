@@ -2344,7 +2344,8 @@ module.exports = {
       title: 'งานแถลงข่าวเปิด serie 365 One years',
       details: {
         description: '[Event] งานแถลงข่าวเปิด serie 365 One years',
-        link: 'https://tv.line.me/embed/11089056_บันทึกภาพ-งานแถลงข่าวซีรีส์-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
+        link:
+          'https://tv.line.me/embed/11089056_บันทึกภาพ-งานแถลงข่าวซีรีส์-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
         location: 'Samyan Mitrtown',
         time: '18.00',
         icon: 'theater',
