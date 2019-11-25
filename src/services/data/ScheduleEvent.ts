@@ -287,7 +287,7 @@ module.exports = {
       date: '2018-08-24',
       title: 'BNK48 Trainee Stage「PARTY ga Hajimaru yo」',
       details: {
-        description: `[Theater] NK48 Trainee Stage「PARTY ga Hajimaru yo」`,
+        description: `[Theater] BNK48 Trainee Stage「PARTY ga Hajimaru yo」`,
         link: '',
         location: 'BNK48 The Campus 4th floor @The Mall Bangkapi',
         time: '19:00',
@@ -2377,6 +2377,32 @@ module.exports = {
         time: '18:30',
         icon: 'video-vintage',
         color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2019-12-01',
+      title: 'BNK48 BIII Stage「PARTY ga Hajimaru yo」',
+      details: {
+        description: `[Theater] BNK48 BIII Stage「PARTY ga Hajimaru yo」`,
+        link: '',
+        location: 'BNK48 The Campus 4th floor @The Mall Bangkapi',
+        time: '13:00',
+        icon: 'theater',
+        color: 'coral'
+      },
+      open: false
+    },
+    {
+      date: '2019-12-01',
+      title: 'BNK48 BIII Stage「PARTY ga Hajimaru yo」',
+      details: {
+        description: `[Theater] BNK48 BIII Stage「PARTY ga Hajimaru yo」`,
+        link: '',
+        location: 'BNK48 The Campus 4th floor @The Mall Bangkapi',
+        time: '17:00',
+        icon: 'theater',
+        color: 'coral'
       },
       open: false
     },
