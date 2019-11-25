@@ -102,6 +102,14 @@ module.exports = {
       link: 'https://youtu.be/sTDMtsNxCVI',
       type: 'youtube'
     },
+    // {
+    //   name: '[Live] Dek-D - One year 365 วันบ้านฉัน บ้านเธอ',
+    //   description:
+    //     '[Live] Dek-D พาไปเจอกับสมาชิกบ้านสุดป่วน "เก้า เจน ฟ้อนด์ วี และ จูเน่"',
+    //   time: ':',
+    //   link: '',
+    //   type: 'youtube'
+    // },
     {
       name: '[Live] Dek-D - BNK Festival',
       description:

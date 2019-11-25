@@ -771,9 +771,9 @@ module.exports = {
     },
     {
       date: '2018-11-26',
-      title: 'dek-d Live',
+      title: 'dek-d Live - BNK Festival',
       details: {
-        description: '[Live] dek-d Live',
+        description: '[Live] dek-d Live - BNK Festival',
         link: 'https://youtu.be/xT3LEQywAWg',
         location: '',
         time: '13:00 - 14:00',
@@ -2363,6 +2363,19 @@ module.exports = {
           'ถ่ายทอดสดทางช่อง 9 MCOT HD หมายเลข 30 และ Facebook และ Youtube Live : Superboy Project',
         time: '14.00',
         icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2019-11-28',
+      title: 'dek-d Live - One year 365 วันบ้านฉัน บ้านเธอ',
+      details: {
+        description: '[Live] dek-d Live - One year 365 วันบ้านฉัน บ้านเธอ',
+        link: '',
+        location: '',
+        time: '18:30',
+        icon: 'video-vintage',
         color: 'yellow'
       },
       open: false

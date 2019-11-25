@@ -8,6 +8,12 @@ module.exports = {
   announcements: [
     {
       image: {
+        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement10',
+        token: 'c9125c73-9745-4bb5-aca1-ad13a456d1c0'
+      }
+    },
+    {
+      image: {
         name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement34',
         token: '85ebf5c3-69ea-41b8-a550-4dbdfd65ba4d'
       }
@@ -32,8 +38,8 @@ module.exports = {
     },
     {
       image: {
-        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement10',
-        token: 'c9125c73-9745-4bb5-aca1-ad13a456d1c0'
+        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement44',
+        token: '41888182-5044-44b7-b5c5-494651989f8f'
       }
     },
     {
@@ -158,12 +164,6 @@ module.exports = {
     },
     {
       image: {
-        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement12',
-        token: '8e351227-542c-465d-8e42-76bae2b377ad'
-      }
-    },
-    {
-      image: {
         name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement36',
         token: 'a441f26e-2ee3-4f4c-8df4-5db184230765'
       }
@@ -224,8 +224,32 @@ module.exports = {
     },
     {
       image: {
-        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement44',
-        token: '41888182-5044-44b7-b5c5-494651989f8f'
+        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement50',
+        token: 'e0b77497-f83d-4587-9f08-f68875fec04f'
+      }
+    },
+    {
+      image: {
+        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement51',
+        token: 'd8286a40-0177-42b4-8f63-8572228c49ca'
+      }
+    },
+    {
+      image: {
+        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement52',
+        token: '9694d4f0-929c-429c-a877-35941cde7195'
+      }
+    },
+    {
+      image: {
+        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement53',
+        token: 'f7cef0c1-decf-47ae-83b8-4696843a5732'
+      }
+    },
+    {
+      image: {
+        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement12',
+        token: '8e351227-542c-465d-8e42-76bae2b377ad'
       }
     }
     // {
