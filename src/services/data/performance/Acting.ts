@@ -203,6 +203,32 @@ module.exports = {
       type: 'linetv'
     },
     {
+      name:
+        'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ - ‘พลอย’ ลูกแม่มุกค่ะ สดใส ใจดี อย่าตีกันนะทุกคน',
+      description: 'GDH559',
+      time: '01:34',
+      link:
+        'https://tv.line.me/embed/11081067_พลอย-ลูกแม่มุกค่ะ-สดใส-ใจดี-อย่าตีกันนะทุกคน-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
+      type: 'linetv'
+    },
+    {
+      name:
+        'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ - ผม ‘มาร์ค’ ครับ มาร์ครักทุกคนนะครับ',
+      description: 'GDH559',
+      time: '01:36',
+      link:
+        'https://tv.line.me/embed/11081066_ผม-มาร์ค-ครับ-มาร์ครักทุกคนนะครับ-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l ตัวอย่าง EP.1',
+      description: 'GDH559',
+      time: '00:30',
+      link:
+        'https://tv.line.me/embed/11097219_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ตัวอย่าง-ep1',
+      type: 'linetv'
+    },
+    {
       name: 'เปิดตัวทีมโกงเซ็ตใหม่ “ฉลาดเกมส์โกง เดอะซีรีส์”',
       description: 'GDH559',
       time: '01:45',

@@ -2407,6 +2407,19 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-12-03',
+      title: 'Concert ฮึบๆ ไทยแลนด์',
+      details: {
+        description: '[Event] - Concert ฮึบๆ ไทยแลนด์',
+        link: '',
+        location: 'หอศิลปวัฒนธรรมแห่งกรุงเทพมหานคร',
+        time: '15.00 - 18:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
       date: '2019-12-07',
       title: `BNK48 7th Single '77 ดินแดนแสนวิเศษ (77 no suteki na machi e)' Handshake`,
       details: {
