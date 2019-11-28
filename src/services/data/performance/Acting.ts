@@ -247,6 +247,46 @@ module.exports = {
       type: 'linetv'
     },
     {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.1 [1/5]',
+      description: 'GDH559',
+      time: '12:52',
+      link:
+        'https://tv.line.me/embed/11143583_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep1-1-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.1 [2/5]',
+      description: 'GDH559',
+      time: '08:32',
+      link:
+        'https://tv.line.me/embed/11143584_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep1-2-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.1 [3/5]',
+      description: 'GDH559',
+      time: '07:40',
+      link:
+        'https://tv.line.me/embed/11143586_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep1-3-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.1 [4/5]',
+      description: 'GDH559',
+      time: '04:57',
+      link:
+        'https://tv.line.me/embed/11143587_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep1-4-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.1 [5/5]',
+      description: 'GDH559',
+      time: '11:01',
+      link:
+        'https://tv.line.me/embed/11143588_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep1-5-5',
+      type: 'linetv'
+    },
+    {
       name: 'เปิดตัวทีมโกงเซ็ตใหม่ “ฉลาดเกมส์โกง เดอะซีรีส์”',
       description: 'GDH559',
       time: '01:45',
