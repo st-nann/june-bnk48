@@ -272,13 +272,38 @@ module.exports = {
         name: 'gallery%2Fphotoset%2Fblooming%20season%20(full)',
         token: '4bfa47db-bd12-4f6e-9c73-a62ed758ac8e'
       }
+    },
+    {
+      name:
+        '[Single 7] - 77 ดินแดนแสนวิเศษ | 77 no suteki na machi e (Special)',
+      image: {
+        name:
+          'gallery%2Fphotoset%2F77%20no%20suteki%20na%20machi%20e%20(special)',
+        token: '32add898-5107-4951-8b11-8b607913997b'
+      }
+    },
+    {
+      name:
+        '[Single 7] - 77 ดินแดนแสนวิเศษ | 77 no suteki na machi e (Closeup)',
+      image: {
+        name:
+          'gallery%2Fphotoset%2F77%20no%20suteki%20na%20machi%20e%20(closeup)',
+        token: '71faf214-a4a5-437b-88d4-35e32e479afc'
+      }
+    },
+    {
+      name: '[Single 7] - 77 ดินแดนแสนวิเศษ | 77 no suteki na machi e (Half)',
+      image: {
+        name: 'gallery%2Fphotoset%2F77%20no%20suteki%20na%20machi%20e%20(half)',
+        token: '4b003a6d-3419-4799-a0b1-5f96a5a04e6d'
+      }
+    },
+    {
+      name: '[Single 7] - 77 ดินแดนแสนวิเศษ | 77 no suteki na machi e (Full)',
+      image: {
+        name: 'gallery%2Fphotoset%2F77%20no%20suteki%20na%20machi%20e%20(full)',
+        token: 'b8790e2e-8589-4e1a-966c-7fb5a8d39b9a'
+      }
     }
-    // },
-    // {
-    //   name: '[Single 7] - Reborn',
-    //   image: {
-    //     name: '',
-    //     token: ''
-    //   }
   ]
 }

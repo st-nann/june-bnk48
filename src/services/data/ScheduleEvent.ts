@@ -2420,6 +2420,19 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-12-04',
+      title: 'Digital live studio',
+      details: {
+        description: '[Live] Digital live studio (Grand Opening)',
+        link: 'https://www.facebook.com/bnk48official/videos/738607366651183/',
+        location: 'ตู้ปลา @MBK Center (มาบุญครอง)',
+        time: '18:00',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
       date: '2019-12-07',
       title: `BNK48 7th Single '77 ดินแดนแสนวิเศษ (77 no suteki na machi e)' Handshake`,
       details: {
