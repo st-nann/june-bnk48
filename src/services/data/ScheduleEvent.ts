@@ -2472,6 +2472,58 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-12-13',
+      title: '77 ดินแดนแสนวิเศษ Road Show',
+      details: {
+        description: '[Event] 77 ดินแดนแสนวิเศษ Road Show (School Tour)',
+        link: '',
+        location: 'โรงเรียนบ้านหมากแข้ง',
+        time: '12:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2019-12-13',
+      title: '77 ดินแดนแสนวิเศษ Road Show',
+      details: {
+        description: '[Event] 77 ดินแดนแสนวิเศษ Road Show (School Tour)',
+        link: '',
+        location: 'โรงเรียนเซนต์เมรี่',
+        time: '15:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2019-12-14',
+      title: '77 ดินแดนแสนวิเศษ Road Show',
+      details: {
+        description: '[Event] 77 ดินแดนแสนวิเศษ Road Show (Mini Concert)',
+        link: '',
+        location: 'ณ ลานกิจกรรมชั้น G หน้า Tops Market เซ็นทรัลพลาซา อุดรธานี',
+        time: '17:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2019-12-14',
+      title: '77 ดินแดนแสนวิเศษ Road Show',
+      details: {
+        description: '[Event] 77 ดินแดนแสนวิเศษ Road Show (Group Hi-Touch)',
+        link: '',
+        location: 'ณ ลานกิจกรรมชั้น G หน้า Tops Market เซ็นทรัลพลาซา อุดรธานี',
+        time: '14:00 - 18:00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
       date: '2020-02-15',
       title: `BNK48 7th Single '77 ดินแดนแสนวิเศษ (77 no suteki na machi e)' Handshake`,
       details: {
@@ -2489,6 +2541,84 @@ module.exports = {
       title: `BNK48 7th Single '77 ดินแดนแสนวิเศษ (77 no suteki na machi e)' Handshake`,
       details: {
         description: `[Handshake] งานจับมือ 7th Single '77 ดินแดนแสนวิเศษ (77 no suteki na machi e)'`,
+        link: '',
+        location: 'Bitec Bangna Hall 106 - 107',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-03-07',
+      title: `BNK48 8th Single 'High Tension' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
+        link: '',
+        location: 'Bitec Bangna Hall 106 - 107',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-03-08',
+      title: `BNK48 8th Single 'High Tension' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
+        link: '',
+        location: 'Bitec Bangna Hall 106 - 107',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-05-02',
+      title: `BNK48 8th Single 'High Tension' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
+        link: '',
+        location: 'Bitec Bangna Hall 106 - 107',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-05-03',
+      title: `BNK48 8th Single 'High Tension' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
+        link: '',
+        location: 'Bitec Bangna Hall 106 - 107',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-06-06',
+      title: `BNK48 8th Single 'High Tension' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
+        link: '',
+        location: 'Bitec Bangna Hall 106 - 107',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-06-07',
+      title: `BNK48 8th Single 'High Tension' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
         link: '',
         location: 'Bitec Bangna Hall 106 - 107',
         time: 'all day',
