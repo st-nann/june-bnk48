@@ -2459,6 +2459,45 @@ module.exports = {
       open: false
     },
     {
+      date: '2018-07-30',
+      title: 'Digital live studio',
+      details: {
+        description: '[Live] Digital live studio Part I',
+        link: 'https://www.facebook.com/bnk48official/videos/763218444089469/',
+        location: 'ตู้ปลา @MBK Center 6th Floor.',
+        time: '18:00',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2018-07-30',
+      title: 'Digital live studio',
+      details: {
+        description: '[Live] Digital live studio Part II',
+        link: 'https://www.facebook.com/bnk48official/videos/3281294488610689/',
+        location: 'ตู้ปลา @MBK Center 6th Floor.',
+        time: '18:00',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2018-07-30',
+      title: 'Digital live studio',
+      details: {
+        description: '[Live] Digital live studio Part III',
+        link: 'https://www.facebook.com/bnk48official/videos/809884419434035/',
+        location: 'ตู้ปลา @MBK Center 6th Floor.',
+        time: '18:00',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
       date: '2019-12-12',
       title: 'งานเปิดตัว Mirinda Mix-it Orange and Tropical fruit',
       details: {
