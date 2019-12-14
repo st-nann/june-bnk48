@@ -343,6 +343,62 @@ module.exports = {
       type: 'linetv'
     },
     {
+      name: 'Deleted Scene EP.2 | เงียบๆ ได้ไหมจะดูละคร | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
+      description: 'GDH559',
+      time: '02:55',
+      link:
+        'https://tv.line.me/embed/11356518_deleted-scene ep2  เงียบๆ-ได้ไหมจะดูละคร  one-year 365-วัน-บ้านฉัน-บ้านเธอ',
+      type: 'linetv'
+    },
+    {
+      name: 'Deleted Scene EP.2 | น้องหายทั้งคนจะไม่ให้เครียดได้ไง | ONE YEAR 365 วัน',
+      description: 'GDH559',
+      time: '00:45',
+      link:
+        'https://tv.line.me/embed/11351243_deleted-scene ep2  น้องหายทั้งคนจะไม่ให้เครียดได้ไง  one-year 365-วัน-บ้านฉัน-บ้านเธอ',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.3 [1/5]',
+      description: 'GDH559',
+      time: '13:27',
+      link:
+        'https://tv.line.me/embed/11375169_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep3-1-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.3 [2/5]',
+      description: 'GDH559',
+      time: '06:19',
+      link:
+        'https://tv.line.me/embed/11375170_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep3-2-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.3 [3/5]',
+      description: 'GDH559',
+      time: '07:15',
+      link:
+        'https://tv.line.me/embed/11375172_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep3-3-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.3 [4/5]',
+      description: 'GDH559',
+      time: '06:25',
+      link:
+        'https://tv.line.me/embed/11375173_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep3-4-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.3 [5/5]',
+      description: 'GDH559',
+      time: '10:11',
+      link:
+        'https://tv.line.me/embed/11375174_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep3-5-5',
+      type: 'linetv'
+    },
+    {
       name: 'เปิดตัวทีมโกงเซ็ตใหม่ “ฉลาดเกมส์โกง เดอะซีรีส์”',
       description: 'GDH559',
       time: '01:45',
