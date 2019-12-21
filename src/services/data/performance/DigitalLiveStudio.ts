@@ -1,6 +1,13 @@
 module.exports = {
   digital_live_studio: [
     {
+      name: 'DIGITAL LIVE STUDIO',
+      description: '19 Dec 2019',
+      time: '01:31:34',
+      link: 'https://www.facebook.com/bnk48official/videos/570505110453347/',
+      type: 'facebook'
+    },
+    {
       name: 'DIGITAL LIVE STUDIO (Part III)',
       description: '11 Dec 2019',
       time: '01:02:21',

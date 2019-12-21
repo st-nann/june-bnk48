@@ -2459,7 +2459,7 @@ module.exports = {
       open: false
     },
     {
-      date: '2018-07-30',
+      date: '2019-12-11',
       title: 'Digital live studio',
       details: {
         description: '[Live] Digital live studio Part I',
@@ -2472,7 +2472,7 @@ module.exports = {
       open: false
     },
     {
-      date: '2018-07-30',
+      date: '2019-12-11',
       title: 'Digital live studio',
       details: {
         description: '[Live] Digital live studio Part II',
@@ -2485,7 +2485,7 @@ module.exports = {
       open: false
     },
     {
-      date: '2018-07-30',
+      date: '2019-12-11',
       title: 'Digital live studio',
       details: {
         description: '[Live] Digital live studio Part III',
@@ -2558,6 +2558,32 @@ module.exports = {
         location: 'ณ ลานกิจกรรมชั้น G หน้า Tops Market เซ็นทรัลพลาซา อุดรธานี',
         time: '14:00 - 18:00',
         icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2019-12-19',
+      title: 'Digital live studio',
+      details: {
+        description: '[Live] Digital live studio',
+        link: 'https://www.facebook.com/bnk48official/videos/570505110453347/',
+        location: 'ตู้ปลา @MBK Center 6th Floor.',
+        time: '18:00',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2019-12-31',
+      title: 'WestGate Countdown 2020',
+      details: {
+        description: 'WestGate Countdown 2020',
+        link: '',
+        location: 'ลานกิจกรรมด้านหน้าศูนย์การค้า Central plaza Westgate',
+        time: '21:30',
+        icon: 'video-vintage',
         color: 'yellow'
       },
       open: false
