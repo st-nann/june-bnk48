@@ -455,6 +455,14 @@ module.exports = {
       type: 'linetv'
     },
     {
+      name: 'Deleted Scene EP.4 | กลับบ้านไหม? | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
+      description: 'GDH559',
+      time: '00:25',
+      link:
+        'https://tv.line.me/embed/11548074_deleted-scene-ep4-กลับบ้านไหม-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
+      type: 'linetv'
+    },
+    {
       name: 'เปิดตัวทีมโกงเซ็ตใหม่ “ฉลาดเกมส์โกง เดอะซีรีส์”',
       description: 'GDH559',
       time: '01:45',
