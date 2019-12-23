@@ -463,6 +463,22 @@ module.exports = {
       type: 'linetv'
     },
     {
+      name: 'ความป่วนในบ้าน EP.4 | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
+      description: 'GDH559',
+      time: '01:09',
+      link:
+        'https://tv.line.me/embed/11531448_ความป่วนในบ้าน ep4- one-year 365-วัน-บ้านฉัน-บ้านเธอ',
+      type: 'linetv'
+    },
+    {
+      name: 'เบื้องหลังซีนงานแต่ง | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
+      description: 'GDH559',
+      time: '02:04',
+      link:
+        'https://tv.line.me/embed/11588684',
+      type: 'linetv'
+    },
+    {
       name: 'เปิดตัวทีมโกงเซ็ตใหม่ “ฉลาดเกมส์โกง เดอะซีรีส์”',
       description: 'GDH559',
       time: '01:45',

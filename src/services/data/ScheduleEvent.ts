@@ -2576,6 +2576,32 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-12-26',
+      title: 'ONE YEAR วันดี ชวนเพื่อนบ้านมาชมปาร์ตี้ตู้ปลากัน !',
+      details: {
+        description: 'ONE YEAR วันดี ชวนเพื่อนบ้านมาชมปาร์ตี้ตู้ปลากัน !',
+        link: '',
+        location: 'ตู้ปลา @MBK Center 6th Floor.',
+        time: '17:00',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2019-12-27',
+      title: 'Digital live studio',
+      details: {
+        description: '[Live] Digital live studio',
+        link: '',
+        location: 'ตู้ปลา @MBK Center 6th Floor.',
+        time: '18:00',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
       date: '2019-12-31',
       title: 'WestGate Countdown 2020',
       details: {
