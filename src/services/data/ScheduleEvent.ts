@@ -2576,6 +2576,58 @@ module.exports = {
       open: false
     },
     {
+      date: '2019-12-25',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application (Part I)',
+        link: 'https://app.bnk48.com/member-playback/120564',
+        location: '',
+        time: '16:50',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2019-12-25',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application (Part II)',
+        link: 'https://app.bnk48.com/member-playback/120553',
+        location: '',
+        time: '16:52',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2019-12-25',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application (Part III)',
+        link: 'https://app.bnk48.com/member-playback/120555',
+        location: '',
+        time: '17:22',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2019-12-25',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application (Part IIII)',
+        link: 'https://app.bnk48.com/member-playback/120567',
+        location: '',
+        time: '17:23',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
       date: '2019-12-26',
       title: 'ONE YEAR วันดี ชวนเพื่อนบ้านมาชมปาร์ตี้ตู้ปลากัน !',
       details: {
