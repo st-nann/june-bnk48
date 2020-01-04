@@ -570,8 +570,7 @@ module.exports = {
       name: 'กำลังทำอะไรอ่ะพลอย? | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
       description: 'GDH559',
       time: '00:37',
-      link:
-        'https://www.facebook.com/oneyeartheseries/videos/763364814155132/',
+      link: 'https://www.facebook.com/oneyeartheseries/videos/763364814155132/',
       type: 'facebook'
     },
     {
