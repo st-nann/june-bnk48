@@ -287,22 +287,6 @@ module.exports = {
       type: 'linetv'
     },
     {
-      name: 'ความป่วนในบ้าน EP.1 | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
-      description: 'GDH559',
-      time: '01:31',
-      link:
-        'https://tv.line.me/embed/11172166_ความป่วนในบ้าน-ep1-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
-      type: 'linetv'
-    },
-    {
-      name: 'Deleted Scene EP.1 | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
-      description: 'GDH559',
-      time: '01:29',
-      link:
-        'https://tv.line.me/embed/11241726_deleted-scene-ep1-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
-      type: 'linetv'
-    },
-    {
       name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.2 [1/5]',
       description: 'GDH559',
       time: '09:41',
@@ -340,22 +324,6 @@ module.exports = {
       time: '11:45',
       link:
         'https://tv.line.me/embed/11285686_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep2-5-5',
-      type: 'linetv'
-    },
-    {
-      name: 'Deleted Scene EP.2 | เงียบๆ ได้ไหมจะดูละคร | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
-      description: 'GDH559',
-      time: '02:55',
-      link:
-        'https://tv.line.me/embed/11356518_deleted-scene ep2  เงียบๆ-ได้ไหมจะดูละคร  one-year 365-วัน-บ้านฉัน-บ้านเธอ',
-      type: 'linetv'
-    },
-    {
-      name: 'Deleted Scene EP.2 | น้องหายทั้งคนจะไม่ให้เครียดได้ไง | ONE YEAR 365 วัน',
-      description: 'GDH559',
-      time: '00:45',
-      link:
-        'https://tv.line.me/embed/11351243_deleted-scene ep2  น้องหายทั้งคนจะไม่ให้เครียดได้ไง  one-year 365-วัน-บ้านฉัน-บ้านเธอ',
       type: 'linetv'
     },
     {
@@ -399,14 +367,6 @@ module.exports = {
       type: 'linetv'
     },
     {
-      name: 'ความป่วนในบ้าน EP.3 | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
-      description: 'GDH559',
-      time: '01:17',
-      link:
-        'https://tv.line.me/embed/11375036_ความป่วนในบ้าน ep3- one-year 365-วัน-บ้านฉัน-บ้านเธอ',
-      type: 'linetv'
-    },
-    {
       name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.4 [1/5]',
       description: 'GDH559',
       time: '15:35',
@@ -447,7 +407,135 @@ module.exports = {
       type: 'linetv'
     },
     {
-      name: 'Deleted Scene EP.4 | คำสั่งจากพี่ชาย | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.5 [1/5]',
+      description: 'GDH559',
+      time: '13:14',
+      link:
+        'https://tv.line.me/embed/11590992_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep5-1-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.5 [2/5]',
+      description: 'GDH559',
+      time: '08:20',
+      link:
+        'https://tv.line.me/embed/11590993_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep5-2-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.5 [3/5]',
+      description: 'GDH559',
+      time: '05:27',
+      link:
+        'https://tv.line.me/embed/11590994_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep5-3-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.5 [4/5]',
+      description: 'GDH559',
+      time: '05:29',
+      link:
+        'https://tv.line.me/embed/11590995_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep5-4-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.5 [5/5]',
+      description: 'GDH559',
+      time: '12:31',
+      link:
+        'https://tv.line.me/embed/11590996_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep5-5-5',
+      type: 'linetv'
+    },
+    {
+      name:
+        'ตอนพิเศษ | ส่งท้ายปีเก่า ต้อนรักปีใหม่ | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ [1/5]',
+      description: 'GDH559',
+      time: '08:55',
+      link:
+        'https://tv.line.me/embed/11591237_ตอนพิเศษ-ส่งท้ายปีเก่า-ต้อนรักปีใหม่-one-year-365-วัน-บ้านฉัน-บ้านเธอ-1-5',
+      type: 'linetv'
+    },
+    {
+      name:
+        'ตอนพิเศษ | ส่งท้ายปีเก่า ต้อนรักปีใหม่ | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ [2/5]',
+      description: 'GDH559',
+      time: '08:53',
+      link:
+        'https://tv.line.me/embed/11591238_ตอนพิเศษ-ส่งท้ายปีเก่า-ต้อนรักปีใหม่-one-year-365-วัน-บ้านฉัน-บ้านเธอ-2-5',
+      type: 'linetv'
+    },
+    {
+      name:
+        'ตอนพิเศษ | ส่งท้ายปีเก่า ต้อนรักปีใหม่ | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ [3/5]',
+      description: 'GDH559',
+      time: '08:00',
+      link:
+        'https://tv.line.me/embed/11591239_ตอนพิเศษ-ส่งท้ายปีเก่า-ต้อนรักปีใหม่-one-year-365-วัน-บ้านฉัน-บ้านเธอ-3-5',
+      type: 'linetv'
+    },
+    {
+      name:
+        'ตอนพิเศษ | ส่งท้ายปีเก่า ต้อนรักปีใหม่ | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ [4/5]',
+      description: 'GDH559',
+      time: '04:53',
+      link:
+        'https://tv.line.me/embed/11591240_ตอนพิเศษ-ส่งท้ายปีเก่า-ต้อนรักปีใหม่-one-year-365-วัน-บ้านฉัน-บ้านเธอ-4-5',
+      type: 'linetv'
+    },
+    {
+      name:
+        'ตอนพิเศษ | ส่งท้ายปีเก่า ต้อนรักปีใหม่ | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ [5/5]',
+      description: 'GDH559',
+      time: '08:14',
+      link:
+        'https://tv.line.me/embed/11591241_ตอนพิเศษ-ส่งท้ายปีเก่า-ต้อนรักปีใหม่-one-year-365-วัน-บ้านฉัน-บ้านเธอ-5-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ความป่วนในบ้าน EP.1 | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
+      description: 'GDH559',
+      time: '01:31',
+      link:
+        'https://tv.line.me/embed/11172166_ความป่วนในบ้าน-ep1-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
+      type: 'linetv'
+    },
+    {
+      name: 'Deleted Scene EP.1 | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
+      description: 'GDH559',
+      time: '01:29',
+      link:
+        'https://tv.line.me/embed/11241726_deleted-scene-ep1-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
+      type: 'linetv'
+    },
+    {
+      name:
+        'Deleted Scene EP.2 | เงียบๆ ได้ไหมจะดูละคร | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
+      description: 'GDH559',
+      time: '02:55',
+      link:
+        'https://tv.line.me/embed/11356518_deleted-scene ep2  เงียบๆ-ได้ไหมจะดูละคร  one-year 365-วัน-บ้านฉัน-บ้านเธอ',
+      type: 'linetv'
+    },
+    {
+      name:
+        'Deleted Scene EP.2 | น้องหายทั้งคนจะไม่ให้เครียดได้ไง | ONE YEAR 365 วัน',
+      description: 'GDH559',
+      time: '00:45',
+      link:
+        'https://tv.line.me/embed/11351243_deleted-scene ep2  น้องหายทั้งคนจะไม่ให้เครียดได้ไง  one-year 365-วัน-บ้านฉัน-บ้านเธอ',
+      type: 'linetv'
+    },
+    {
+      name: 'ความป่วนในบ้าน EP.3 | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
+      description: 'GDH559',
+      time: '01:17',
+      link:
+        'https://tv.line.me/embed/11375036_ความป่วนในบ้าน ep3- one-year 365-วัน-บ้านฉัน-บ้านเธอ',
+      type: 'linetv'
+    },
+    {
+      name:
+        'Deleted Scene EP.4 | คำสั่งจากพี่ชาย | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
       description: 'GDH559',
       time: '00:57',
       link:
@@ -455,7 +543,8 @@ module.exports = {
       type: 'linetv'
     },
     {
-      name: 'Deleted Scene EP.4 | กลับบ้านไหม? | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
+      name:
+        'Deleted Scene EP.4 | กลับบ้านไหม? | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
       description: 'GDH559',
       time: '00:25',
       link:
@@ -474,9 +563,16 @@ module.exports = {
       name: 'เบื้องหลังซีนงานแต่ง | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
       description: 'GDH559',
       time: '02:04',
-      link:
-        'https://tv.line.me/embed/11588684',
+      link: 'https://tv.line.me/embed/11588684',
       type: 'linetv'
+    },
+    {
+      name: 'กำลังทำอะไรอ่ะพลอย? | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
+      description: 'GDH559',
+      time: '00:37',
+      link:
+        'https://www.facebook.com/oneyeartheseries/videos/763364814155132/',
+      type: 'facebook'
     },
     {
       name: 'เปิดตัวทีมโกงเซ็ตใหม่ “ฉลาดเกมส์โกง เดอะซีรีส์”',

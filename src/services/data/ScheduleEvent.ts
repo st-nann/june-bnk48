@@ -2641,15 +2641,15 @@ module.exports = {
       open: false
     },
     {
-      date: '2019-12-27',
-      title: 'Digital live studio',
+      date: '2019-12-30',
+      title: 'Live',
       details: {
-        description: '[Live] Digital live studio',
-        link: '',
-        location: 'ตู้ปลา @MBK Center 6th Floor.',
-        time: '18:00',
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-playback/120820',
+        location: '',
+        time: '19:45',
         icon: 'video-vintage',
-        color: 'purple'
+        color: 'green'
       },
       open: false
     },
