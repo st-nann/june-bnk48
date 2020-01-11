@@ -2667,6 +2667,36 @@ module.exports = {
       open: false
     },
     {
+      date: '2020-01-21',
+      title:
+        'งานแฟนมีตติ้งกับนักแสดงจากซีรีส์ One Year 365 วัน บ้านฉัน บ้านเธอ',
+      details: {
+        description:
+          '[Event] งานแฟนมีตติ้งกับนักแสดงจากซีรีส์ One Year 365 วัน บ้านฉัน บ้านเธอ',
+        link: '',
+        location: 'สยามสแควร์วัน',
+        time: '18.00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2020-02-06',
+      title:
+        'ONE YEAR วันพิเศษ!! ชวนดูตอนจบ EP.10 พร้อมผู้กำกับและนักแสดงยกบ้านในโรงภาพยนตร์',
+      details: {
+        description:
+          '[Event] ONE YEAR วันพิเศษ!! ชวนดูตอนจบ EP.10 พร้อมผู้กำกับและนักแสดงยกบ้านในโรงภาพยนตร์',
+        link: '',
+        location: 'SFW Cinema Central World',
+        time: '20.00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
       date: '2020-02-15',
       title: `BNK48 7th Single '77 ดินแดนแสนวิเศษ (77 no suteki na machi e)' Handshake`,
       details: {

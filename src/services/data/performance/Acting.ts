@@ -492,6 +492,46 @@ module.exports = {
       type: 'linetv'
     },
     {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.6 [1/5]',
+      description: 'GDH559',
+      time: '09:57',
+      link:
+        'https://tv.line.me/embed/11653457_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep6-1-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.6 [2/5]',
+      description: 'GDH559',
+      time: '05:40',
+      link:
+        'https://tv.line.me/embed/11653458_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep6-2-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.6 [3/5]',
+      description: 'GDH559',
+      time: '07:13',
+      link:
+        'https://tv.line.me/embed/11653459_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep6-3-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.6 [4/5]',
+      description: 'GDH559',
+      time: '10:31',
+      link:
+        'https://tv.line.me/embed/11653460_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep6-4-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.6 [5/5]',
+      description: 'GDH559',
+      time: '12:49',
+      link:
+        'https://tv.line.me/embed/11653461_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep6-5-5',
+      type: 'linetv'
+    },
+    {
       name: 'ความป่วนในบ้าน EP.1 | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
       description: 'GDH559',
       time: '01:31',
