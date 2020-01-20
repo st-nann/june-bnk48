@@ -2667,6 +2667,97 @@ module.exports = {
       open: false
     },
     {
+      date: '2020-01-14',
+      title: 'Digital live studio',
+      details: {
+        description: '[Live] Digital live studio (Part I)',
+        link: 'https://www.facebook.com/bnk48official/videos/764193967440449/',
+        location: 'ตู้ปลา @MBK Center 6th Floor.',
+        time: '18:00',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-01-14',
+      title: 'Digital live studio',
+      details: {
+        description: '[Live] Digital live studio (Part II)',
+        link: 'https://www.facebook.com/bnk48official/videos/817423278775017/',
+        location: 'ตู้ปลา @MBK Center 6th Floor.',
+        time: '18:00',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-01-16',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application (Part I)',
+        link: '',
+        location: 'https://app.bnk48.com/member-playback/121498',
+        time: '19:02',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2020-01-16',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application (Part II)',
+        link: '',
+        location: 'https://app.bnk48.com/member-playback/121499',
+        time: '19:05',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2020-01-19',
+      title: 'BNK48 Trainee Stage「PARTY ga Hajimaru yo」',
+      details: {
+        description: `[Theater] BNK48 Trainee Stage「PARTY ga Hajimaru yo」Myyu's Birthday Stage`,
+        link: '',
+        location: 'BNK48 The Campus 4th floor @The Mall Bangkapi',
+        time: '13:00',
+        icon: 'theater',
+        color: 'coral'
+      },
+      open: false
+    },
+    {
+      date: '2020-01-19',
+      title: 'BNK48 Trainee Stage「PARTY ga Hajimaru yo」',
+      details: {
+        description: `[Theater] BNK48 Trainee Stage「PARTY ga Hajimaru yo」Fifa's Birthday Stage (เปลี่ยนตัวกับเปี่ยม)`,
+        link: '',
+        location: 'BNK48 The Campus 4th floor @The Mall Bangkapi',
+        time: '17:00',
+        icon: 'theater',
+        color: 'coral'
+      },
+      open: false
+    },
+    {
+      date: '2020-01-20',
+      title: 'งานเปิดตัวภาพยนตร์ ไทบ้านxBNK48 จากใจผู้สาวคนนี้',
+      details: {
+        description: '[Event] งานเปิดตัวภาพยนตร์ ไทบ้านxBNK48 จากใจผู้สาวคนนี้',
+        link: 'https://www.facebook.com/bnk48official/videos/551940745395907/',
+        location: 'SF World Cinema @Central world',
+        time: '18.09',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
       date: '2020-01-21',
       title:
         'งานแฟนมีตติ้งกับนักแสดงจากซีรีส์ One Year 365 วัน บ้านฉัน บ้านเธอ',
@@ -2676,6 +2767,19 @@ module.exports = {
         link: '',
         location: 'สยามสแควร์วัน',
         time: '18.00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2020-01-25',
+      title: 'Grab',
+      details: {
+        description: '[Event] Grab',
+        link: '',
+        location: '',
+        time: '17.00 - 18.00',
         icon: 'theater',
         color: 'yellow'
       },

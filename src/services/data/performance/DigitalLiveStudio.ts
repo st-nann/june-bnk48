@@ -1,6 +1,20 @@
 module.exports = {
   digital_live_studio: [
     {
+      name: 'DIGITAL LIVE STUDIO (Part I)',
+      description: '14 Jan 2020',
+      time: '00:40:34',
+      link: 'https://www.facebook.com/bnk48official/videos/817423278775017/',
+      type: 'facebook'
+    },
+    {
+      name: 'DIGITAL LIVE STUDIO (Part II)',
+      description: '14 Jan 2020',
+      time: '00:47:55',
+      link: 'https://www.facebook.com/bnk48official/videos/764193967440449/',
+      type: 'facebook'
+    },
+    {
       name: 'DIGITAL LIVE STUDIO',
       description: '26 Dec 2019',
       time: '01:13:44',
@@ -15,10 +29,10 @@ module.exports = {
       type: 'facebook'
     },
     {
-      name: 'DIGITAL LIVE STUDIO (Part III)',
+      name: 'DIGITAL LIVE STUDIO (Part I)',
       description: '11 Dec 2019',
-      time: '01:02:21',
-      link: 'https://www.facebook.com/bnk48official/videos/809884419434035/',
+      time: '00:03:32',
+      link: 'https://www.facebook.com/bnk48official/videos/763218444089469/',
       type: 'facebook'
     },
     {
@@ -29,17 +43,10 @@ module.exports = {
       type: 'facebook'
     },
     {
-      name: 'DIGITAL LIVE STUDIO (Part I)',
+      name: 'DIGITAL LIVE STUDIO (Part III)',
       description: '11 Dec 2019',
-      time: '00:03:32',
-      link: 'https://www.facebook.com/bnk48official/videos/763218444089469/',
-      type: 'facebook'
-    },
-    {
-      name: 'DIGITAL LIVE STUDIO (อำลาตู้ปลา Part II)',
-      description: '26 Sep 2019',
-      time: '02:07:38',
-      link: 'https://www.facebook.com/bnk48official/videos/735468353544272/',
+      time: '01:02:21',
+      link: 'https://www.facebook.com/bnk48official/videos/809884419434035/',
       type: 'facebook'
     },
     {
@@ -47,6 +54,13 @@ module.exports = {
       description: '26 Sep 2019',
       time: '02:39:49',
       link: 'https://www.facebook.com/bnk48official/videos/486744765506653/',
+      type: 'facebook'
+    },
+    {
+      name: 'DIGITAL LIVE STUDIO (อำลาตู้ปลา Part II)',
+      description: '26 Sep 2019',
+      time: '02:07:38',
+      link: 'https://www.facebook.com/bnk48official/videos/735468353544272/',
       type: 'facebook'
     },
     {

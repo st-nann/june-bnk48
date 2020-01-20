@@ -532,6 +532,46 @@ module.exports = {
       type: 'linetv'
     },
     {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.7 [1/5]',
+      description: 'GDH559',
+      time: '13:51',
+      link:
+        'https://tv.line.me/embed/11887268_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep7-1-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.7 [2/5]',
+      description: 'GDH559',
+      time: '10:00',
+      link:
+        'https://tv.line.me/embed/11887269_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep7-2-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.7 [3/5]',
+      description: 'GDH559',
+      time: '07:14',
+      link:
+        'https://tv.line.me/embed/11887270_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep7-3-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.7 [4/5]',
+      description: 'GDH559',
+      time: '10:43',
+      link:
+        'https://tv.line.me/embed/11887271_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep7-4-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.7 [5/5]',
+      description: 'GDH559',
+      time: '04:43',
+      link:
+        'https://tv.line.me/embed/11887272_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep7-5-5',
+      type: 'linetv'
+    },
+    {
       name: 'ความป่วนในบ้าน EP.1 | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
       description: 'GDH559',
       time: '01:31',
@@ -611,6 +651,31 @@ module.exports = {
       description: 'GDH559',
       time: '00:37',
       link: 'https://www.facebook.com/oneyeartheseries/videos/763364814155132/',
+      type: 'facebook'
+    },
+    {
+      name: 'ความป่วนในบ้าน EP.6 | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
+      description: 'GDH559',
+      time: '01:27',
+      link:
+        'https://tv.line.me/embed/11675350_ความป่วนในบ้าน-ep6-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
+      type: 'facebook'
+    },
+    {
+      name:
+        'Deleted Scene EP.6 | ช่วงนี้พี่ดูมีอะไรในใจนะ | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
+      description: 'GDH559',
+      time: '02:09',
+      link:
+        'https://tv.line.me/embed/11653466_deleted-scene-ep6-ช่วงนี้พี่ดูมีอะไรในใจนะ-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
+      type: 'facebook'
+    },
+    {
+      name: 'ความป่วนในบ้าน EP.7 | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
+      description: 'GDH559',
+      time: '01:12',
+      link:
+        'https://tv.line.me/embed/11834038_ความป่วนในบ้าน-ep7-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
       type: 'facebook'
     },
     {
