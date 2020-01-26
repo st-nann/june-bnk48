@@ -2776,8 +2776,21 @@ module.exports = {
       date: '2020-01-25',
       title: 'Grab',
       details: {
-        description: '[Event] Grab',
-        link: '',
+        description: '[Event] Grab (Part I)',
+        link: 'https://www.facebook.com/GrabTH/videos/621732471938661/',
+        location: '',
+        time: '17.00 - 18.00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2020-01-25',
+      title: 'Grab',
+      details: {
+        description: '[Event] Grab (Part II)',
+        link: 'https://www.facebook.com/GrabTH/videos/176887843415207/',
         location: '',
         time: '17.00 - 18.00',
         icon: 'theater',
@@ -2823,6 +2836,19 @@ module.exports = {
         time: 'all day',
         icon: 'charity',
         color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-02-24',
+      title: 'Shopee',
+      details: {
+        description: '[Live] Shopee 2.2 THE CAMPUS',
+        link: '',
+        location: '',
+        time: '',
+        icon: 'theater',
+        color: 'yellow'
       },
       open: false
     },

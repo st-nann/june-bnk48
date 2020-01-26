@@ -1,6 +1,20 @@
 module.exports = {
   presenter: [
     {
+      name: '[Live] Grab (Part I)',
+      description: 'LIVE ทำนายดวงรับตรุษจีน',
+      time: '01:23:02',
+      link: 'https://www.facebook.com/GrabTH/videos/621732471938661/',
+      type: 'facebook'
+    },
+    {
+      name: '[Live] Grab (Part II)',
+      description: 'LIVE ทำนายดวงรับตรุษจีน',
+      time: '00:54:22',
+      link: 'https://www.facebook.com/GrabTH/videos/176887843415207/',
+      type: 'facebook'
+    },
+    {
       name: '[โฆษณา] โฆษณา Mirinda Mix-it x BNK48 - โอปป้าหูแทบดับ',
       description: 'โฆษณา Mirinda Mix-it กลิ่นออเรนจ์และทรอปิคัลฟรุต',
       time: '00:00:18',

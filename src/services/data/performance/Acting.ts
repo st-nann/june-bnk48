@@ -78,6 +78,13 @@ module.exports = {
       type: 'linetv'
     },
     {
+      name: 'มา "อิน..ฟิน..ฟัน" กับบ้านฉันกันนะเธอ~',
+      description: 'GDH559',
+      time: '01:44:13',
+      link: 'https://tv.line.me/embed/12001395_มา-อินฟินฟัน-กับบ้านฉันกันนะเธอ',
+      type: 'linetv'
+    },
+    {
       name:
         'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ - ตัวอย่างซีรีส์ "ONE YEAR 365 วัน บ้านฉัน บ้านเธอ" (Official Trailer)',
       description: 'GDH559',
@@ -572,6 +579,46 @@ module.exports = {
       type: 'linetv'
     },
     {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.8 [1/5]',
+      description: 'GDH559',
+      time: '10:24',
+      link:
+        'https://tv.line.me/embed/12012731_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep8-1-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.8 [2/5]',
+      description: 'GDH559',
+      time: '06:53',
+      link:
+        'https://tv.line.me/embed/12012732_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep8-2-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.8 [3/5]',
+      description: 'GDH559',
+      time: '07:26',
+      link:
+        'https://tv.line.me/embed/12012733_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep8-3-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.8 [4/5]',
+      description: 'GDH559',
+      time: '09:54',
+      link:
+        'https://tv.line.me/embed/12012734_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep8-4-5',
+      type: 'linetv'
+    },
+    {
+      name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ l EP.8 [5/5]',
+      description: 'GDH559',
+      time: '08:57',
+      link:
+        'https://tv.line.me/embed/12012735_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep8-5-5',
+      type: 'linetv'
+    },
+    {
       name: 'ความป่วนในบ้าน EP.1 | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
       description: 'GDH559',
       time: '01:31',
@@ -659,7 +706,7 @@ module.exports = {
       time: '01:27',
       link:
         'https://tv.line.me/embed/11675350_ความป่วนในบ้าน-ep6-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
-      type: 'facebook'
+      type: 'linetv'
     },
     {
       name:
@@ -668,7 +715,7 @@ module.exports = {
       time: '02:09',
       link:
         'https://tv.line.me/embed/11653466_deleted-scene-ep6-ช่วงนี้พี่ดูมีอะไรในใจนะ-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
-      type: 'facebook'
+      type: 'linetv'
     },
     {
       name: 'ความป่วนในบ้าน EP.7 | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
@@ -676,7 +723,33 @@ module.exports = {
       time: '01:12',
       link:
         'https://tv.line.me/embed/11834038_ความป่วนในบ้าน-ep7-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
-      type: 'facebook'
+      type: 'linetv'
+    },
+    {
+      name:
+        'พี่ดู๋-พี่แหม่ม คู่จิ้นระดับตำนาน | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
+      description: 'GDH559',
+      time: '01:21',
+      link:
+        'https://tv.line.me/embed/12039526_พี่ดู๋-พี่แหม่ม-คู่จิ้นระดับตำนาน-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
+      type: 'linetv'
+    },
+    {
+      name:
+        'รวมมุกพี่ดู๋ คณะ ONE YEAR ชวนยิ้ม | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
+      description: 'GDH559',
+      time: '01:40',
+      link:
+        'https://tv.line.me/embed/12012336_รวมมุกพี่ดู๋-คณะ-one-year-ชวนยิ้ม-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
+      type: 'linetv'
+    },
+    {
+      name: 'DANCE PRACTICE - SHOW ME LOVE (A-HA) | ONE YEAR 365 วัน บ้านฉัน',
+      description: 'GDH559',
+      time: '02:15',
+      link:
+        'https://tv.line.me/embed/12045643_dance-practice-show-me-love-a-ha-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
+      type: 'linetv'
     },
     {
       name: 'เปิดตัวทีมโกงเซ็ตใหม่ “ฉลาดเกมส์โกง เดอะซีรีส์”',
