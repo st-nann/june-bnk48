@@ -2799,6 +2799,45 @@ module.exports = {
       open: false
     },
     {
+      date: '2020-01-30',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application (Part I)',
+        link: 'https://app.bnk48.com/member-playback/121928',
+        location: '',
+        time: '15:06',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2020-01-30',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application (Part II)',
+        link: 'https://app.bnk48.com/member-playback/121931',
+        location: '',
+        time: '15:28',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2020-01-30',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application (Part III)',
+        link: 'https://app.bnk48.com/member-playback/121947',
+        location: '',
+        time: '15:44',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
       date: '2020-02-06',
       title:
         'ONE YEAR วันพิเศษ!! ชวนดูตอนจบ EP.10 พร้อมผู้กำกับและนักแสดงยกบ้านในโรงภาพยนตร์',
