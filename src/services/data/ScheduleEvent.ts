@@ -2838,6 +2838,19 @@ module.exports = {
       open: false
     },
     {
+      date: '2020-01-31',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: '',
+        location: '',
+        time: '22:22',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
       date: '2020-02-06',
       title:
         'ONE YEAR วันพิเศษ!! ชวนดูตอนจบ EP.10 พร้อมผู้กำกับและนักแสดงยกบ้านในโรงภาพยนตร์',
