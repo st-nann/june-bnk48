@@ -2841,8 +2841,21 @@ module.exports = {
       date: '2020-01-31',
       title: 'Live',
       details: {
-        description: '[Live] Live in BNK48 Application',
-        link: '',
+        description: '[Live] Live in BNK48 Application (Part I)',
+        link: 'https://app.bnk48.com/member-playback/122045',
+        location: '',
+        time: '22:22',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2020-01-31',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application (Part II)',
+        link: 'https://app.bnk48.com/member-playback/122052',
         location: '',
         time: '22:22',
         icon: 'video-vintage',
@@ -2862,6 +2875,32 @@ module.exports = {
         time: '20.00',
         icon: 'theater',
         color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2020-02-08',
+      title: 'BNK48 Trainee Stage「PARTY ga Hajimaru yo」',
+      details: {
+        description: `[Theater] BNK48 Trainee Stage「PARTY ga Hajimaru yo」`,
+        link: '',
+        location: 'BNK48 The Campus 4th floor @The Mall Bangkapi',
+        time: '13:00',
+        icon: 'theater',
+        color: 'coral'
+      },
+      open: false
+    },
+    {
+      date: '2020-02-08',
+      title: 'BNK48 Trainee Stage「PARTY ga Hajimaru yo」',
+      details: {
+        description: `[Theater] BNK48 Trainee Stage「PARTY ga Hajimaru yo」Niky's Birthday Stage`,
+        link: '',
+        location: 'BNK48 The Campus 4th floor @The Mall Bangkapi',
+        time: '17:00',
+        icon: 'theater',
+        color: 'coral'
       },
       open: false
     },

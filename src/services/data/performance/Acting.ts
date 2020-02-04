@@ -655,7 +655,7 @@ module.exports = {
       description: 'GDH559',
       time: '10:02',
       link:
-        'https://tv.line.me/embed/12097216_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep9-5-5>',
+        'https://tv.line.me/embed/12097216_one-year-365-วัน-บ้านฉัน-บ้านเธอ-l-ep9-5-5',
       type: 'linetv'
     },
     {
@@ -771,6 +771,14 @@ module.exports = {
       time: '01:08',
       link:
         'https://tv.line.me/embed/11967921_ความป่วนในบ้าน-ep8-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
+      type: 'linetv'
+    },
+    {
+      name: 'ความป่วนในบ้าน EP.9 | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
+      description: 'GDH559',
+      time: '01:08',
+      link:
+        'https://tv.line.me/embed/12122794_ความป่วนในบ้าน-ep9-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
       type: 'linetv'
     },
     {
