@@ -2905,6 +2905,19 @@ module.exports = {
       open: false
     },
     {
+      date: '2020-02-09',
+      title: 'The finest gifts of love (Mini concert)',
+      details: {
+        description: '[Event] The finest gifts of love (Mini concert)',
+        link: '',
+        location: 'Central Plaza Bangna',
+        time: '17.00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
       date: '2020-02-15',
       title: `BNK48 7th Single '77 ดินแดนแสนวิเศษ (77 no suteki na machi e)' Handshake`,
       details: {
