@@ -863,6 +863,23 @@ module.exports = {
       type: 'youtube'
     },
     {
+      name:
+        'Deleted Scene EP.10 | ไปเที่ยวต่างจังหวัดด้วยกันนะ | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
+      description: 'GDH559',
+      time: '01:07',
+      link:
+        'https://tv.line.me/embed/12235247_deleted-scene-ep10-ไปเที่ยวต่างจังหวัดด้วยกันนะ-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
+      type: 'youtube'
+    },
+    {
+      name: 'ความป่วนในบ้าน EP.10 | ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
+      description: 'GDH559',
+      time: '01:50',
+      link:
+        'https://tv.line.me/embed/12242890_ความป่วนในบ้าน-ep10-one-year-365-วัน-บ้านฉัน-บ้านเธอ',
+      type: 'youtube'
+    },
+    {
       name: 'เปิดตัวทีมโกงเซ็ตใหม่ “ฉลาดเกมส์โกง เดอะซีรีส์”',
       description: 'GDH559',
       time: '01:45',
