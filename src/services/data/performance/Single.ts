@@ -34,6 +34,15 @@ module.exports = {
       time: '05:34',
       link: 'https://youtu.be/SPZNSJ5NmJU',
       type: 'youtube'
+    },
+    {
+      name:
+        '[MV Full] สายซับ OST. ONE YEAR 365 วัน บ้านฉัน บ้านเธอ [OFFICIAL MV]',
+      description:
+        'เพลงประกอบซีรีส์ LINE TV Originals ‘ONE YEAR 365 วัน บ้านฉัน บ้านเธอ’',
+      time: '03:49',
+      link: 'https://youtu.be/gCbE7RV5HT4',
+      type: 'youtube'
     }
   ]
 }
