@@ -49,11 +49,11 @@ export default new Router({
       meta: { title: 'Song', nolayout: false },
       component: loadMainView('Song')
     },
-    {
-      path: '/shop',
-      meta: { title: 'Shop', nolayout: false },
-      component: loadMainView(`Shop`)
-    },
+    // {
+    //   path: '/shop',
+    //   meta: { title: 'Shop', nolayout: false },
+    //   component: loadMainView(`Shop`)
+    // },
     {
       path: '/follow_up',
       meta: { title: 'Follow up', nolayout: false },

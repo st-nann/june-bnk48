@@ -30,12 +30,12 @@ module.exports = {
       route: '/song',
       icon: 'piano'
     },
-    {
-      name: 'Shop',
-      value: 'shop',
-      route: '/shop',
-      icon: 'cart'
-    },
+    // {
+    //   name: 'Shop',
+    //   value: 'shop',
+    //   route: '/shop',
+    //   icon: 'cart'
+    // },
     {
       name: 'Follow up',
       value: 'follow_up',
