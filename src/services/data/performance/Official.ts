@@ -1,6 +1,14 @@
 module.exports = {
   official: [
     {
+      name: 'BNK48 Team BIII | PLEARNPICHAYA KOMALARAJUN (Juné)',
+      description:
+        'BNK48 9th Single Senbatsu General Election Appeal Comment (BNK48 9thシングル 選抜総選挙 アピールコメント)',
+      time: '00:01:54',
+      link: 'https://youtu.be/Jx14q7mILH8',
+      type: 'youtube'
+    },
+    {
       name: 'ช่างภาพจูเน่ พาเพื่อนสาวถ่ายรูปเท่ๆ ที่เยาวราช - The Ska X BNK48',
       description:
         'จูเน่ สวมวิญญาณช่างภาพ ลากจีจี้และมายูมาเป็นนางแบบที่เยาวราช มาดูกันว่าฝีมือช่างภาพและนางแบบจะออกมาดีแค่ไหน ไปดูกันเลย',
