@@ -86,6 +86,7 @@ import data from '@/services/data/aboutjune/Activity'
 import { getImageFromStore } from '@/services/functions/Services'
 import Period from '@/views/main/aboutjune/detail/Period'
 import ActivityDetail from '@/views/main/aboutjune/modal/ActivityDetail'
+import { mapState } from 'vuex'
 
 export default {
   data() {
@@ -100,6 +101,9 @@ export default {
     ActivityDetail
   },
   computed: {
+    ...mapState({
+      isExpire: state => state.components.isExpire
+    }),
     title() {
       return data ? data.title : {}
     },

@@ -75,27 +75,27 @@ module.exports = {
   img_sidebar: [
     {
       name: 'base%2Fsidebar%2Fsidebar-001',
-      token: '67c9668d-f986-4583-aebe-2a04f707fd73'
+      token: 'c2c98f50-52b4-4820-aaa3-87d94e02aeb8'
     },
     {
       name: 'base%2Fsidebar%2Fsidebar-002',
-      token: 'a3b616d8-f5f6-4553-afa0-280d5e7e8d66'
+      token: '8f28dfd6-4a23-45b8-9556-d350712fc1ae'
     },
     {
       name: 'base%2Fsidebar%2Fsidebar-003',
-      token: '2324976d-f603-45e7-af3a-4c7f76a2f362'
+      token: '536dfafe-1ae7-4f0d-a23f-29e6a5bd5500'
     },
     {
       name: 'base%2Fsidebar%2Fsidebar-004',
-      token: '6d073c15-b31a-4822-90e2-8460a5b1eb9a'
+      token: '35957671-7d5e-4488-ae70-4561662f0dd2'
     },
     {
       name: 'base%2Fsidebar%2Fsidebar-005',
-      token: '764e7826-ea41-4aa8-8915-1d06768b5443'
+      token: '1888304d-a138-42b0-b641-eced9adc610c'
     },
     {
       name: 'base%2Fsidebar%2Fsidebar-006',
-      token: 'ef60b365-8671-47e3-97f7-03acf0373c7c'
+      token: '20fe7fa6-9853-4216-a8a8-1df801bec534'
     }
   ]
 }

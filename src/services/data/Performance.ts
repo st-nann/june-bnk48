@@ -8,7 +8,7 @@ module.exports = {
       name: 'Single',
       image: {
         name: 'performance%2Fsingle',
-        token: 'ac56e1ec-9938-4265-b637-42a4c1648d73'
+        token: '5d052c64-ecd1-46b1-b65a-86ec3fa18da4'
       },
       key: 'single'
     },
@@ -16,7 +16,7 @@ module.exports = {
       name: 'Official',
       image: {
         name: 'performance%2Fofficial',
-        token: '5668fd9c-3cfc-48d5-be6e-8c82587bc35f'
+        token: '2cbb02c9-fa28-47b8-8b9f-d48c14ad11e8'
       },
       key: 'official'
     },
@@ -24,7 +24,7 @@ module.exports = {
       name: 'Digital Live Studio (ตู้ปลา)',
       image: {
         name: 'performance%2Fdigitallivestudio',
-        token: 'b18d385d-5cec-4200-ba31-205485b481dd'
+        token: '2dffc0ca-b2c1-4d12-ba4e-960c5eae7c44'
       },
       key: 'digital_live_studio'
     },
@@ -32,7 +32,7 @@ module.exports = {
       name: 'Live',
       image: {
         name: 'performance%2Flive',
-        token: '0540705f-9fb3-4ba9-a4b5-6dbbbcc2e411'
+        token: '1dd34ddb-90d4-4eb3-8d83-de43d5640c76'
       },
       key: 'live'
     },
@@ -48,7 +48,7 @@ module.exports = {
       name: 'Acting',
       image: {
         name: 'performance%2Fserie',
-        token: '3373c08b-38d9-4037-b2a2-20834fbdbd78'
+        token: '9a504eca-6ffe-4197-870d-4813a6486c3e'
       },
       key: 'acting'
     },
@@ -56,7 +56,7 @@ module.exports = {
       name: 'Presenter',
       image: {
         name: 'performance%2Fpresenter',
-        token: 'f92b2792-7182-48f3-95df-faeb3eed546c'
+        token: '340ed904-864d-42a0-abfa-0ce70176eab3'
       },
       key: 'presenter'
     },
@@ -64,7 +64,7 @@ module.exports = {
       name: 'Other',
       image: {
         name: 'performance%2Fother',
-        token: 'a81a54ab-9b89-4d33-8e9b-ae25c76013b4'
+        token: '358055d2-887c-4e9d-8d0a-2aeb29f65f9d'
       },
       key: 'other'
     }

@@ -17,6 +17,9 @@ const actions: ActionTree<State, State> = {
     setTimeout(() => {
       commit(mutation_type.SNACKBAR, { txt: '', type: '' })
     }, 5000)
+  },
+  updateIsExpire({ commit }: ActionContext<State, State>, data: object): void {
+    commit(mutation_type.ISEXPIRE, data)
   }
 }
 

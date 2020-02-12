@@ -53,7 +53,7 @@ module.exports = {
   june: {
     image: {
       name: 'followup%2Fjune%2Ffollowup',
-      token: '3947fc52-c46a-484c-91ef-870897e50b4a'
+      token: '23e0a74f-e89a-4f0a-b0b1-6110bf9467d9'
     },
     contact: [
       {

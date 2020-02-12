@@ -26,12 +26,15 @@
 </template>
 
 <script>
+import { mapActions } from 'vuex'
 import { checkExpireDate } from '@/services/functions/Services'
 
 export default {
   props: ['activity'],
   methods: {
+    ...mapActions('components', ['updateIsExpire']),
     doCheckOutOfStock(until) {
+      this.updateIsExpire(checkExpireDate(until))
       return checkExpireDate(until)
     }
   }

@@ -15,7 +15,7 @@ module.exports = {
     {
       image: {
         name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement12',
-        token: '8e351227-542c-465d-8e42-76bae2b377ad'
+        token: '39fc0fe5-d993-4e7e-bf2c-65ec637c639d'
       }
     }
     // {
@@ -332,12 +332,12 @@ module.exports = {
     // }
   ],
   newsupdate: {
-    video: 'https://youtu.be/u37TlKD7cwo',
+    video: 'https://youtu.be/Jx14q7mILH8',
     event: {
       title: {
         image: {
           name: 'profile%2Fnew%20feed%2Fannouncement-(title)-new',
-          token: 'd3a640e4-694a-4fc5-9f6f-29d183cc3cc6'
+          token: '1060126c-d03b-4df9-9a16-856f76698e09'
         }
       }
     },

@@ -13,6 +13,28 @@ module.exports = {
   },
   activity: [
     {
+      name: 'Vote for Juné',
+      cover: {
+        name: 'profile%2Factivity%2Fvoteforjune',
+        token: '16159062-a2f4-4217-b44c-173ac3dfb9b2'
+      },
+      owner: 'Mukashi1911',
+      detail: {
+        description: 'General Election (Round 2)',
+        link: 'https://www.facebook.com/voteforjune48/',
+        period: {
+          start: 1580515200,
+          expiry: 1584835200
+        },
+        image: [
+          {
+            name: 'profile%2Factivity%2Fvoteforjune',
+            token: '16159062-a2f4-4217-b44c-173ac3dfb9b2'
+          }
+        ]
+      }
+    },
+    {
       name: 'Birthday 19th Juné Project',
       cover: {
         name: 'profile%2Factivity%2Fbirthday-project',

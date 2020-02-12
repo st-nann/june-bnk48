@@ -4,6 +4,7 @@ export default class State {
   public toggle_sidebar: boolean
   public message: string
   public status: boolean
+  public isExpire: boolean
 
   constructor() {
     this.loading = true
@@ -11,5 +12,6 @@ export default class State {
     this.toggle_sidebar = false
     this.message = ''
     this.status = false
+    this.isExpire = false
   }
 }

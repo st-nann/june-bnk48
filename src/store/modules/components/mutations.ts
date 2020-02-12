@@ -26,6 +26,9 @@ const mutations: MutationTree<State> = {
   [mutation_type.SNACKBAR](state: State, data: object): void {
     Vue.set(state, 'message', data['txt'])
     Vue.set(state, 'status', data['type'])
+  },
+  [mutation_type.ISEXPIRE](state: State, data: boolean): void {
+    Vue.set(state, 'isExpire', data)
   }
 }
 

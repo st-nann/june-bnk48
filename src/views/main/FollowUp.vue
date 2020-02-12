@@ -9,6 +9,7 @@
                 :src="doGetImage(june.image.name, june.image.token)"
                 :lazy-src="doGetImage(june.image.name, june.image.token)"
                 width="100%"
+                height="100%"
               ></v-img>
             </v-flex>
             <v-flex xs12 sm4 lg2 class="text-xs-center">

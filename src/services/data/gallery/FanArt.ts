@@ -179,7 +179,7 @@ module.exports = {
       name: 'Nori Studio (facebook)',
       image: {
         name: 'gallery%2Ffanart%2Fnoristudio',
-        token: '052dc172-a9ea-435c-85b2-5c0af907ae49'
+        token: '35c5f706-5abb-48d7-a4e9-1e8924859484'
       }
     },
     {
@@ -214,7 +214,7 @@ module.exports = {
       name: 'armmfoo (instagram)',
       image: {
         name: 'gallery%2Ffanart%2Farmmfoo%20(IG)',
-        token: '1b2eea41-c775-4035-86cd-3c8e4a5782c4'
+        token: '74ae2321-d582-4502-b8a6-51b17e63d357'
       }
     },
     {
@@ -228,7 +228,7 @@ module.exports = {
       name: 'juné line square',
       image: {
         name: 'gallery%2Ffanart%2FjuneSQ-3',
-        token: '62245fab-74db-4bb8-8950-a0c233d0d987'
+        token: 'cfe7ed7e-4474-4b9f-8e83-d907c467d2d2'
       }
     },
     {

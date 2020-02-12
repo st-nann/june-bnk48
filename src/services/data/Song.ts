@@ -8,7 +8,7 @@ module.exports = {
       source: 'Spotify',
       icon: 'spotify',
       name: 'song%2Fspotify',
-      token: 'a5e4847e-c696-413a-8d90-fa2d1f07e9bf',
+      token: '1c3c6f80-4a45-4709-9a8b-d2fcb13b843c',
       link:
         'https://open.spotify.com/playlist/2kIJDVuFST5Xi2XTYILQBa?si=jNE5SlAOT5KhcAceU-x9DQ'
     },
@@ -16,7 +16,7 @@ module.exports = {
       source: 'Joox',
       icon: 'disc',
       name: 'song%2Fjoox',
-      token: '2c93b8f2-1443-4db6-b0dc-641ceee2f1df',
+      token: '5dba057a-4ed3-4fc1-bb36-3093bc20f711',
       link:
         'https://www.joox.com/th/playlist/USERPLAYLIST_0_9742177_100000001_1547697333'
     },
@@ -24,7 +24,7 @@ module.exports = {
       source: 'Apple Music',
       icon: 'apple',
       name: 'song%2Fapp-music',
-      token: '55f3078e-e8b1-47b4-9ff2-8af225810348',
+      token: 'e7fb2136-b7c2-4f0b-b2db-0f6346845a0b',
       link:
         'https://itunes.apple.com/th/playlist/jun%C3%A9s-playlist/pl.u-XkD0vlRfoZ3960'
     },
@@ -32,7 +32,7 @@ module.exports = {
       source: 'youtube',
       icon: 'youtube',
       name: 'song%2Fyoutube',
-      token: '93d563e0-a308-4c49-ac09-6647ed7dc1c3',
+      token: '1b7bbecf-2c89-48fe-8e1e-a1805a92b8be',
       link:
         'https://www.youtube.com/playlist?list=PL6CCS1ZBRxEz228jMtf76JhSqV5vNh2QH'
     }
