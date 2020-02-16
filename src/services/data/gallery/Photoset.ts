@@ -275,11 +275,28 @@ module.exports = {
     },
     {
       name:
-        '[Single 7] - 77 ดินแดนแสนวิเศษ | 77 no suteki na machi e (Special)',
+        '[Single 7] - 77 ดินแดนแสนวิเศษ | 77 no suteki na machi e (Special 7 - 8 Dec 2019)',
       image: {
         name:
-          'gallery%2Fphotoset%2F77%20no%20suteki%20na%20machi%20e%20(special)',
-        token: 'bc05ca25-6c5e-4500-a4c8-8d058f7ff7dd'
+          'gallery%2Fphotoset%2F77%20no%20suteki%20na%20machi%20e%20(special%207%20-%208%20Dec%202019)',
+        token: '9144fbc2-bab7-4cea-a939-cf74eb4721f2'
+      }
+    },
+    {
+      name:
+        '[Single 7] - 77 ดินแดนแสนวิเศษ | 77 no suteki na machi e (Special 15 - 16 Feb 2020)',
+      image: {
+        name:
+          'gallery%2Fphotoset%2F77%20no%20suteki%20na%20machi%20e%20(special%2015%20-%2016%20Feb%202020)',
+        token: '28dc9994-c202-461f-8445-b012a4ddea78'
+      }
+    },
+    {
+      name: '[Single 7] - 77 ดินแดนแสนวิเศษ | 77 no suteki na machi e (Cover)',
+      image: {
+        name:
+          'gallery%2Fphotoset%2F77%20no%20suteki%20na%20machi%20e%20(cover)',
+        token: '88379870-fc8b-42fc-8c38-864f809d2bed'
       }
     },
     {
