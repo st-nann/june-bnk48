@@ -2944,6 +2944,19 @@ module.exports = {
       open: false
     },
     {
+      date: '2020-02-21',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-live/3276',
+        location: '',
+        time: '17:39',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
       date: '2020-02-23',
       title: `งานเปิดตัว 8th Single BNK48: HIGH TENSION Company`,
       details: {
