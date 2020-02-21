@@ -2944,6 +2944,19 @@ module.exports = {
       open: false
     },
     {
+      date: '2020-02-23',
+      title: `งานเปิดตัว 8th Single BNK48: HIGH TENSION Company`,
+      details: {
+        description: `งานเปิดตัว 8th Single BNK48: HIGH TENSION Company`,
+        link: '',
+        location: '@River Park ICONSIAM',
+        time: '14:00',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
       date: '2020-02-24',
       title: 'Shopee',
       details: {
@@ -2951,6 +2964,19 @@ module.exports = {
         link: '',
         location: '',
         time: '',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2020-02-29',
+      title: 'GSBxBNK48 Exclusive Concert',
+      details: {
+        description: 'GSBxBNK48 Exclusive Concert',
+        link: '',
+        location: 'Mono 29 Studio ถนนชัยพฤกษ์ อำเภอปากเกร็ด จังหวัดนนทบุรี',
+        time: '14:00',
         icon: 'theater',
         color: 'yellow'
       },
