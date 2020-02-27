@@ -2983,6 +2983,19 @@ module.exports = {
       open: false
     },
     {
+      date: '2020-02-26',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-playback/122885',
+        location: '',
+        time: '20:12',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
       date: '2020-02-29',
       title: 'GSBxBNK48 Exclusive Concert',
       details: {
