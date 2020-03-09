@@ -3009,28 +3009,15 @@ module.exports = {
       open: false
     },
     {
-      date: '2020-03-07',
-      title: `BNK48 8th Single 'High Tension' Handshake`,
+      date: '2020-03-09',
+      title: 'Live',
       details: {
-        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
-        link: '',
-        location: 'Bitec Bangna Hall 106 - 107',
-        time: 'all day',
-        icon: 'charity',
-        color: 'purple'
-      },
-      open: false
-    },
-    {
-      date: '2020-03-08',
-      title: `BNK48 8th Single 'High Tension' Handshake`,
-      details: {
-        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
-        link: '',
-        location: 'Bitec Bangna Hall 106 - 107',
-        time: 'all day',
-        icon: 'charity',
-        color: 'purple'
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-playback/123457',
+        location: '',
+        time: '17:25',
+        icon: 'video-vintage',
+        color: 'green'
       },
       open: false
     },
@@ -3040,7 +3027,7 @@ module.exports = {
       details: {
         description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
         link: '',
-        location: 'Bitec Bangna Hall 106 - 107',
+        location: 'Union Hall ศูนย์การค้า Union Mall',
         time: 'all day',
         icon: 'charity',
         color: 'purple'
@@ -3053,7 +3040,7 @@ module.exports = {
       details: {
         description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
         link: '',
-        location: 'Bitec Bangna Hall 106 - 107',
+        location: 'Union Hall ศูนย์การค้า Union Mall',
         time: 'all day',
         icon: 'charity',
         color: 'purple'
@@ -3066,7 +3053,7 @@ module.exports = {
       details: {
         description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
         link: '',
-        location: 'Bitec Bangna Hall 106 - 107',
+        location: 'Union Hall ศูนย์การค้า Union Mall',
         time: 'all day',
         icon: 'charity',
         color: 'purple'
@@ -3079,7 +3066,33 @@ module.exports = {
       details: {
         description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
         link: '',
-        location: 'Bitec Bangna Hall 106 - 107',
+        location: 'Union Hall ศูนย์การค้า Union Mall',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-08-01',
+      title: `BNK48 8th Single 'High Tension' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
+        link: '',
+        location: 'Union Hall ศูนย์การค้า Union Mall',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-08-02',
+      title: `BNK48 8th Single 'High Tension' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
+        link: '',
+        location: 'Union Hall ศูนย์การค้า Union Mall',
         time: 'all day',
         icon: 'charity',
         color: 'purple'
