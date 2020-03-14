@@ -3022,6 +3022,19 @@ module.exports = {
       open: false
     },
     {
+      date: '2020-03-14',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-playback/123739',
+        location: '',
+        time: '09:09',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
       date: '2020-05-02',
       title: `BNK48 8th Single 'High Tension' Handshake`,
       details: {
