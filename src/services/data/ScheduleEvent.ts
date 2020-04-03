@@ -3048,6 +3048,19 @@ module.exports = {
       open: false
     },
     {
+      date: '2020-04-19',
+      title: `ประกาศผล General Election (ครั้งที่ 2)`,
+      details: {
+        description: `ประกาศผล General Election (ครั้งที่ 2)'`,
+        link: '',
+        location: '',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
       date: '2020-05-02',
       title: `BNK48 8th Single 'High Tension' Handshake`,
       details: {
