@@ -1,4 +1,4 @@
-module.exports = {
+umodule.exports = {
   /*
     purple: handshake, offiacl
     darkblue: digital live studio
@@ -3082,87 +3082,4 @@ module.exports = {
         location: 'AIS Play and BNK48 Official Facebook',
         time: 'all day',
         icon: 'charity',
-        color: 'purple'
-      },
-      open: false
-    },
-    {
-      date: '2020-05-02',
-      title: `BNK48 8th Single 'High Tension' Handshake`,
-      details: {
-        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
-        link: '',
-        location: 'Union Hall ศูนย์การค้า Union Mall',
-        time: 'all day',
-        icon: 'charity',
-        color: 'purple'
-      },
-      open: false
-    },
-    {
-      date: '2020-05-03',
-      title: `BNK48 8th Single 'High Tension' Handshake`,
-      details: {
-        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
-        link: '',
-        location: 'Union Hall ศูนย์การค้า Union Mall',
-        time: 'all day',
-        icon: 'charity',
-        color: 'purple'
-      },
-      open: false
-    },
-    {
-      date: '2020-06-06',
-      title: `BNK48 8th Single 'High Tension' Handshake`,
-      details: {
-        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
-        link: '',
-        location: 'Union Hall ศูนย์การค้า Union Mall',
-        time: 'all day',
-        icon: 'charity',
-        color: 'purple'
-      },
-      open: false
-    },
-    {
-      date: '2020-06-07',
-      title: `BNK48 8th Single 'High Tension' Handshake`,
-      details: {
-        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
-        link: '',
-        location: 'Union Hall ศูนย์การค้า Union Mall',
-        time: 'all day',
-        icon: 'charity',
-        color: 'purple'
-      },
-      open: false
-    },
-    {
-      date: '2020-08-01',
-      title: `BNK48 8th Single 'High Tension' Handshake`,
-      details: {
-        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
-        link: '',
-        location: 'Union Hall ศูนย์การค้า Union Mall',
-        time: 'all day',
-        icon: 'charity',
-        color: 'purple'
-      },
-      open: false
-    },
-    {
-      date: '2020-08-02',
-      title: `BNK48 8th Single 'High Tension' Handshake`,
-      details: {
-        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
-        link: '',
-        location: 'Union Hall ศูนย์การค้า Union Mall',
-        time: 'all day',
-        icon: 'charity',
-        color: 'purple'
-      },
-      open: false
-    }
-  ]
-}
+       
