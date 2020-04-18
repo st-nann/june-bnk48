@@ -3048,12 +3048,38 @@ module.exports = {
       open: false
     },
     {
-      date: '2020-04-19',
-      title: `ประกาศผล General Election (ครั้งที่ 2)`,
+      date: '2020-04-16',
+      title: 'Live',
       details: {
-        description: `ประกาศผล General Election (ครั้งที่ 2)'`,
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-playback/125589',
+        location: '',
+        time: '11:11',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2020-04-19',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
         link: '',
         location: '',
+        time: '09:49',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2020-04-19',
+      title: `ประกาศผล และสัมภาษณ์ Senbatsu General Election (ครั้งที่ 2)`,
+      details: {
+        description: `ประกาศผล และสัมภาษณ์ Senbatsu General Election (ครั้งที่ 2)`,
+        link: 'https://aisplay.ais.co.th/portal/live/?vid=5a7c1e0bd817de7a4290903a',
+        location: 'AIS Play and BNK48 Official Facebook',
         time: 'all day',
         icon: 'charity',
         color: 'purple'
