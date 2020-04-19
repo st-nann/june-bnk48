@@ -3065,7 +3065,7 @@ umodule.exports = {
       title: 'Live',
       details: {
         description: '[Live] Live in BNK48 Application',
-        link: '',
+        link: 'https://app.bnk48.com/member-playback/125744',
         location: '',
         time: '09:49',
         icon: 'video-vintage',
