@@ -1,4 +1,4 @@
-umodule.exports = {
+module.exports = {
   /*
     purple: handshake, offiacl
     darkblue: digital live studio
@@ -3078,8 +3078,66 @@ umodule.exports = {
       title: `ประกาศผล และสัมภาษณ์ Senbatsu General Election (ครั้งที่ 2)`,
       details: {
         description: `ประกาศผล และสัมภาษณ์ Senbatsu General Election (ครั้งที่ 2)`,
-        link: 'https://aisplay.ais.co.th/portal/live/?vid=5a7c1e0bd817de7a4290903a',
+        link:
+          'https://aisplay.ais.co.th/portal/live/?vid=5a7c1e0bd817de7a4290903a',
         location: 'AIS Play and BNK48 Official Facebook',
         time: 'all day',
         icon: 'charity',
-       
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-06-06',
+      title: `BNK48 8th Single 'High Tension' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
+        link: '',
+        location: 'Union Hall ศูนย์การค้า Union Mall',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-06-07',
+      title: `BNK48 8th Single 'High Tension' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
+        link: '',
+        location: 'Union Hall ศูนย์การค้า Union Mall',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-08-01',
+      title: `BNK48 8th Single 'High Tension' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
+        link: '',
+        location: 'Union Hall ศูนย์การค้า Union Mall',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-08-02',
+      title: `BNK48 8th Single 'High Tension' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
+        link: '',
+        location: 'Union Hall ศูนย์การค้า Union Mall',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    }
+  ]
+}
