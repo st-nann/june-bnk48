@@ -95,21 +95,21 @@ module.exports = {
       type: 'youtube'
     },
     {
-      name: '[Live] Dek-D - Tsugi no Season –ฤดูใหม่–',
+      name: '[Pop Live] Standard Pop Senbatsu General Election 2',
       description:
-        '[Live] Dek-D ทำความรู้จักกับ 6 สาว BNK48 รุ่น2 ฟ้อนด์, มายยู, จูเน่, มิวนิค, วี และนิกี้',
-      time: '44:28',
-      link: 'https://youtu.be/sTDMtsNxCVI',
+        'ล้อมวงเปิดใจกับเซมบัตสึทั้ง 16 คน จากงาน General Election ครั้งที่ 2 ของวง BNK48 ที่จะมาพูดถึงเพื่อนๆ ครอบครัว ทีมงานเบื้องหลัง แฟนคลับ และทุกคนที่ร่วมสนับสนุนให้พวกเธอมายืนอยู่ตรงนี้',
+      time: '01:38:39',
+      link: 'https://www.facebook.com/thestandardpop/videos/273965126962849/',
+      type: 'facebook'
+    },
+    {
+      name: '[Live] Dek-D - One year 365 วันบ้านฉัน บ้านเธอ',
+      description:
+        '[Live] Dek-D พาไปเจอกับสมาชิกบ้านสุดป่วน "เก้า เจน ฟ้อนด์ วี และ จูเน่"',
+      time: '38:32',
+      link: 'https://youtu.be/mJSKZKOq9Hg',
       type: 'youtube'
     },
-    // {
-    //   name: '[Live] Dek-D - One year 365 วันบ้านฉัน บ้านเธอ',
-    //   description:
-    //     '[Live] Dek-D พาไปเจอกับสมาชิกบ้านสุดป่วน "เก้า เจน ฟ้อนด์ วี และ จูเน่"',
-    //   time: ':',
-    //   link: '',
-    //   type: 'youtube'
-    // },
     {
       name: '[Live] Dek-D - BNK Festival',
       description:
@@ -123,6 +123,14 @@ module.exports = {
       description: 'BNK48 อวยพรชาวเด็กดี Happy New Year 2019',
       time: '00:24',
       link: 'https://youtu.be/J2xViWM5rfo',
+      type: 'youtube'
+    },
+    {
+      name: '[Live] Dek-D - Tsugi no Season –ฤดูใหม่–',
+      description:
+        '[Live] Dek-D ทำความรู้จักกับ 6 สาว BNK48 รุ่น2 ฟ้อนด์, มายยู, จูเน่, มิวนิค, วี และนิกี้',
+      time: '44:28',
+      link: 'https://youtu.be/sTDMtsNxCVI',
       type: 'youtube'
     },
     {
