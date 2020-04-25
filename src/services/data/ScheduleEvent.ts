@@ -3088,7 +3088,7 @@ module.exports = {
       open: false
     },
     {
-      date: '2020-04-21',
+      date: '2020-04-23',
       title: 'Digital live studio',
       details: {
         description: '[Live] Digital live studio',
