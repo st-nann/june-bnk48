@@ -3088,6 +3088,46 @@ module.exports = {
       open: false
     },
     {
+      date: '2020-04-21',
+      title: 'Digital live studio',
+      details: {
+        description: '[Live] Digital live studio',
+        link: 'https://www.facebook.com/bnk48official/videos/2278604979102693/',
+        location: 'From home',
+        time: '17:00',
+        icon: 'video-vintage',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-04-24',
+      title: 'POP Live ครั้งที่ 8 BNK48 Senbatsu General Election',
+      details: {
+        description:
+          'ล้อมวงเปิดใจกับเซมบัตสึทั้ง 16 คน จากงาน General Election ครั้งที่ 2 ของวง BNK48 ที่จะมาพูดถึงเพื่อนๆ ครอบครัว ทีมงานเบื้องหลัง แฟนคลับ และทุกคนที่ร่วมสนับสนุนให้พวกเธอมายืนอยู่ตรงนี้',
+        link: 'https://www.facebook.com/thestandardpop/videos/273965126962849/',
+        location: 'Standard Pop Fanpage (Facebbok and Youtube)',
+        time: '19.00',
+        icon: 'theater',
+        color: 'yellow'
+      },
+      open: false
+    },
+    {
+      date: '2020-04-24',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-playback/126060',
+        location: '',
+        time: '20:44',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
       date: '2020-06-06',
       title: `BNK48 8th Single 'High Tension' Handshake`,
       details: {
