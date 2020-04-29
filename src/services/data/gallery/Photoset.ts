@@ -321,6 +321,13 @@ module.exports = {
         name: 'gallery%2Fphotoset%2F77%20no%20suteki%20na%20machi%20e%20(full)',
         token: 'aafd3d47-caae-453b-bfc7-d38b949ec1a4'
       }
+    },
+    {
+      name: '[Single 8] - High Tension (Cover)',
+      image: {
+        name: 'gallery%2Fphotoset%2Fhigh%20tension%20(cover)',
+        token: 'be6d2ab3-2a95-454a-ab5a-2dd8f543866c'
+      }
     }
   ]
 }
