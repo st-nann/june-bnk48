@@ -3191,6 +3191,32 @@ module.exports = {
         color: 'purple'
       },
       open: false
+    },
+    {
+      date: '2020-09-05',
+      title: `BNK48 8th Single 'High Tension' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
+        link: '',
+        location: 'Union Hall ศูนย์การค้า Union Mall',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-09-06',
+      title: `BNK48 8th Single 'High Tension' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
+        link: '',
+        location: 'Union Hall ศูนย์การค้า Union Mall',
+        time: 'all day',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
     }
   ]
 }
