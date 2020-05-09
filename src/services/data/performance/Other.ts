@@ -41,6 +41,69 @@ module.exports = {
       type: 'youtube'
     },
     {
+      name: 'The Ska พากิน จูเน่-มายยู-จีจี้ แท็กทีมบุกเยาราช - The Ska X BNK48',
+      description: 'The Ska x BNK48',
+      time: '13:03',
+      link: 'https://youtu.be/ng49RSmu9TU',
+      type: 'youtube'
+    },
+    {
+      name: 'ช่างภาพจูเน่ พาเพื่อนสาวถ่ายรูปเท่ๆ ที่เยาวราช - The Ska X BNK48',
+      description: 'The Ska x BNK48',
+      time: '10:26',
+      link: 'https://youtu.be/Yb6-zln8_uI',
+      type: 'youtube'
+    },
+    {
+      name: 'เจนนิษฐ์ BNK48 - ทายเงาผิดกินส้มตำพริก 100 เม็ด',
+      description: 'The Ska x BNK48',
+      time: '17:04',
+      link: 'https://youtu.be/efu69icq_KU',
+      type: 'youtube'
+    },
+    {
+      name: 'Tsugi no Season Story "พลังแห่งฤดูใหม่" - (BNK48 2nd Generation Concert "Blooming Season")',
+      description: 'The Ska x BNK48',
+      time: '22:51',
+      link: 'https://youtu.be/vX-y51N-8D8',
+      type: 'youtube'
+    },
+    {
+      name: 'วีรยาพาเปิดประสบการณ์ ร้านอาหารอินเดียแห่งแรกในไทย - The Ska X BNK48',
+      description: 'The Ska x BNK48',
+      time: '16:25',
+      link: 'https://youtu.be/vaGAU8mT6aQ',
+      type: 'youtube'
+    },
+    {
+      name: 'บุกหลังเวทีกับโชว์แรกของเพลง HIGH TENSION - The Ska X BNK48',
+      description: 'The Ska x BNK48',
+      time: '13:03',
+      link: 'https://youtu.be/lKoOKNYXj0M',
+      type: 'youtube'
+    },
+    {
+      name: 'ฮึบๆไทยแลนด์ - BNK48 รวมใจช่วยผู้ประสบภัยน้ำท่วม',
+      description: 'The Ska x BNK48',
+      time: '12:28',
+      link: 'https://youtu.be/Bht5DbIsufU',
+      type: 'youtube'
+    },
+    {
+      name: 'เปิดตู้ปลาใหม่ ไฉไลกว่าเดิม - The Ska X BNK48',
+      description: 'The Ska x BNK48',
+      time: '13:18',
+      link: 'https://youtu.be/Avrxm4Hloog',
+      type: 'youtube'
+    },
+    {
+      name: 'The Ska บุกงาน เปิดตัวซิงเกิลที่ 7 "77 ดินแดน แสนวิเศษ" - The Ska X BNK48',
+      description: 'The Ska x BNK48',
+      time: '20:04',
+      link: 'https://youtu.be/G3hpblWmZmw',
+      type: 'youtube'
+    },
+    {
       name: '[VOOV] Juné',
       description: '#จะกินที่ไหนก็ได้โตแล้ว',
       time: '-',
