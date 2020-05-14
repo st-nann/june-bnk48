@@ -41,6 +41,20 @@ module.exports = {
       type: 'youtube'
     },
     {
+      name: 'Postcast Faii x Juné (Part I)',
+      description: 'Instagram Live',
+      time: '19:30',
+      link: 'https://www.instagram.com/tv/CAK2wt1psh2/?igshid=rik8xddn45ak',
+      type: 'instagram'
+    },
+    {
+      name: 'Postcast Faii x Juné (Part II)',
+      description: 'Instagram Live',
+      time: '19:30',
+      link: 'https://www.instagram.com/tv/CAK9tdKBsZw/?igshid=1esk8y91eb0t0',
+      type: 'instagram'
+    },
+    {
       name: 'The Ska พากิน จูเน่-มายยู-จีจี้ แท็กทีมบุกเยาราช - The Ska X BNK48',
       description: 'The Ska x BNK48',
       time: '13:03',
