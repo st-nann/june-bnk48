@@ -3141,6 +3141,19 @@ module.exports = {
       open: false
     },
     {
+      date: '2020-05-14',
+      title: 'Live',
+      details: {
+        description: '[Live] Postcast Faii x Juné',
+        link: 'https://www.instagram.com/tv/CAK9tdKBsZw/?igshid=1esk8y91eb0t0',
+        location: 'Instagram',
+        time: '19:30',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
       date: '2020-06-06',
       title: `BNK48 8th Single 'High Tension' Handshake`,
       details: {
