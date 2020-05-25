@@ -3167,6 +3167,32 @@ module.exports = {
       open: false
     },
     {
+      date: '2020-05-24',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application (Part I)',
+        link: 'https://app.bnk48.com/member-playback/129848',
+        location: '',
+        time: '18:16',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2020-05-24',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application (Part II)',
+        link: 'https://app.bnk48.com/member-playback/129853',
+        location: '',
+        time: '20:10',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
       date: '2020-06-06',
       title: `BNK48 8th Single 'High Tension' Handshake`,
       details: {
