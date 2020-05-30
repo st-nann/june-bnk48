@@ -3194,7 +3194,7 @@ module.exports = {
     },
     {
       date: '2020-06-06',
-      title: `BNK48 8th Single 'High Tension' Handshake`,
+      title: `[Cancel] BNK48 8th Single 'High Tension' Handshake`,
       details: {
         description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
         link: '',
@@ -3207,13 +3207,26 @@ module.exports = {
     },
     {
       date: '2020-06-07',
-      title: `BNK48 8th Single 'High Tension' Handshake`,
+      title: `[Cancel] BNK48 8th Single 'High Tension' Handshake`,
       details: {
         description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
         link: '',
         location: 'Union Hall ศูนย์การค้า Union Mall',
         time: 'all day',
         icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-06-18',
+      title: 'ONE TAKE : BNK48 Documentary',
+      details: {
+        description: 'BNK48 Document Generation II',
+        link: 'https://www.netflix.com/search?q=one%20take&jbv=81251148&jbp=0&jbr=0',
+        location: 'Netflix',
+        time: '00:00',
+        icon: 'video-vintage',
         color: 'purple'
       },
       open: false
