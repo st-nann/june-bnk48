@@ -1,6 +1,20 @@
 module.exports = {
   acting: [
     {
+      name: 'ONE TAKE : BNK48 Documentary [Official Teaser] - version netflix',
+      description: 'IAM48',
+      time: '02:06',
+      link: 'https://www.netflix.com/search?q=one%20take&jbv=81251148&jbp=0&jbr=0',
+      type: 'netflix'
+    },
+    {
+      name: 'ONE TAKE : BNK48 Documentary [Official Teaser] - version cinema',
+      description: 'IAM48',
+      time: '02:23',
+      link: 'https://youtu.be/fX1NDyyQJHI',
+      type: 'youtube'
+    },
+    {
       name: 'ONE YEAR 365 วัน บ้านฉัน บ้านเธอ [Official Teaser]',
       description: 'GDH559',
       time: '02:03',
