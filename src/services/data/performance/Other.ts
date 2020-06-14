@@ -41,7 +41,28 @@ module.exports = {
       type: 'youtube'
     },
     {
-      name: 'Postcast Faii x Juné (Part I)',
+      name: 'Seasons of June: ชีวิตที่เติบโตและเปลี่ยนผ่านตามฤดูของจูเน่ BNK48',
+      description: 'Mango Zero',
+      time: '04:31',
+      link: 'https://youtu.be/RgJ1Uv9twn8',
+      type: 'youtube'
+    },
+    {
+      name: 'June Graduate จาก BNK48 (รวบรวมผลงาน)',
+      description: 'THE STANDARD POP',
+      time: '07:10',
+      link: 'https://www.facebook.com/thestandardpop/videos/748566205889355/',
+      type: 'facebook'
+    },
+    {
+      name: 'เต็มไปด้วยความน่ารัก Q&A กับ BNK48 #PraewXBNK48',
+      description: 'General Election Senbatsu',
+      time: '01:17',
+      link: 'https://youtu.be/Iex9Co0QOf8',
+      type: 'youtube'
+    },
+    {
+      name: 'Podcast Faii x Juné (Part I)',
       description: 'Instagram Live',
       time: '19:30',
       link: 'https://www.instagram.com/tv/CAK2wt1psh2/?igshid=rik8xddn45ak',
