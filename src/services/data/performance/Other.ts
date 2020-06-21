@@ -41,6 +41,13 @@ module.exports = {
       type: 'youtube'
     },
     {
+      name: 'จูเน่ Juné BNK48 Instagram Live 20 Jun 2020',
+      description: 'Instagram (IG) Live',
+      time: '01:02:51',
+      link: 'https://youtu.be/FML5X2WYTvA',
+      type: 'youtube'
+    },
+    {
       name: 'Seasons of June: ชีวิตที่เติบโตและเปลี่ยนผ่านตามฤดูของจูเน่ BNK48',
       description: 'Mango Zero',
       time: '04:31',
