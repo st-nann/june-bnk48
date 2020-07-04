@@ -3290,7 +3290,7 @@ module.exports = {
         description: '[Live] Live in Instagram (IG)',
         link: '',
         location: '',
-        time: 13:00',
+        time: '13:00',
         icon: 'video-vintage',
         color: 'green'
       },
