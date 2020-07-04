@@ -3284,6 +3284,19 @@ module.exports = {
       open: false
     },
     {
+      date: '2020-07-04',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in Instagram (IG)',
+        link: '',
+        location: '',
+        time: 13:00',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
       date: '2020-08-01',
       title: `BNK48 8th Single 'High Tension' Handshake`,
       details: {
