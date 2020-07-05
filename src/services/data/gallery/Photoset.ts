@@ -328,6 +328,27 @@ module.exports = {
         name: 'gallery%2Fphotoset%2Fhigh%20tension%20(cover)',
         token: 'be6d2ab3-2a95-454a-ab5a-2dd8f543866c'
       }
+    },
+    {
+      name: '[Single 8] - High Tension (Closeup)',
+      image: {
+        name: 'gallery%2Fphotoset%2Fhigh%20tension%20(closeup)',
+        token: '9dce5006-1470-4afc-b415-9406402a01b8'
+      }
+    },
+    {
+      name: '[Single 8] - High Tension (Half)',
+      image: {
+        name: 'gallery%2Fphotoset%2Fhigh%20tension%20(half)',
+        token: '47498c71-4673-43bd-9292-f7b917a23d6f'
+      }
+    },
+    {
+      name: '[Single 8] - High Tension (Full)',
+      image: {
+        name: 'gallery%2Fphotoset%2Fhigh%20tension%20(full)',
+        token: '8651cae4-129a-4e2f-86c2-a5fa62a08095'
+      }
     }
   ]
 }
