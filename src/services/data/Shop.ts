@@ -7,6 +7,51 @@ module.exports = {
     ['official']: {
       orders: [
         {
+          name:
+            'BNK48 - CD Edition BNK48 - Heavy Rotation',
+          image: {
+            name: 'shop%2Fproducts%2Fofficial%2Fsingle9cd',
+            token: 'c38d9b18-5be4-4336-972b-2df8cfea69dc'
+          },
+          route:
+            'https://shopee.co.th/BNK48-CD-Edition-BNK48-Heavy-Rotation-i.72135979.7543768382',
+          price: 350,
+          date: {
+            start: 1595808012,
+            end: 1599177612
+          }
+        },
+        {
+          name:
+            'BNK48 - CD Edition BNK48 - Heavy Rotation',
+          image: {
+            name: 'shop%2Fproducts%2Fofficial%2Fsingle9minibook',
+            token: 'af7db609-db60-41b4-8a33-1411339e14b2'
+          },
+          route:
+            'https://shopee.co.th/%E0%B8%BABNK48-Mini-Photobook-Music-Card-Edition-BNK48-Heavy-Rotation-i.72135979.4743770097',
+          price: 350,
+          date: {
+            start: 1595808012,
+            end: 1599177612
+          }
+        },
+        {
+          name:
+            'BNK48 9th Single Senbatsu General Election Book',
+          image: {
+            name: 'shop%2Fproducts%2Fofficial%2FGE2Book',
+            token: 'f8ec9f2b-e5db-42b3-8d39-0b3c3180c2be'
+          },
+          route:
+            'https://shopee.co.th/BNK48-9th-Single-Senbatsu-General-Election-Book-i.72135979.5642913141',
+          price: 380,
+          date: {
+            start: 1595203212,
+            end: 1609372800
+          }
+        },
+        {
           name: 'BIRTHDAY T-SHIRT',
           image: {
             name: 'shop%2Fproducts%2Fofficial%2Fbirthday%20t-shirt',
@@ -623,6 +668,38 @@ module.exports = {
           date: {
             start: 1569603600,
             end: 1570892400
+          }
+        }
+      ]
+    },
+    ['GDH']: {
+      orders: [
+        {
+          name: 'ฉลาดเกมส์โกง T-shirt',
+          image: {
+            name: 'shop%2Fproducts%2FGDH%2Fbadgeniustshirt',
+            token: 'c80765a3-d9bc-44e2-8c33-d1cac2abad8f'
+          },
+          route:
+            'https://www.gdh559.com/shoplist/?collec_id=32',
+          price: 390,
+          date: {
+            start: 1593734400,
+            end: 1599177612
+          }
+        },
+        {
+          name: 'นาฬิกา CHEAT O\'CLOCK',
+          image: {
+            name: 'shop%2Fproducts%2FGDH%2Fcheatclock',
+            token: 'd5fdddde-6def-4068-941a-613b4ed10978'
+          },
+          route:
+            'https://www.gdh559.com/shoplist/?collec_id=32',
+          price: 559,
+          date: {
+            start: 1595808000,
+            end: 1599177612
           }
         }
       ]
