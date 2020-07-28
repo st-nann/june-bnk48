@@ -349,6 +349,13 @@ module.exports = {
         name: 'gallery%2Fphotoset%2Fhigh%20tension%20(full)',
         token: '8651cae4-129a-4e2f-86c2-a5fa62a08095'
       }
+    },
+    {
+      name: '[General Election II] - Closeup',
+      image: {
+        name: 'gallery%2Fphotoset%2Fgeneral%20election%20II%20(closeup)',
+        token: 'f6fba654-ad66-4214-b1a8-7e8c5d61a3eb'
+      }
     }
   ]
 }
