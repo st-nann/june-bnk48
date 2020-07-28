@@ -3310,8 +3310,138 @@ module.exports = {
       open: false
     },
     {
+      date: '2020-07-20',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-playback/140702',
+        location: '',
+        time: '17:20',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
+      date: '2020-07-17',
+      title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
+      details: {
+        description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - มติชน`,
+        link: 'https://www.facebook.com/MatichonOnline/videos/3385898864777094/',
+        location: '',
+        time: ':',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-07-22',
+      title: `[Live] งานเปิดตัวละคร ฉลาดเกมส์โกง (series)`,
+      details: {
+        description: `[Live] งานเปิดตัวละคร ฉลาดเกมส์โกง (series)`,
+        link: 'https://www.facebook.com/gdh559/videos/2640337486206165/',
+        location: '',
+        time: '17:00',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-07-26',
+      title: `งานเปิดตัว 9th Single BNK48: Heavy Rotation (Wonderland หมุนวนไป จนหัวใจเตลิด)`,
+      details: {
+        description: `งานเปิดตัว 8th Single BNK48: Heavy Rotation (Wonderland หมุนวนไป จนหัวใจเตลิด)`,
+        link: 'https://www.facebook.com/bnk48official/videos/681276092453086/',
+        location: '@Show DC',
+        time: '15:00',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-07-26',
+      title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
+      details: {
+        description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - รายการ one สนั่นจอ สิงหา มาเต็ม`,
+        link: 'https://youtu.be/jxxX8FEMRoU',
+        location: '',
+        time: '17:00',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-07-30',
+      title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
+      details: {
+        description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - รายการ The Driver`,
+        link: '',
+        location: '',
+        time: '17:00',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
       date: '2020-08-01',
-      title: `BNK48 8th Single 'High Tension' Handshake`,
+      title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
+      details: {
+        description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - รายการ ว้าวดารา ช่อง one31`,
+        link: '',
+        location: '',
+        time: '11:00',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-09-03',
+      title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
+      details: {
+        description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - คลื่นวิทยุ 94 EFM`,
+        link: '',
+        location: '',
+        time: '09:20',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-09-03',
+      title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
+      details: {
+        description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - Dek-D Live`,
+        link: '',
+        location: '',
+        time: '10:00',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-09-03',
+      title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
+      details: {
+        description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - รายการ Oneบันเทิง`,
+        link: '',
+        location: '',
+        time: '12:30',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-08-01',
+      title: `[Cancel] BNK48 8th Single 'High Tension' Handshake`,
       details: {
         description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
         link: '',
@@ -3324,7 +3454,7 @@ module.exports = {
     },
     {
       date: '2020-08-02',
-      title: `BNK48 8th Single 'High Tension' Handshake`,
+      title: `[Cancel] BNK48 8th Single 'High Tension' Handshake`,
       details: {
         description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
         link: '',
@@ -3337,7 +3467,7 @@ module.exports = {
     },
     {
       date: '2020-09-05',
-      title: `BNK48 8th Single 'High Tension' Handshake`,
+      title: `[Cancel] BNK48 8th Single 'High Tension' Handshake`,
       details: {
         description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
         link: '',
@@ -3350,7 +3480,7 @@ module.exports = {
     },
     {
       date: '2020-09-06',
-      title: `BNK48 8th Single 'High Tension' Handshake`,
+      title: `[Calcel] BNK48 8th Single 'High Tension' Handshake`,
       details: {
         description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
         link: '',
