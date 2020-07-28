@@ -3375,6 +3375,19 @@ module.exports = {
       open: false
     },
     {
+      date: '2020-07-27',
+      title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
+      details: {
+        description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - รายการ จันท์ shock โลก สุดตรีม`,
+        link: 'https://www.facebook.com/efmstation/videos/604732226847327/',
+        location: '',
+        time: '21:00',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
       date: '2020-07-30',
       title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
       details: {
