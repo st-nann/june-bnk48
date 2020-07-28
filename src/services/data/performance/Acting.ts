@@ -1,6 +1,110 @@
 module.exports = {
   acting: [
     {
+      name: 'ตัวอย่างละคร “ฉลาดเกมส์โกง” (Official Trailer)',
+      description: 'GDH559',
+      time: '02:13',
+      link:
+        'https://youtu.be/1pVfm_29wV0?list=PLNlD9uchdYWCj8ykRSj82oOUsOG-ybh6e',
+      type: 'youtube'
+    },
+    {
+      name: 'ฉลาดเกมส์โกง Start Now! [Eng Sub]',
+      description: 'GDH559',
+      time: '01:55',
+      link:
+        'https://youtu.be/BtSYMdHzh1k?list=PLNlD9uchdYWCj8ykRSj82oOUsOG-ybh6e',
+      type: 'youtube'
+    },
+    {
+      name: 'ตีแผ่การโกงทุกระดับชั้น | ฉลาดเกมส์โกง',
+      description: 'GDH559',
+      time: '01:30',
+      link:
+        'https://youtu.be/avrbbGYT6nc?list=PLNlD9uchdYWCj8ykRSj82oOUsOG-ybh6e',
+      type: 'youtube'
+    },
+    {
+      name: 'FOLLOW ME OST. ละครฉลาดเกมส์โกง [OFFICIAL MUSIC VIDEO]',
+      description: 'GDH559',
+      time: '02:52',
+      link:
+        'https://youtu.be/IXXh9-HJxHU?list=PLNlD9uchdYWCj8ykRSj82oOUsOG-ybh6e',
+      type: 'youtube'
+    },
+    {
+      name: 'ลิน New Version "แกร่ง แต่เปราะบาง" | ฉลาดเกมส์โกง [Eng Sub]',
+      description: 'GDH559',
+      time: '01:29',
+      link:
+        'https://youtu.be/sRPWYFm6p4U?list=PLNlD9uchdYWCj8ykRSj82oOUsOG-ybh6e',
+      type: 'youtube'
+    },
+    {
+      name: 'แบงค์ New Version "แตกต่างด้วยความอ่อนโยน" | ฉลาดเกมส์โกง [Eng Sub]',
+      description: 'GDH559',
+      time: '01:15',
+      link:
+        'https://youtu.be/FeZz9qZFp_I?list=PLNlD9uchdYWCj8ykRSj82oOUsOG-ybh6e',
+      type: 'youtube'
+    },
+    {
+      name: 'พัฒน์ New Version "เสน่ห์แพรวพราว" | ฉลาดเกมส์โกง [Eng Sub]',
+      description: 'GDH559',
+      time: '01:30',
+      link:
+        'https://youtu.be/4hposBENMQs?list=PLNlD9uchdYWCj8ykRSj82oOUsOG-ybh6e',
+      type: 'youtube'
+    },
+    {
+      name: 'เกรซ New Version "เพิ่มดาร์กไซด์ ไม่ใช่แค่แบ๊ว" | ฉลาดเกมส์โกง [Eng Sub]',
+      description: 'GDH559',
+      time: '01:00',
+      link:
+        'https://youtu.be/E_y2n0Ga0Kk?list=PLNlD9uchdYWCj8ykRSj82oOUsOG-ybh6e',
+      type: 'youtube'
+    },
+    {
+      name: 'ลิน-รินรดา นิลเทพ CHARACTER HIGHLIGHT | ฉลาดเกมส์โกง [Eng Sub]',
+      description: 'GDH559',
+      time: '00:45',
+      link:
+        'https://youtu.be/GOofZ0oWRO4?list=PLNlD9uchdYWCj8ykRSj82oOUsOG-ybh6e',
+      type: 'youtube'
+    },
+    {
+      name: 'แบงค์-ธนพนธ์ วิริยะกุล CHARACTER HIGHLIGHT | ฉลาดเกมส์โกง [Eng Sub]',
+      description: 'GDH559',
+      time: '00:45',
+      link:
+        'https://youtu.be/H53-7iNkEaY?list=PLNlD9uchdYWCj8ykRSj82oOUsOG-ybh6e',
+      type: 'youtube'
+    },
+    {
+      name: 'พัฒน์-พัฒน์ ตันทวีลาภ CHARACTER HIGHLIGHT | ฉลาดเกมส์โกง [Eng Sub]',
+      description: 'GDH559',
+      time: '00:45',
+      link:
+        'https://youtu.be/a19VGZ8vLDM?list=PLNlD9uchdYWCj8ykRSj82oOUsOG-ybh6e',
+      type: 'youtube'
+    },
+    {
+      name: 'เกรซ-รุจิษยา แซ่ตง CHARACTER HIGHLIGHT | ฉลาดเกมส์โกง [Eng Sub]',
+      description: 'GDH559',
+      time: '00:45',
+      link:
+        'https://youtu.be/kBsWzZcoXA8?list=PLNlD9uchdYWCj8ykRSj82oOUsOG-ybh6e',
+      type: 'youtube'
+    },
+    {
+      name: 'วิทย์ (พ่อของลิน) CHARACTER HIGHLIGHT | ฉลาดเกมส์โกง [Eng Sub]',
+      description: 'GDH559',
+      time: '00:45',
+      link:
+        'https://youtu.be/xmsRNw_5OKo?list=PLNlD9uchdYWCj8ykRSj82oOUsOG-ybh6e',
+      type: 'youtube'
+    },
+    {
       name: 'ONE TAKE : BNK48 Documentary [Official Teaser] - version netflix',
       description: 'IAM48',
       time: '02:06',
