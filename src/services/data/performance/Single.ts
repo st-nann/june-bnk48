@@ -43,6 +43,13 @@ module.exports = {
       time: '03:49',
       link: 'https://youtu.be/gCbE7RV5HT4',
       type: 'youtube'
+    },
+    {
+      name: '[MV Full] Heavy Rotation',
+      description: '[single 9] - Heavy Rotation',
+      time: '07:09',
+      link: 'https://youtu.be/d1lgOyQvkug',
+      type: 'youtube'
     }
   ]
 }
