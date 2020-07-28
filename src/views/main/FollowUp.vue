@@ -179,12 +179,14 @@ export default {
       bottomNav: {
         ['ร้านบะหมี่ของจูเน่']: 0,
         ['Juné Family']: 0,
-        ['Juniversé']: 0
+        ['Juniversé']: 0,
+        ['JUst NÉ - Juné BNK48']: 2
       },
       qrcode: {
         ['ร้านบะหมี่ของจูเน่']: 'Facebook',
         ['Juné Family']: 'Facebook',
-        ['Juniversé']: 'Facebook'
+        ['Juniversé']: 'Facebook',
+        ['JUst NÉ - Juné BNK48']: 'LINE Square (SQ)'
       }
     }
   },
