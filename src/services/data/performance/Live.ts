@@ -4,7 +4,7 @@ module.exports = {
       name: '[Live] BNK48 Application',
       description: '',
       time: '',
-      link: 'https://app.bnk48.com/member-live/4848',
+      link: 'https://app.bnk48.com/member-playback/140702',
       type: 'bnk application'
     }
   ]
