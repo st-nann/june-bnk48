@@ -212,7 +212,23 @@ module.exports = {
           name: 'Facebook Group',
           link: {
             name: 'Juniversé - Juné BNK48 Fanclub Community',
-            route: ' https://m.facebook.com/groups/1973194156323850?ref=share'
+            route: 'https://m.facebook.com/groups/1973194156323850?ref=share'
+          }
+        }
+      ]
+    },
+    {
+      name: 'JUst NÉ - Juné BNK48',
+      image: {
+        name: 'followup%2Fgroups%2FJust%20NÉ%20-%20Juné%20BNK48',
+        token: '53fc8bbc-55f7-479f-b8d2-95ed4ff96197'
+      },
+      contact: [
+        {
+          name: 'LINE Square (SQ)',
+          link: {
+            name: 'JUst NÉ - Juné BNK48',
+            route: 'https://line.me/ti/g2/0TDCo0yyRGbgu0UU0qBmaA?utm_source=invitation&utm_medium=QR_code&utm_campaign=default'
           }
         }
       ]
