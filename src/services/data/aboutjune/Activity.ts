@@ -13,6 +13,32 @@ module.exports = {
   },
   activity: [
     {
+      name: 'Juné exhibition',
+      cover: {
+        name: 'profile%2Factivity%2Fexhibition',
+        token: '5e440249-53ea-4b0c-a968-efa05af5afb8'
+      },
+      owner: 'JUst NÉ - Juné BNK48',
+      detail: {
+        description: 'Birth day 2020',
+        link: 'https://artspaces.kunstmatrix.com/en/exhibition/1452197/just-an-extraordinary-girl',
+        period: {
+          start: 1593820800,
+          expiry: 1596499200
+        },
+        image: [
+          {
+            name: 'profile%2Factivity%2Fexhibition2',
+            token: 'f9b9a7f3-fd9e-4812-ad7a-0b66a928f883'
+          },
+          {
+            name: 'profile%2Factivity%2Fexhibition',
+            token: '5e440249-53ea-4b0c-a968-efa05af5afb8'
+          }
+        ]
+      }
+    },
+    {
       name: 'Vote for Juné',
       cover: {
         name: 'profile%2Factivity%2Fvoteforjune',
