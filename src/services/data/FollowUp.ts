@@ -225,6 +225,20 @@ module.exports = {
       },
       contact: [
         {
+          name: 'Facebook',
+          link: {
+            name: 'JUst NÉ - Juné BNK48',
+            route: 'https://line.me/ti/g2/0TDCo0yyRGbgu0UU0qBmaA?utm_source=invitation&utm_medium=QR_code&utm_campaign=default'
+          }
+        },
+        {
+          name: 'Instagram',
+          link: {
+            name: 'JUst NÉ - Juné BNK48',
+            route: 'https://line.me/ti/g2/0TDCo0yyRGbgu0UU0qBmaA?utm_source=invitation&utm_medium=QR_code&utm_campaign=default'
+          }
+        },
+        {
           name: 'LINE Square (SQ)',
           link: {
             name: 'JUst NÉ - Juné BNK48',
