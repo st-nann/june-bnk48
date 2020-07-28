@@ -3414,7 +3414,7 @@ module.exports = {
       open: false
     },
     {
-      date: '2020-09-03',
+      date: '2020-08-03',
       title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
       details: {
         description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - คลื่นวิทยุ 94 EFM`,
@@ -3427,7 +3427,7 @@ module.exports = {
       open: false
     },
     {
-      date: '2020-09-03',
+      date: '2020-08-03',
       title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
       details: {
         description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - Dek-D Live`,
@@ -3440,7 +3440,7 @@ module.exports = {
       open: false
     },
     {
-      date: '2020-09-03',
+      date: '2020-08-03',
       title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
       details: {
         description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - รายการ Oneบันเทิง`,
