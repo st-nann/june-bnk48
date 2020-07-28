@@ -1,6 +1,14 @@
 module.exports = {
   official: [
     {
+      name: '[Live] งานเปิดตัว single 9th BNK48: Heavy Rotaion (Wonderland หมุนวนไป ให้หัวใจเตลิด)',
+      description:
+        '[Live] งานเปิดตัว single 9th BNK48: Heavy Rotaion (Wonderland หมุนวนไป ให้หัวใจเตลิด)',
+      time: '03:01:50',
+      link: 'https://www.facebook.com/bnk48official/videos/681276092453086/',
+      type: 'facebook'
+    },
+    {
       name: 'BNK48 Team BIII | PLEARNPICHAYA KOMALARAJUN (Juné)',
       description:
         'BNK48 9th Single Senbatsu General Election Appeal Comment (BNK48 9thシングル 選抜総選挙 アピールコメント)',
