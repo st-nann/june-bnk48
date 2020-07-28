@@ -221,7 +221,7 @@ module.exports = {
       name: 'JUst NÉ - Juné BNK48',
       image: {
         name: 'followup%2Fgroups%2FJust%20NÉ%20-%20Juné%20BNK48',
-        token: '53fc8bbc-55f7-479f-b8d2-95ed4ff96197'
+        token: 'a11936e8-d216-4d99-b4bb-e6fb5fddd283'
       },
       contact: [
         {
