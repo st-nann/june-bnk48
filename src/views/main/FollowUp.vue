@@ -180,7 +180,7 @@ export default {
         ['ร้านบะหมี่ของจูเน่']: 0,
         ['Juné Family']: 0,
         ['Juniversé']: 0,
-        ['JUst NÉ - Juné BNK48']: 2
+        ['JUst NÉ - Juné BNK48']: 0
       },
       qrcode: {
         ['ร้านบะหมี่ของจูเน่']: 'Facebook',
