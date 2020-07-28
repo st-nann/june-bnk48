@@ -244,6 +244,13 @@ module.exports = {
             name: 'JUst NÉ - Juné BNK48',
             route: 'https://line.me/ti/g2/0TDCo0yyRGbgu0UU0qBmaA?utm_source=invitation&utm_medium=QR_code&utm_campaign=default'
           }
+        },
+        {
+          name: 'Twitter',
+          link: {
+            name: 'JUst NÉ - Juné BNK48',
+            route: 'https://line.me/ti/g2/0TDCo0yyRGbgu0UU0qBmaA?utm_source=invitation&utm_medium=QR_code&utm_campaign=default'
+          }
         }
       ]
     }
