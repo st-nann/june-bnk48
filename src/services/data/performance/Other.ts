@@ -200,6 +200,27 @@ module.exports = {
       type: 'youtube'
     },
     {
+      name: 'จันทร์ Shock โลก สุดตรีม',
+      description: '27 Jul 2020 - ฉลา่ดเกมส์โกง',
+      time: '02:07:15',
+      link: 'https://www.facebook.com/efmstation/videos/604732226847327/',
+      type: 'facebook'
+    },
+    {
+      name: 'นักแสดงจากละคร "ฉลาดเกมส์โกง" | oneสนั่นจอ',
+      description: '26 Jul 2020 - ฉลา่ดเกมส์โกง',
+      time: '00:04:06',
+      link: 'https://youtu.be/jxxX8FEMRoU',
+      type: 'youtube'
+    },
+    {
+      name: 'Live เปิดใจ "จูเน่-เจ้านาย-นาน่า-ไอซ์-พัฒน์" ทีมนักแสดง-ผกก. จากละคร "ฉลาดเกมส์โกง"',
+      description: '17 Jul 2020 - ฉลา่ดเกมส์โกง',
+      time: '00:14:47',
+      link: 'https://www.facebook.com/MatichonOnline/videos/3385898864777094/',
+      type: 'facebook'
+    },
+    {
       name: '[Pop Live] Standard Pop Senbatsu General Election 2',
       description:
         'ล้อมวงเปิดใจกับเซมบัตสึทั้ง 16 คน จากงาน General Election ครั้งที่ 2 ของวง BNK48 ที่จะมาพูดถึงเพื่อนๆ ครอบครัว ทีมงานเบื้องหลัง แฟนคลับ และทุกคนที่ร่วมสนับสนุนให้พวกเธอมายืนอยู่ตรงนี้',
