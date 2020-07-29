@@ -351,10 +351,24 @@ module.exports = {
       }
     },
     {
+      name: '[General Election II] - Cover',
+      image: {
+        name: 'gallery%2Fphotoset%2Fgeneral%20election%20II%20%20(cover)',
+        token: 'c03b4a9e-c1e4-4392-ba5f-ef4c0605d8c5'
+      }
+    },
+    {
       name: '[General Election II] - Closeup',
       image: {
         name: 'gallery%2Fphotoset%2Fgeneral%20election%20II%20(closeup)',
         token: 'f6fba654-ad66-4214-b1a8-7e8c5d61a3eb'
+      }
+    },
+    {
+      name: '[General Election II] - Half',
+      image: {
+        name: 'gallery%2Fphotoset%2Fgeneral%20election%20II%20(half)',
+        token: 'ea89a5b9-71c8-448c-af6e-0377bdfa1dd0'
       }
     }
   ]
