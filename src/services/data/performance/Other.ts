@@ -207,6 +207,13 @@ module.exports = {
       type: 'facebook'
     },
     {
+      name: 'The Driver EP.92 - เจ้านาย + จูเน่',
+      description: '30 Jul 2020 - ฉลาดเกมส์โกง',
+      time: '00:15:37',
+      link: 'https://youtu.be/PdhjDmxhwgc',
+      type: 'youtube'
+    },
+    {
       name: 'นักแสดงจากละคร "ฉลาดเกมส์โกง" | oneสนั่นจอ',
       description: '26 Jul 2020 - ฉลา่ดเกมส์โกง',
       time: '00:04:06',
