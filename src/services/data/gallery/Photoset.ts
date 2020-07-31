@@ -370,6 +370,13 @@ module.exports = {
         name: 'gallery%2Fphotoset%2Fgeneral%20election%20II%20(half)',
         token: 'ea89a5b9-71c8-448c-af6e-0377bdfa1dd0'
       }
+    },
+    {
+      name: '[General Election II] - Full',
+      image: {
+        name: 'gallery%2Fphotoset%2Fgeneral%20election%20II%20(full)',
+        token: 'c828363f-1d96-4066-b23d-54dce6ce360f'
+      }
     }
   ]
 }
