@@ -3401,6 +3401,19 @@ module.exports = {
       open: false
     },
     {
+      date: '2020-07-31',
+      title: 'Live',
+      details: {
+        description: '[Live] Live in BNK48 Application',
+        link: 'https://app.bnk48.com/member-playback/142933',
+        location: '',
+        time: '23:29',
+        icon: 'video-vintage',
+        color: 'green'
+      },
+      open: false
+    },
+    {
       date: '2020-08-01',
       title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
       details: {
