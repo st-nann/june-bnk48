@@ -194,7 +194,7 @@ module.exports = {
     },
     {
       name: 'จันทร์ Shock โลก ยังไงซิ?',
-      description: '7 Jan 2019 - จูเน่, มายยู, ฟ้อนด์, รตา',
+      description: '7 Jun 2019 - จูเน่, มายยู, ฟ้อนด์, รตา',
       time: '01:55:59',
       link: 'https://youtu.be/TeF-fjrB_Q4',
       type: 'youtube'
@@ -205,6 +205,49 @@ module.exports = {
       time: '02:07:15',
       link: 'https://www.facebook.com/efmstation/videos/604732226847327/',
       type: 'facebook'
+    },
+    {
+      name: 'คุยแซ่บShow:“เจ้านาย / จูเน่ / นาน่า” 3 นักแสดงจาก ละครสุดโกงแห่งปี “ฉลาดเกมส์โกง”',
+      description: 'คุยแซ่บShow',
+      time: '00:06:55',
+      link: 'https://youtu.be/gj6rPt3u32I',
+      type: 'youtube'
+    },
+    {
+      name: 'จัดเต็มความมสนุก"เจ้านาย" นำทีมตีแผ่ "ฉลาดเกมส์โกง เดอะซีรีส์"',
+      description: 'Daradaily',
+      time: '00:13:32',
+      link: 'https://youtu.be/NgtRwHRjU5A',
+      type: 'youtube'
+    },
+    {
+      name:
+        'เมื่อฉลาดเกมส์โกง มาแฉข่าวเช้า งานนี้...ใครจะโดนแฉ ใครจะโดนโกง!! - HIGHLIGHT 3 ส.ค. 63 l AtimeOnline',
+      description: '94 EFM',
+      time: '00:12:05',
+      link: 'https://youtu.be/mOCdKl8_13I',
+      type: 'youtube'
+    },
+    {
+      name: 'จูเน่-เพลินพิชญา โกมลารชุน บทเรียนเรื่อง ‘การฟัง’ จากการเข้าคอร์สกับ ‘ครูพี่ลิน’',
+      description: 'The Standard',
+      time: '00:10:06',
+      link: 'https://youtu.be/SdnNyP9iWOk',
+      type: 'youtube'
+    },
+    {
+      name: 'แฉกลโกงทะลุจักรวาล คุยกับ 4 นักแสดงวัยรุ่นจาก "ฉลาดเกมส์โกง" : FEED',
+      description: 'FEED',
+      time: '00:08:40',
+      link: 'https://youtu.be/HMueU-T5XT4',
+      type: 'youtube'
+    },
+    {
+      name: 'ฉลาดเกมส์โกง x OK! Magazine Thailand',
+      description: 'OK! Magazine Thailand',
+      time: '00:05:35',
+      link: 'https://youtu.be/z-J7aZCuQ6I',
+      type: 'youtube'
     },
     {
       name: 'The Driver EP.92 - เจ้านาย + จูเน่',
@@ -234,6 +277,13 @@ module.exports = {
       time: '01:38:39',
       link: 'https://www.facebook.com/thestandardpop/videos/273965126962849/',
       type: 'facebook'
+    },
+    {
+      name: 'ล้วงเบื้องหลังเกมส์โกง! นาน่า เจ้านาย จูเน่ จาก #ฉลาดเกมส์โกง | Dek-D Live',
+      description: 'Dek-D Live',
+      time: '00:48:11',
+      link: 'https://youtu.be/rH0hiYiXls0',
+      type: 'youtube'
     },
     {
       name: '[Live] Dek-D - One year 365 วันบ้านฉัน บ้านเธอ',
