@@ -1,10 +1,17 @@
 module.exports = {
   music_video: [
     {
+      name: 'FOLLOW ME OST. ละครฉลาดเกมส์โกง [OFFICIAL MUSIC VIDEO]',
+      description: '25 Jul 2020',
+      time: '02:52',
+      link: 'https://youtu.be/eTA_936aM0E',
+      type: 'youtube'
+    },
+    {
       name: '【MV Full】สายซับ OST. ONE YEAR 365 วัน บ้านฉัน บ้านเธอ',
       description: '11 Dec 2019 / 3.4M views',
       time: '03:41',
-      link: 'https://youtu.be/bYy7XIqozbs',
+      link: 'https://youtu.be/IXXh9-HJxHU',
       type: 'youtube'
     },
     {
