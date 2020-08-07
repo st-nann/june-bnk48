@@ -3392,7 +3392,7 @@ module.exports = {
       title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
       details: {
         description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - รายการ The Driver`,
-        link: '',
+        link: 'https://youtu.be/PdhjDmxhwgc',
         location: '',
         time: '17:00',
         icon: 'charity',
@@ -3418,7 +3418,7 @@ module.exports = {
       title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
       details: {
         description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - รายการ ว้าวดารา ช่อง one31`,
-        link: '',
+        link: 'https://youtu.be/jxxX8FEMRoU',
         location: '',
         time: '11:00',
         icon: 'charity',
@@ -3431,7 +3431,7 @@ module.exports = {
       title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
       details: {
         description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - คลื่นวิทยุ 94 EFM`,
-        link: '',
+        link: 'https://youtu.be/mOCdKl8_13I',
         location: '',
         time: '09:20',
         icon: 'charity',
@@ -3444,7 +3444,7 @@ module.exports = {
       title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
       details: {
         description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - Dek-D Live`,
-        link: '',
+        link: 'https://youtu.be/rH0hiYiXls0',
         location: '',
         time: '10:00',
         icon: 'charity',
@@ -3457,9 +3457,61 @@ module.exports = {
       title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
       details: {
         description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - รายการ Oneบันเทิง`,
-        link: '',
+        link: 'https://youtu.be/jxxX8FEMRoU',
         location: '',
         time: '12:30',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-08-04',
+      title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
+      details: {
+        description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - Daradaily`,
+        link: 'https://youtu.be/NgtRwHRjU5A',
+        location: '',
+        time: '11:00',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-08-04',
+      title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
+      details: {
+        description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - รายการ คุยแซ่บโชว์ ช่อง One31`,
+        link: 'https://youtu.be/gj6rPt3u32I',
+        location: '',
+        time: '13:45',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-08-04',
+      title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
+      details: {
+        description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - Cat Radio`,
+        link: 'https://www.facebook.com/thisiscatradio/videos/922223544913426/',
+        location: '',
+        time: '16:00',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-08-07',
+      title: `ละคร ฉลาดเกมส์โกง (series)`,
+      details: {
+        description: `ดูรอบพิเศษ ฉลาดเกมส์โกง EP.3-4 ก่อนใคร`,
+        link: '',
+        location: '',
+        time: '18:00',
         icon: 'charity',
         color: 'purple'
       },
