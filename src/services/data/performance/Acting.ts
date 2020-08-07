@@ -9,6 +9,13 @@ module.exports = {
       type: 'youtube'
     },
     {
+      name: 'ฉลาดเกมส์โกง GAME ON!',
+      description: 'GDH559',
+      time: '01:45',
+      link: 'https://youtu.be/1ABEdf2NH2k',
+      type: 'youtube'
+    },
+    {
       name: 'ฉลาดเกมส์โกง Start Now! [Eng Sub]',
       description: 'GDH559',
       time: '01:55',
@@ -30,6 +37,13 @@ module.exports = {
       time: '02:52',
       link:
         'https://youtu.be/IXXh9-HJxHU?list=PLNlD9uchdYWCj8ykRSj82oOUsOG-ybh6e',
+      type: 'youtube'
+    },
+    {
+      name: 'ตีแผ่การโกงทุกระดับชั้น | ฉลาดเกมส์โกง',
+      description: 'GDH559',
+      time: '01:30',
+      link: 'https://youtu.be/avrbbGYT6nc',
       type: 'youtube'
     },
     {
@@ -102,6 +116,27 @@ module.exports = {
       time: '00:45',
       link:
         'https://youtu.be/xmsRNw_5OKo?list=PLNlD9uchdYWCj8ykRSj82oOUsOG-ybh6e',
+      type: 'youtube'
+    },
+    {
+      name: 'วรรณ (แม่ของลิน) CHARACTER HIGHLIGHT | ฉลาดเกมส์โกง [Eng Sub]',
+      description: 'GDH559',
+      time: '00:30',
+      link: 'https://youtu.be/68QX2vkV4EU',
+      type: 'youtube'
+    },
+    {
+      name: 'ผอ.พรทิพย์ CHARACTER HIGHLIGHT | ฉลาดเกมส์โกง [Eng Sub]',
+      description: 'GDH559',
+      time: '00:45',
+      link: 'https://youtu.be/mMx2fAT7V0E',
+      type: 'youtube'
+    },
+    {
+      name: 'พี่มิวสิค CHARACTER HIGHLIGHT | ฉลาดเกมส์โกง [Eng Sub]',
+      description: 'GDH559',
+      time: '00:45',
+      link: 'https://youtu.be/qMkrUtowXy0',
       type: 'youtube'
     },
     {
