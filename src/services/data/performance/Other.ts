@@ -221,6 +221,13 @@ module.exports = {
       type: 'youtube'
     },
     {
+      name: 'บทบาทใหม่ “จูเน่” หลังจบการศึกษา bnk48',
+      description: 'Daradaily',
+      time: '00:16:18',
+      link: 'https://youtu.be/I95NUNDSVIs',
+      type: 'youtube'
+    },
+    {
       name:
         'เมื่อฉลาดเกมส์โกง มาแฉข่าวเช้า งานนี้...ใครจะโดนแฉ ใครจะโดนโกง!! - HIGHLIGHT 3 ส.ค. 63 l AtimeOnline',
       description: '94 EFM',
