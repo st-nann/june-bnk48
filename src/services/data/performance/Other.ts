@@ -257,6 +257,20 @@ module.exports = {
       type: 'youtube'
     },
     {
+      name: 'ใครพลาดรอบรีรันมาดูกันได้ที่นี่ #VogueInConversationwithBadGeniusTheSeries',
+      description: 'Promote ฉลาดเกมส์โกง',
+      time: '00:24:44',
+      link: 'https://youtu.be/YFsudMTHzlI',
+      type: 'youtube'
+    },
+    {
+      name: 'เบื้องหลังแฟชั่นสุดสัปดาห์ Digital Cover เจ้านาย จูเน่ ไอซ์ นาน่า สวย หล่อ แบบไม่โกงสายตา',
+      description: 'Promote ฉลาดเกมส์โกง',
+      time: '00:01:10',
+      link: 'https://youtu.be/Y0RHosDzIQQ',
+      type: 'youtube'
+    },
+    {
       name: 'The Driver EP.92 - เจ้านาย + จูเน่',
       description: '30 Jul 2020 - ฉลาดเกมส์โกง',
       time: '00:15:37',
