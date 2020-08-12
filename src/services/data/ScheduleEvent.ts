@@ -3518,6 +3518,84 @@ module.exports = {
       open: false
     },
     {
+      date: '2020-08-08',
+      title: `ล้น ล้น`,
+      details: {
+        description: `ขายของ 2nd Hand`,
+        link: '',
+        location: 'VAC Siam soi 1',
+        time: '12:00',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-08-09',
+      title: `ล้น ล้น`,
+      details: {
+        description: `ขายของ 2nd Hand`,
+        link: '',
+        location: 'VAC Siam soi 1',
+        time: '12:00',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-08-11',
+      title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
+      details: {
+        description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - Vogue Thailand (Instagram)`,
+        link: 'https://www.youtube.com/watch?feature=youtu.be&v=YFsudMTHzlI&app=desktop',
+        location: '',
+        time: '14:30',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-08-13',
+      title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
+      details: {
+        description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - คลื่นวิทยุ Hitz 95.5`,
+        link: '',
+        location: '',
+        time: '13:30',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-08-13',
+      title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
+      details: {
+        description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - คบื่นวิทยุ Flex 102.5`,
+        link: '',
+        location: '',
+        time: '14:00',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-08-13',
+      title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
+      details: {
+        description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - คลื่นวิทยุ Mellow Song About 97.5`,
+        link: '',
+        location: '',
+        time: '19:45',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
       date: '2020-08-01',
       title: `[Cancel] BNK48 8th Single 'High Tension' Handshake`,
       details: {
