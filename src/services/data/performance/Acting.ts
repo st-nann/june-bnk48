@@ -9,6 +9,13 @@ module.exports = {
       type: 'youtube'
     },
     {
+      name: 'ใครๆ ก็โกง | ละคร ฉลาดเกมส์โกง',
+      description: 'GDH559',
+      time: '01:32',
+      link: 'https://youtu.be/ZffUSXU7mdc',
+      type: 'youtube'
+    },
+    {
       name: 'ฉลาดเกมส์โกง GAME ON!',
       description: 'GDH559',
       time: '01:45',
@@ -29,6 +36,13 @@ module.exports = {
       time: '01:30',
       link:
         'https://youtu.be/avrbbGYT6nc?list=PLNlD9uchdYWCj8ykRSj82oOUsOG-ybh6e',
+      type: 'youtube'
+    },
+    {
+      name: 'โกงรักไม่ได้ - เจ้านาย OST. ละครฉลาดเกมส์โกง [Official MV]',
+      description: 'GDH559',
+      time: '04:17',
+      link: 'https://youtu.be/x9M72Tny8Cg',
       type: 'youtube'
     },
     {
