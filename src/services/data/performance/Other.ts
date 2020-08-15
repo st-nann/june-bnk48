@@ -271,6 +271,41 @@ module.exports = {
       type: 'youtube'
     },
     {
+      name: 'แฉประสบการณ์โกงของผู้กำกับและนักแสดง จากละครกระแสแรง ‘ฉลาดเกมส์โกง’',
+      description: 'Promote ฉลาดเกมส์โกง',
+      time: '00:12:19',
+      link: 'https://youtu.be/tM7A1i6OwmY',
+      type: 'youtube'
+    },
+    {
+      name: 'นี่คือที่สุดความวุ่นวายของวัยว้าวุ่น สนุกมากกกกก #ฉลาดเกมส์โกง (Song About EP.72)',
+      description: 'Promote ฉลาดเกมส์โกง',
+      time: '01:26:17',
+      link: 'https://youtu.be/YJAYSeAq4KI',
+      type: 'youtube'
+    },
+    {
+      name: '[LIVE] FLEX TALK with ฉลาดเกมส์โกง Bad Genius',
+      description: 'Promote ฉลาดเกมส์โกง',
+      time: '00:52:50',
+      link: 'https://youtu.be/ZXDx_gV7YYc',
+      type: 'youtube'
+    },
+    {
+      name: 'จับโกงยกแก๊งกับทีมนักแสดง Bad Genius The Series : L\'OFFICIEL UNDERGROUND EP.57',
+      description: 'Promote ฉลาดเกมส์โกง',
+      time: '00:14:06',
+      link: 'https://youtu.be/g9-zj4oWdC4',
+      type: 'youtube'
+    },
+    {
+      name: 'เปิดใจแก๊งคนโกงจากละครฉลาดเกมส์โกง | MThai\'s Chill Talk EP.06',
+      description: 'Promote ฉลาดเกมส์โกง',
+      time: '00:19:20',
+      link: 'https://youtu.be/mLvAOp_skis',
+      type: 'youtube'
+    },
+    {
       name: 'The Driver EP.92 - เจ้านาย + จูเน่',
       description: '30 Jul 2020 - ฉลาดเกมส์โกง',
       time: '00:15:37',
