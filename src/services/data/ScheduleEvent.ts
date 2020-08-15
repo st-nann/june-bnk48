@@ -3560,7 +3560,7 @@ module.exports = {
       date: '2020-08-13',
       title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
       details: {
-        description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - คลื่นวิทยุ Hitz 95.5`,
+        description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - คลื่นวิทยุ Hitz 955`,
         link: '',
         location: '',
         time: '13:30',
@@ -3574,7 +3574,7 @@ module.exports = {
       title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
       details: {
         description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - คบื่นวิทยุ Flex 102.5`,
-        link: '',
+        link: 'https://youtu.be/ZXDx_gV7YYc',
         location: '',
         time: '14:00',
         icon: 'charity',
@@ -3587,9 +3587,22 @@ module.exports = {
       title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
       details: {
         description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - คลื่นวิทยุ Mellow Song About 97.5`,
-        link: '',
+        link: 'https://youtu.be/YJAYSeAq4KI',
         location: '',
         time: '19:45',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-08-23',
+      title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
+      details: {
+        description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - Talk About (Live)`,
+        link: '',
+        location: '',
+        time: '19:00',
         icon: 'charity',
         color: 'purple'
       },
