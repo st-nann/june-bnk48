@@ -257,6 +257,13 @@ module.exports = {
       type: 'youtube'
     },
     {
+      name: 'Sanook Call From Nowhere EP.113 - เจ้านาย-จูเน่-ไอซ์-นาน่า',
+      description: 'Promote ฉลาดเกมส์โกง',
+      time: '00:34:39',
+      link: 'https://youtu.be/WLNgLywZFPk',
+      type: 'youtube'
+    },
+    {
       name: 'ใครพลาดรอบรีรันมาดูกันได้ที่นี่ #VogueInConversationwithBadGeniusTheSeries',
       description: 'Promote ฉลาดเกมส์โกง',
       time: '00:24:44',
