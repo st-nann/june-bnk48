@@ -207,6 +207,13 @@ module.exports = {
       type: 'facebook'
     },
     {
+      name: 'ไปหาเจ้าความรัก ในงานขายเสื้อผ้า "ล้นล้น"',
+      description: 'บ้านกูเอง',
+      time: '18:21',
+      link: 'https://youtu.be/AI1caJTThSY',
+      type: 'youtube'
+    },
+    {
       name: 'คุยแซ่บShow:“เจ้านาย / จูเน่ / นาน่า” 3 นักแสดงจาก ละครสุดโกงแห่งปี “ฉลาดเกมส์โกง”',
       description: 'คุยแซ่บShow',
       time: '00:06:55',
