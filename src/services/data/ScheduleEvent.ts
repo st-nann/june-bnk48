@@ -3596,6 +3596,19 @@ module.exports = {
       open: false
     },
     {
+      date: '2020-08-18',
+      title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
+      details: {
+        description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - Sanook (Call from nowhere)`,
+        link: 'https://youtu.be/WLNgLywZFPk',
+        location: '',
+        time: '13:30',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
       date: '2020-08-23',
       title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
       details: {
