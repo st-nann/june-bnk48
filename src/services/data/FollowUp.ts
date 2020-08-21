@@ -69,6 +69,13 @@ module.exports = {
           name: 'june.bnk48office',
           route: 'https://www.instagram.com/june.bnk48office/'
         }
+      },
+      {
+        name: 'Instagram',
+        link: {
+          name: 'juneiperb0i',
+          route: 'https://www.instagram.com/juneiperb0i/'
+        }
       }
     ],
     hashtag: [
