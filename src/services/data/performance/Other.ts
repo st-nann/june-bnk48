@@ -207,6 +207,15 @@ module.exports = {
       type: 'facebook'
     },
     {
+      name: 'Talk About Live',
+      description:
+        'เข้มข้นถึงกลโกง ครบทุกอารมณ์ !!! พี่อ้อยพี่ฉอด Talk About Live เปิดสนามสอบ กับแก๊งฉลาดเกมส์โกงแบบจัดเต็ม นักเรียนคนไหนโกงที่สุด แสบที่สุด รู้เลยตอนนี้',
+      time: '00:52:39',
+      link:
+        'https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fchange2561%2Fvideos%2F311538076845335%2F',
+      type: 'facebook'
+    },
+    {
       name: 'เจ้านาย ไอซ์ นาน่า จูเน่ เคมีดีสมกับเป็นแก๊งฉลาดเกมส์โกง',
       description: 'สุดสัปดาห์',
       time: '02:22',
@@ -218,6 +227,13 @@ module.exports = {
       description: 'a day magazine',
       time: '05:22',
       link: 'https://youtu.be/LOZHltBee4A',
+      type: 'youtube'
+    },
+    {
+      name: 'Small Talk: ฉลาดเกมส์โกง the Series',
+      description: 'a day bulletin',
+      time: '27:22',
+      link: 'https://youtu.be/7jpFaDLINF0',
       type: 'youtube'
     },
     {
