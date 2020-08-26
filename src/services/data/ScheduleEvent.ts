@@ -3613,7 +3613,7 @@ module.exports = {
       title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
       details: {
         description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - Talk About (Live)`,
-        link: '',
+        link: 'https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fchange2561%2Fvideos%2F311538076845335%2F',
         location: '',
         time: '19:00',
         icon: 'charity',
@@ -3622,12 +3622,64 @@ module.exports = {
       open: false
     },
     {
-      date: '2020-08-01',
-      title: `[Cancel] BNK48 8th Single 'High Tension' Handshake`,
+      date: '2020-08-26',
+      title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
+      details: {
+        description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - เอกกี้ ซอย 31 ช่อง One31`,
+        link: '',
+        location: '',
+        time: '23:30',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-08-28',
+      title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
+      details: {
+        description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - เกลือวันเด้อ ช่อง One31`,
+        link: '',
+        location: '',
+        time: '21:30',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-09-02',
+      title: `BNK48 8th Single 'High Tension' Mini Handshake`,
       details: {
         description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
         link: '',
-        location: 'Union Hall ศูนย์การค้า Union Mall',
+        location: 'MBK Center 7th Floor',
+        time: '16:00',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-09-12',
+      title: `BNK48 8th Single 'High Tension' Mini Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
+        link: '',
+        location: 'MBK Center 7th Floor',
+        time: '16:00',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-10-03',
+      title: `BNK48 8th Single 'High Tension' Handshake`,
+      details: {
+        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
+        link: '',
+        location: 'Union Hall ศูนย์การค้า Union Mall 6th Floor',
         time: 'all day',
         icon: 'charity',
         color: 'purple'
@@ -3635,38 +3687,12 @@ module.exports = {
       open: false
     },
     {
-      date: '2020-08-02',
-      title: `[Cancel] BNK48 8th Single 'High Tension' Handshake`,
+      date: '2020-10-04',
+      title: `BNK48 8th Single 'High Tension' Handshake`,
       details: {
         description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
         link: '',
-        location: 'Union Hall ศูนย์การค้า Union Mall',
-        time: 'all day',
-        icon: 'charity',
-        color: 'purple'
-      },
-      open: false
-    },
-    {
-      date: '2020-09-05',
-      title: `[Cancel] BNK48 8th Single 'High Tension' Handshake`,
-      details: {
-        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
-        link: '',
-        location: 'Union Hall ศูนย์การค้า Union Mall',
-        time: 'all day',
-        icon: 'charity',
-        color: 'purple'
-      },
-      open: false
-    },
-    {
-      date: '2020-09-06',
-      title: `[Calcel] BNK48 8th Single 'High Tension' Handshake`,
-      details: {
-        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
-        link: '',
-        location: 'Union Hall ศูนย์การค้า Union Mall',
+        location: 'Union Hall ศูนย์การค้า Union Mall 6th Floor',
         time: 'all day',
         icon: 'charity',
         color: 'purple'
