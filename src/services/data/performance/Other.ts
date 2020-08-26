@@ -207,6 +207,20 @@ module.exports = {
       type: 'facebook'
     },
     {
+      name: 'เจ้านาย ไอซ์ นาน่า จูเน่ เคมีดีสมกับเป็นแก๊งฉลาดเกมส์โกง',
+      description: 'สุดสัปดาห์',
+      time: '02:22',
+      link: 'https://youtu.be/elzxxYtbZ64',
+      type: 'youtube'
+    },
+    {
+      name: 'ก้าวใหม่ในบทบาทนักแสดงของ จูเน่–เพลินพิชญา โกมลารชุน',
+      description: 'a day magazine',
+      time: '05:22',
+      link: 'https://youtu.be/LOZHltBee4A',
+      type: 'youtube'
+    },
+    {
       name: 'ไปหาเจ้าความรัก ในงานขายเสื้อผ้า "ล้นล้น"',
       description: 'บ้านกูเอง',
       time: '18:21',
