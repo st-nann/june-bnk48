@@ -1,6 +1,13 @@
 module.exports = {
   official: [
     {
+      name: '【Behind The Scene - Part 1】Heavy Rotation / BNK48',
+      description: '【Behind The Scene - Part 1】Heavy Rotation / BNK48',
+      time: '00:10:08',
+      link: 'https://youtu.be/N9kIc1iLZT8',
+      type: 'youtube'
+    },
+    {
       name: '[Live] งานเปิดตัว single 9th BNK48: Heavy Rotaion (Wonderland หมุนวนไป ให้หัวใจเตลิด)',
       description:
         '[Live] งานเปิดตัว single 9th BNK48: Heavy Rotaion (Wonderland หมุนวนไป ให้หัวใจเตลิด)',
