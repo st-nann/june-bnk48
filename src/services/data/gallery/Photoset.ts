@@ -99,13 +99,6 @@ module.exports = {
       }
     },
     {
-      name: '[General Election] - Photobook',
-      image: {
-        name: 'gallery%2Fphotoset%2Fgeneral%20election%20(photobook)',
-        token: '1748a614-a74d-4dd8-a8bf-8a200309ee87'
-      }
-    },
-    {
       name: '[General Election] - Cover',
       image: {
         name: 'gallery%2Fphotoset%2Fgeneral%20election%20(cover)',
@@ -131,6 +124,13 @@ module.exports = {
       image: {
         name: 'gallery%2Fphotoset%2Fgeneral%20election%20(full)',
         token: 'c6d3aa9e-882b-4860-a41d-d9bbd95e98c2'
+      }
+    },
+    {
+      name: '[General Election] - Photobook',
+      image: {
+        name: 'gallery%2Fphotoset%2Fgeneral%20election%20(photobook)',
+        token: '1748a614-a74d-4dd8-a8bf-8a200309ee87'
       }
     },
     {
