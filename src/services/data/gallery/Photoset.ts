@@ -377,6 +377,13 @@ module.exports = {
         name: 'gallery%2Fphotoset%2Fgeneral%20election%20II%20(full)',
         token: 'c828363f-1d96-4066-b23d-54dce6ce360f'
       }
+    },
+    {
+      name: '[General Election 2] - Photobook',
+      image: {
+        name: 'gallery%2Fphotoset%2Fgeneral%20election%202%20(photobook)',
+        token: 'd3626a6e-6edb-4b7d-a4d3-b1c4ed6b0839'
+      }
     }
   ]
 }
