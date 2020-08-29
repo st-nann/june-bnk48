@@ -3626,7 +3626,7 @@ module.exports = {
       title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
       details: {
         description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - เอกกี้ ซอย 31 ช่อง One31`,
-        link: '',
+        link: 'https://youtu.be/Z7vxqsqX80w',
         location: '',
         time: '23:30',
         icon: 'charity',
