@@ -207,6 +207,13 @@ module.exports = {
       type: 'facebook'
     },
     {
+      name: 'เอกกี้ ซอย31 | EP.111 (FULL EP) | 26 ส.ค.63 | one31',
+      description: 'เอกกี้ ซอย31 | EP.111 (FULL EP) | 26 ส.ค.63 | one31',
+      time: '00:43:45',
+      link: 'https://youtu.be/Z7vxqsqX80w',
+      type: 'youtube'
+    },
+    {
       name: 'Talk About Live',
       description:
         'เข้มข้นถึงกลโกง ครบทุกอารมณ์ !!! พี่อ้อยพี่ฉอด Talk About Live เปิดสนามสอบ กับแก๊งฉลาดเกมส์โกงแบบจัดเต็ม นักเรียนคนไหนโกงที่สุด แสบที่สุด รู้เลยตอนนี้',
