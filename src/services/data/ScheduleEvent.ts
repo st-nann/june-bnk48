@@ -3639,9 +3639,22 @@ module.exports = {
       title: `[Promote] ละคร ฉลาดเกมส์โกง (series)`,
       details: {
         description: `[Promote] ละคร ฉลาดเกมส์โกง (series) - เกลือวันเด้อ ช่อง One31`,
-        link: '',
+        link: 'https://youtu.be/KcXFoHgjcko',
         location: '',
         time: '21:30',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
+    },
+    {
+      date: '2020-08-31',
+      title: `[Live] ละคร ฉลาดเกมส์โกง (series)`,
+      details: {
+        description: `วางแผนโกง ก่อนดู 4 ตอนใหม่ กับเรื่องราวที่ไม่มีใครเคยรู้ !! พบ ‘เจ้านาย - จูเน่ - ไอซ์ - นาน่า - ผกก.พัฒน์’`,
+        link: '',
+        location: 'Facebook, YouTube, TikTok, Instagram : GDH และ VLIVE : Nadao Boy & Nadao Girl',
+        time: '19:45',
         icon: 'charity',
         color: 'purple'
       },
