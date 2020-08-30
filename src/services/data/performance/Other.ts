@@ -207,6 +207,13 @@ module.exports = {
       type: 'facebook'
     },
     {
+      name: 'เกลือ วัน เด้อ | EP.23 (FULL EP) | 28 ส.ค. 63 | one31',
+      description: 'เกลือ วัน เด้อ | EP.23 (FULL EP) | 28 ส.ค. 63 | one31',
+      time: '00:01:08',
+      link: 'https://youtu.be/KcXFoHgjcko',
+      type: 'youtube'
+    },
+    {
       name: 'เอกกี้ ซอย31 | EP.111 (FULL EP) | 26 ส.ค.63 | one31',
       description: 'เอกกี้ ซอย31 | EP.111 (FULL EP) | 26 ส.ค.63 | one31',
       time: '00:43:45',
