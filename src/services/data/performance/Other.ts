@@ -207,6 +207,13 @@ module.exports = {
       type: 'facebook'
     },
     {
+      name: '[LIVE] วางแผนโกง ก่อนดู 4 ตอนใหม่ กับเรื่องราวที่ไม่มีใครเคยรู้ !!',
+      description: '31 Aug 2020 - ฉลา่ดเกมส์โกง',
+      time: '00:27:33',
+      link: 'https://www.facebook.com/gdh559/videos/358213358679952/',
+      type: 'facebook'
+    },
+    {
       name: 'เกลือ วัน เด้อ | EP.23 (FULL EP) | 28 ส.ค. 63 | one31',
       description: 'เกลือ วัน เด้อ | EP.23 (FULL EP) | 28 ส.ค. 63 | one31',
       time: '00:01:08',
