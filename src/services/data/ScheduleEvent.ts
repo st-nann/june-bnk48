@@ -3652,7 +3652,7 @@ module.exports = {
       title: `[Live] ละคร ฉลาดเกมส์โกง (series)`,
       details: {
         description: `วางแผนโกง ก่อนดู 4 ตอนใหม่ กับเรื่องราวที่ไม่มีใครเคยรู้ !! พบ ‘เจ้านาย - จูเน่ - ไอซ์ - นาน่า - ผกก.พัฒน์’`,
-        link: '',
+        link: 'https://www.facebook.com/gdh559/videos/358213358679952/',
         location: 'Facebook, YouTube, TikTok, Instagram : GDH และ VLIVE : Nadao Boy & Nadao Girl',
         time: '19:45',
         icon: 'charity',
@@ -3668,45 +3668,6 @@ module.exports = {
         link: '',
         location: 'MBK Center 7th Floor',
         time: '16:00',
-        icon: 'charity',
-        color: 'purple'
-      },
-      open: false
-    },
-    {
-      date: '2020-09-12',
-      title: `BNK48 8th Single 'High Tension' Mini Handshake`,
-      details: {
-        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
-        link: '',
-        location: 'MBK Center 7th Floor',
-        time: '16:00',
-        icon: 'charity',
-        color: 'purple'
-      },
-      open: false
-    },
-    {
-      date: '2020-10-03',
-      title: `BNK48 8th Single 'High Tension' Handshake`,
-      details: {
-        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
-        link: '',
-        location: 'Union Hall ศูนย์การค้า Union Mall 6th Floor',
-        time: 'all day',
-        icon: 'charity',
-        color: 'purple'
-      },
-      open: false
-    },
-    {
-      date: '2020-10-04',
-      title: `BNK48 8th Single 'High Tension' Handshake`,
-      details: {
-        description: `[Handshake] งานจับมือ 8th Single 'High Tension'`,
-        link: '',
-        location: 'Union Hall ศูนย์การค้า Union Mall 6th Floor',
-        time: 'all day',
         icon: 'charity',
         color: 'purple'
       },
