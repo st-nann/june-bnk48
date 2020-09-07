@@ -207,6 +207,13 @@ module.exports = {
       type: 'facebook'
     },
     {
+      name: 'ทดสอบแก๊งคนโกงจากละครฉลาดเกมส์โกง (100 Seconds Test) | MThai\'s Chill Talk Special',
+      description: 'MThai',
+      time: '00:01:47',
+      link: 'https://youtu.be/q8o_7fNa4aM',
+      type: 'youtube'
+    },
+    {
       name: '[LIVE] วางแผนโกง ก่อนดู 4 ตอนใหม่ กับเรื่องราวที่ไม่มีใครเคยรู้ !!',
       description: '31 Aug 2020 - ฉลา่ดเกมส์โกง',
       time: '00:27:33',
