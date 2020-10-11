@@ -1,6 +1,13 @@
 module.exports = {
   music_video: [
     {
+      name: 'เดลิเวอรี่ - LABANOON「Official MV」',
+      description: '1 Oct 2020',
+      time: '05:02',
+      link: 'https://youtu.be/H-EbtsbtLvY',
+      type: 'youtube'
+    },
+    {
       name: 'FOLLOW ME OST. ละครฉลาดเกมส์โกง [OFFICIAL MUSIC VIDEO]',
       description: '25 Jul 2020',
       time: '02:52',
