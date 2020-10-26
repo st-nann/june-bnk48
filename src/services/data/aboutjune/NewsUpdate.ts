@@ -8,58 +8,76 @@ module.exports = {
   announcements: [
     {
       image: {
-        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement54',
-        token: 'dec29f5e-4995-44cb-b6ce-b7ca75e2b02d'
+        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement63',
+        token: 'a72dbca8-79a1-467d-b6de-6b0d98b5d880'
       }
     },
     {
       image: {
-        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement55',
-        token: '40a72e2f-1f5a-4322-b7a1-2f66fb2a577e'
+        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement64',
+        token: 'b15f8bee-b113-4d72-b16d-c362a40842d7'
       }
     },
     {
       image: {
-        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement56',
-        token: '8ef50ebc-71d0-4eac-adf2-6e3f4d2b4120'
+        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement65',
+        token: '2453ff35-ff17-4e33-aee9-6ab7ba15c51c'
       }
     },
-    {
-      image: {
-        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement57',
-        token: 'ed4ddd59-2422-4abb-8df3-31b04e3136b0'
-      }
-    },
-    {
-      image: {
-        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement58',
-        token: '61c6ca5c-1889-45aa-ab62-1115e7fc2cbd'
-      }
-    },
-    {
-      image: {
-        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement59',
-        token: '46d209e4-48ba-413d-97d7-9f9b83695c7a'
-      }
-    },
-    {
-      image: {
-        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement60',
-        token: 'ad4a7f3d-79f8-44ef-b8da-2612d93a136f'
-      }
-    },
-    {
-      image: {
-        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement61',
-        token: '51c9c572-d688-4eb0-8e4d-8247e33cbe34'
-      }
-    },
-    {
-      image: {
-        name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement62',
-        token: '4cf46951-3553-4602-9e56-1ed261cb1f8a'
-      }
-    }
+//     {
+//       image: {
+//         name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement54',
+//         token: 'dec29f5e-4995-44cb-b6ce-b7ca75e2b02d'
+//       }
+//     },
+//     {
+//       image: {
+//         name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement55',
+//         token: '40a72e2f-1f5a-4322-b7a1-2f66fb2a577e'
+//       }
+//     },
+//     {
+//       image: {
+//         name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement56',
+//         token: '8ef50ebc-71d0-4eac-adf2-6e3f4d2b4120'
+//       }
+//     },
+//     {
+//       image: {
+//         name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement57',
+//         token: 'ed4ddd59-2422-4abb-8df3-31b04e3136b0'
+//       }
+//     },
+//     {
+//       image: {
+//         name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement58',
+//         token: '61c6ca5c-1889-45aa-ab62-1115e7fc2cbd'
+//       }
+//     },
+//     {
+//       image: {
+//         name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement59',
+//         token: '46d209e4-48ba-413d-97d7-9f9b83695c7a'
+//       }
+//     },
+//     {
+//       image: {
+//         name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement60',
+//         token: 'ad4a7f3d-79f8-44ef-b8da-2612d93a136f'
+//       }
+//     },
+//     {
+//       image: {
+//         name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement61',
+//         token: '51c9c572-d688-4eb0-8e4d-8247e33cbe34'
+//       }
+//     },
+//     {
+//       image: {
+//         name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement62',
+//         token: '4cf46951-3553-4602-9e56-1ed261cb1f8a'
+//       }
+//     }
 //     {
 //       image: {
 //         name: 'profile%2Fnew%20feed%2Fannouncement%20(event)%2Fannoucement54',
