@@ -3672,6 +3672,19 @@ module.exports = {
         color: 'purple'
       },
       open: false
+    },
+    {
+      date: '2020-10-25',
+      title: `งานประกาศรางวัล 2020 Asia Contents Awards (2nd Asia Contents Awards)`,
+      details: {
+        description: `งานโปรดักชั่นจากประเทศต่าง ๆ ทั่วเอเชีย`,
+        link: 'https://youtu.be/K1z0Fy9oILI',
+        location: 'Online',
+        time: '14:00',
+        icon: 'charity',
+        color: 'purple'
+      },
+      open: false
     }
   ]
 }
