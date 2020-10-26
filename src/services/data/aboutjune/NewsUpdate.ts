@@ -405,7 +405,8 @@ module.exports = {
   ],
   newsupdate: {
     // video: 'https://youtu.be/Jx14q7mILH8',
-    video: 'https://youtu.be/FWcjPU1Sdrw',
+    // video: 'https://youtu.be/FWcjPU1Sdrw',
+    video: 'https://youtu.be/K1z0Fy9oILI',
     event: {
       title: {
         image: {
