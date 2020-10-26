@@ -207,6 +207,13 @@ module.exports = {
       type: 'facebook'
     },
     {
+      name: '[TH-SUB] 201025 2nd Asia Contents Awards - "Newcomer Actress" Juné Plearnpichaya Komalarajun',
+      description: '25 Oct 2020',
+      time: '01:28',
+      link: 'https://youtu.be/K1z0Fy9oILI',
+      type: 'youtube'
+    },
+    {
       name: 'ทดสอบแก๊งคนโกงจากละครฉลาดเกมส์โกง (100 Seconds Test) | MThai\'s Chill Talk Special',
       description: 'MThai',
       time: '00:01:47',
