@@ -384,6 +384,48 @@ module.exports = {
         name: 'gallery%2Fphotoset%2Fgeneral%20election%202%20(photobook)',
         token: 'd3626a6e-6edb-4b7d-a4d3-b1c4ed6b0839'
       }
+    },
+    {
+      name: '[Single 9] - Heavy Rotation (Cover I)',
+      image: {
+        name: 'gallery%2Fphotoset%2Fheavy%20rotation%20(cover%20I)',
+        token: 'c1935c9b-d556-4d80-8ffb-5aa4180e8810'
+      }
+    },
+    {
+      name: '[Single 9] - Heavy Rotation (Cover II)',
+      image: {
+        name: 'gallery%2Fphotoset%2Fheavy%20rotation%20(cover%20II)',
+        token: '027c5cc2-c7de-49bd-b4de-ff5c3ed28e22'
+      }
+    },
+    {
+      name: '[Single 9] - Heavy Rotation (Cover III)',
+      image: {
+        name: 'gallery%2Fphotoset%2Fheavy%20rotation%20(cover%20III)',
+        token: 'a6ebcafc-3535-42fe-b272-2dfbd57940be'
+      }
+    },
+//     {
+//       name: '[Single 9] - Heavy Rotation (Closeup)',
+//       image: {
+//         name: '',
+//         token: ''
+//       }
+//     },
+//     {
+//       name: '[Single 9] - Heavy Rotation (Half)',
+//       image: {
+//         name: '',
+//         token: ''
+//       }
+//     },
+    {
+      name: '[Single 9] - Heavy Rotation (Full)',
+      image: {
+        name: 'gallery%2Fphotoset%2Fheavy%20rotation%20(full)',
+        token: '971dcde8-0756-4e00-ad3a-35746b2d740d'
+      }
     }
   ]
 }
