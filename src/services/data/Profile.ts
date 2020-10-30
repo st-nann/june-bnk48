@@ -46,7 +46,9 @@ module.exports = {
         line3: 'เล่นแบต เล่นบอล เล่นบาส แล้วก็เดินตลาด เนี่ยชีวิตจูเน่',
         line4:
           'เรื่องแต่งตัวขอให้ไว้ใจหนู เรียกเเต่งตัวขอให้ไว้ใจหนู นี่ใครนี่จูจู ชื่อของหนูคือ จูเน่'
-      }
+      },
+      debut_at: 'Tuesday 17 July 2018 (annouce at 29 April 2018)',
+      graduated_at: 'Thursday 11 June 2020'
     },
     image: {
       name: 'profile%2FProfile',
